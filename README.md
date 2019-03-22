@@ -13,7 +13,7 @@ See our [launch plan][1] for more info.
 
 ## Join our Mailing List
 
-https://lists.linuxfoundation.org/mailman/listinfo/value
+UNDER CONSTRUCTION
 
 ## Background
 
