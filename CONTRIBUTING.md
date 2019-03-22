@@ -4,7 +4,7 @@
 
 Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/>.
 
-**Every issue in this repository is seeking contribution**. Click on issues to find ways to contribute. See this [list of all issues](https://github.com/chaoss/wg-diversity-inclusion/issues).
+**Every issue in this repository is seeking contribution**. Click on issues to find ways to contribute. See this [list of all issues](https://github.com/chaoss/wg-value/issues).
 
 ### We need activists, enthusiasts, community input, and more… Anyone, with any skill set, can find a way to pitch in.
 
@@ -71,7 +71,7 @@ First time contributing to open source? Check out this Blog, [Best practices in 
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/CHAOSS/wg-diversity-inclusion/issues)
+Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/CHAOSS/wg-value/issues)
 
 ## Who is a CHAOSS repository maintainer?
 
