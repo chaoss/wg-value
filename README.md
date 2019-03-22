@@ -13,7 +13,7 @@ See our [launch plan][1] for more info.
 
 ## Join our Mailing List
 
-UNDER CONSTRUCTION
+This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
 
 ## Background
 
