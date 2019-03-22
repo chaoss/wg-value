@@ -58,14 +58,6 @@ significance and industry norms.
 
 We're just getting started!
 
-## Software Work
-
-TBD
-
-## How can you help?
-
-TBD
-
 ## Contributors
 
 **Maintainers**
@@ -104,9 +96,3 @@ maintainer. We started to maintain this list after starting the working group
 and are likely missing some of you. If you find yourself listed here and want
 to be removed, please create a pull request or ask a maintainer.
 
-## Related Works
-
-Collection of initiatives and related works that can inform our work or that we
-can collaborate with.
-
-* TBD
