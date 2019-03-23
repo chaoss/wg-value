@@ -85,6 +85,7 @@ Ordered by first name
 [Andy Leak](https://github.com/andyl),
 [Georg Link](https://github.com/georglink),
 [Matt Germonprez](https://github.com/germonprez),
+[Venu Tekula](https://github.com/vchrombie),
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
