@@ -28,7 +28,7 @@ Once you've identified one of the issues above that you feel you can contribute 
     
 ```
 
-2. **[Create a Branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)**If you already have the repo, please be sure that you have upstream merged into your master branch. And then create the branch. There is some [info](https://help.github.com/articles/syncing-a-fork) available at about syncing repositories.
+2. **[Create a Branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)**. If you already have the repo, please be sure that you have upstream merged into your master branch. And then create the branch. There is some [info](https://help.github.com/articles/syncing-a-fork) available at about syncing repositories.
 
 ```
 
@@ -40,14 +40,18 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 3. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes. If there are a bunch of commits and those are adding things, fixing a couple of typos, etc, please consider merging some of those into a smaller set of commits. This helps to review the whole process. More [info](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/).
 
+Make your change and commit the change (NOTE: with `-s` you sign-off on each commit, which is your [Developer Certificate of Origin](https://developercertificate.org/)):
+
 ```
 
     Example:
 
     git add <changed file>
-    git commit -m "<description of change>"
+    git commit -s -m "<description of change>"
 
 ```
+
+*If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s`. If you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
 If this step sounds a bit difficult, the maintainers of the repository can help with this process when merging the PR.
 
