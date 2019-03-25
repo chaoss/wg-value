@@ -94,6 +94,6 @@ on the mailing list if we've missed anyone.
 
 If you find yourself missing, please create a pull request or reach out to a
 maintainer. We started to maintain this list after starting the working group
-and are likely missing some of you. If you find yourself listed here and want
-to be removed, please create a pull request or ask a maintainer.
+and are likely missing some of you. If you find yourself listed here and would
+like to be removed, please create a pull request or ask a maintainer.
 
