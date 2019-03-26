@@ -15,6 +15,14 @@ See our [launch plan][1] for more info.
 
 This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
 
+## Join our Weekly Calls
+
+The VMG team meets every Friday from 9-10 Pacific Time.  All are welcome.
+
+The videoconference URL is https://unomaha.zoom.us/j/720431288.  
+
+You can also read our [meeting notes](https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit).
+
 ## Background
 
 ### Problem Statement
