@@ -36,7 +36,7 @@ projects, slowing decision making and product innovation.
 ### Opportunity
 
 We believe that value metrics can accelerate the adoption of open source
-methods within industry, providing more opportunities for developers to make a
+methods within the industry, providing more opportunities for developers to make a
 living wage in open source.
 
 ### Goal
@@ -48,14 +48,14 @@ Identify Stakeholders and Validate Interest
 - Identify market segments and stakeholders
 - Understand Who cares about Open Source Value (and why)
 - Specify and prioritize Key Performance Indicators
-- Calculate potential aggregate economic value
+- Calculate the potential aggregate economic value
 
 Grow hands-on community
 - CHAOSS Members: Consultants, researchers, grant writers
 - Project Stakeholders: Sponsors, maintainers, contributors, consumers
 
 Build reusable assets
-- Repeatable methodology for discovering value
+- Repeatable methodology for discovering the value
 - MVP Tooling with Development Roadmap
 
 In the long term, we’d like to publish trusted industry-standard Value Metrics.
@@ -79,8 +79,8 @@ We're just getting started!
 
 The criteria for becoming a core contributor is to participate at least once
 per month over a period of 3 months.  Participation could include providing
-feedback in the weekly D&I meetings, providing feedback on docs, or making
-other contributions on GitHub (commits / issues).  People not participating
+feedback in the weekly VMG meetings, providing feedback on docs, or making
+other contributions on GitHub (commits/issues).  People not participating
 over a 3 month period may be removed as core contributors.
 
 If you'd like to be on our squad, an easy way to start is by going through the
@@ -88,12 +88,12 @@ If you'd like to be on our squad, an easy way to start is by going through the
 
 **All Contributors**
 
-Ordered by first name
+Ordered by the first name
 
 [Andy Leak](https://github.com/andyl),
 [Georg Link](https://github.com/georglink),
 [Matt Germonprez](https://github.com/germonprez),
-[Venu Tekula](https://github.com/vchrombie),
+[Venu Vardhan Reddy Tekula](https://github.com/vchrombie),
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
