@@ -36,7 +36,7 @@ projects, slowing decision making and product innovation.
 ### Opportunity
 
 We believe that value metrics can accelerate the adoption of open source
-methods within the industry, providing more opportunities for developers to make a
+methods within industry, providing more opportunities for developers to make a
 living wage in open source.
 
 ### Goal
@@ -48,14 +48,14 @@ Identify Stakeholders and Validate Interest
 - Identify market segments and stakeholders
 - Understand Who cares about Open Source Value (and why)
 - Specify and prioritize Key Performance Indicators
-- Calculate the potential aggregate economic value
+- Calculate potential aggregate economic value
 
 Grow hands-on community
 - CHAOSS Members: Consultants, researchers, grant writers
 - Project Stakeholders: Sponsors, maintainers, contributors, consumers
 
 Build reusable assets
-- Repeatable methodology for discovering the value
+- Repeatable methodology for discovering value
 - MVP Tooling with Development Roadmap
 
 In the long term, we’d like to publish trusted industry-standard Value Metrics.
@@ -88,7 +88,7 @@ If you'd like to be on our squad, an easy way to start is by going through the
 
 **All Contributors**
 
-Ordered by the first name
+Ordered by first name
 
 [Andy Leak](https://github.com/andyl),
 [Georg Link](https://github.com/georglink),
