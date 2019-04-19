@@ -62,6 +62,16 @@ In the long term, we’d like to publish trusted industry-standard Value Metrics
 A kind of S&P for software development, an authoritative source for metrics
 significance and industry norms.  
 
+## Focus Areas
+
+| Focus Area | Goal |
+| --- | --- |
+| 1. Labor Investment | Estimating the labor investment in open source projects. |
+| 2. Innovation Value | Evaluating open source project development for comparing with in-house and outsourcing options. |
+| 3. Downstream Value | Estimate the value provided to other open source projects. |
+| 4. Ecosystem Value | Estimating the value of an open source project’s ecosystem. |
+| 5. [Living Wage](./focus-areas/living-wage) | Expanding opportunities for people to make a living wage in open source. |
+
 ### Work To Date
 
 We're just getting started!
@@ -105,4 +115,3 @@ If you find yourself missing, please create a pull request or reach out to a
 maintainer. We started to maintain this list after starting the working group
 and are likely missing some of you. If you find yourself listed here and would
 like to be removed, please create a pull request or ask a maintainer.
-
