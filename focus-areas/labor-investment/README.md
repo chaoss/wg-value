@@ -1,4 +1,4 @@
-## Living Wage
+## Labor Investment
 
 Goal: Estimate the labor investment in open source projects.
 
