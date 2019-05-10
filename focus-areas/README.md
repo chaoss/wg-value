@@ -2,7 +2,7 @@
 
 | Focus Area | Goal |
 | --- | --- |
-| 1. Labor Investment | Estimating the labor investment in open source projects. |
+| 1. [Labor Investment](./labor-investment) | Estimating the labor investment in open source projects. |
 | 2. Innovation Value | Evaluating open source project development for comparing with in-house and outsourcing options. |
 | 3. Downstream Value | Estimate the value provided to other open source projects. |
 | 4. Ecosystem Value | Estimating the value of an open source project’s ecosystem. |
