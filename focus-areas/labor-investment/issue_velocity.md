@@ -1,14 +1,12 @@
 # Issue Velocity
 
 ## 1. Description
-
-Gives an OSPO manager a way to compare the speed of closed issues across a 
-portfolio of projects. 
-
 Speed of closing issues is a proxy for 'innovation'.  The faster the issue
 turnover, the more innovation.
 
 ## 2. Use Cases
+Gives an Open Source Program Office (OSPO) manager a way to compare the speed of closed issues across a
+portfolio of projects.
 
 The OSPO manager can use the Issue Velocity metric to:
 - report issue velocity of contributed vs in-house work
@@ -37,7 +35,7 @@ TBD
 
 ## 6. Known Implementations
 
-1. Augur
+1. [Augur](https://github.com/chaoss/augur)
 
 ## 7. Test Cases (Examples)
 
@@ -45,7 +43,7 @@ TBD
 
 - Rails
 - ReactJS
-- SaltStack 
+- SaltStack
 - etc.
 
 ## 8. External References (Literature)
@@ -59,4 +57,3 @@ TBD
 [l2]: https://www.nearform.com/blog/want-a-high-performing-culture-make-way-for-open-innovation/
 
 [l3]: https://www.cio.com/article/3213146/open-source-is-powering-the-digital-enterprise.html
-

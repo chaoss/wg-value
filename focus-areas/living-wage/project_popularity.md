@@ -1,14 +1,11 @@
 # Project Popularity
 
 ## 1. Description
-
-In a quest to earn a living wage, workers will be interested in knowing which
-projects are growing and underserved.
+Open source project economic value is hard to measure due to a lack of available usage or sales information. Project Popularity may provide a proxy to explore a projects value or importance.  
 
 ## 2. Use Cases
-
-The worker can use the Project Popularity metric to discover which repos 
-are growing.
+In a quest to earn a living wage, workers may be interested in knowing which
+projects are growing and are underserved. The worker can use the Project Popularity metric to discover which repos are growing.
 
 ## 3. Formula
 
@@ -26,7 +23,7 @@ TBD
 
 ## 6. Known Implementations
 
-1. Augur
+1. [Augur](https://github.com/chaoss/augur)
 
 ## 7. Test Cases (Examples)
 
@@ -34,11 +31,11 @@ TBD
 
 - Rails
 - ReactJS
-- SaltStack 
+- SaltStack
 
 ## 8. External References (Literature)
 
-- [Popualr OpenSource Projects][l1]
+- [Popular OpenSource Projects][l1]
 - [Is It Maintained?][l2]
 - [Open Source Project Trends][l3]
 - [Kubernetes Salary][l4]
