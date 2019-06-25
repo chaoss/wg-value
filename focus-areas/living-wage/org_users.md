@@ -1,37 +1,25 @@
-# Org Sponsorship
+# Org Users
 
 ## 1. Description
 
 In a quest to earn a living wage, workers will be interested in knowing which
-projects enjoy corporate support.
+projects are used by large organizations.
 
 ## 2. Use Cases
 
-The worker can use the Org Sponsorship metric to discover which repos enjoy org
-sponsorship.
+The worker can use the Org Users metric to discover which repos are used by
+large organizataions, possibly requiring support services.
 
 ## 3. Formula
 
 Base metrics include:
-- number of issues
-- number of issues broken out by contributor types (internal / external)
-
-Parameters include:
-- hourly labor rate
-
-Computed metrics include:
-- cost per closed issue
-- total labor cost
-
+- number of issues created by org users
+- number of PRs created by org users
 
 ## 4. Sample Filter and Visualization
 
-Potential filters:
-- internal vs external contributors
-- project sources: internal, open-source, competitor repos
-
 We envision a time-series visualization that shows a line chart of monthly
-labor costs across a portfolio of repos.
+org participation across a portfolio of repos.
 
 ## 5. Sample Implementation
 

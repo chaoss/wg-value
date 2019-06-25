@@ -15,7 +15,7 @@ Goal: Expanding opportunities for people to make a living wage in open source.
 | Number of Forks            | How many numbers of forks does that project have?                                                                                                 |
 | Number of Sponsors         | How many organizations are official and unofficial sponsors of a project?                                                                         |
 
-[l1]: https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/org_sponsorship.md
+[l1]: https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/org_users.md
 [l2]: https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/project_popularity.md
 
 -- Composite metric of: Job Opportunities, Average Salary, Commercial Offerings, Popularity 
