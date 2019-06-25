@@ -1,4 +1,4 @@
-# Worker Project Popularity
+# Project Popularity
 
 ## 1. Description
 

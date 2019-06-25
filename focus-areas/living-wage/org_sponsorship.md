@@ -1,4 +1,4 @@
-# Worker Org Sponsorship
+# Org Sponsorship
 
 ## 1. Description
 

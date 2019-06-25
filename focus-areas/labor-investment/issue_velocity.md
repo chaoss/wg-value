@@ -1,4 +1,4 @@
-# OSPO Issue Velocity
+# Issue Velocity
 
 ## 1. Description
 
