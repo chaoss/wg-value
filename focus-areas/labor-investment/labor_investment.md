@@ -1,11 +1,10 @@
-# Labor Investment
+# Labor Investment by Organization
 
 ## 1. Description
-
-Gives an OSPO manager a way to compare contributed labor costs across a
-portfolio of projects. 
+Open source projects are often supported by organizations through labor investment. This metric tracks the monetary investment of organizations (as evident in labor costs) to individual projects.
 
 ## 2. Use Cases
+This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects.  
 
 The OSPO manager can use the Labor Cost metric to:
 - report labor costs of contributed vs in-house work
@@ -40,7 +39,7 @@ TBD
 
 ## 6. Known Implementations
 
-1. Augur
+1. [Augur](https://github.com/chaoss/augur)
 
 ## 7. Test Cases (Examples)
 
@@ -48,7 +47,7 @@ TBD
 
 - Rails
 - ReactJS
-- SaltStack 
+- SaltStack
 
 ## 8. External References (Literature)
 
@@ -61,4 +60,3 @@ TBD
 [l2]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi2rrDw_4LjAhWIsJ4KHRQVDokQFjACegQIAhAC&url=https%3A%2F%2Fevents.linuxfoundation.org%2Fwp-content%2Fuploads%2F2018%2F07%2FOSLS_2019-untold-story-of-OSPO.pdf&usg=AOvVaw3GHD5CghRseSw3LN6qFHWV
 
 [l3]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwi2rrDw_4LjAhWIsJ4KHRQVDokQFjADegQIAxAC&url=https%3A%2F%2Fd1.awsstatic.com%2FOpen%2520Source%2Fenterprise-oss-book.pdf&usg=AOvVaw3S67m4n5tSngHYlnqjBp2B
-

@@ -1,14 +1,11 @@
-# Org Users
+# Organizational Users
 
 ## 1. Description
-
-In a quest to earn a living wage, workers will be interested in knowing which
-projects are used by large organizations.
+Organizations engage in open source projects through use and contributions. This metric is a list of the organizations that use and contribute to an open source project.
 
 ## 2. Use Cases
-
-The worker can use the Org Users metric to discover which repos are used by
-large organizataions, possibly requiring support services.
+In a quest to earn a living wage, workers may be interested in knowing which
+projects are used by large organizations. The worker can use the Organizational Users metric to discover which repos are used by large organizations, possibly requiring support services.
 
 ## 3. Formula
 
@@ -35,7 +32,7 @@ TBD
 
 - Rails
 - ReactJS
-- SaltStack 
+- SaltStack
 
 ## 8. External References (Literature)
 
@@ -48,4 +45,3 @@ TBD
 [l2]: https://opensource.com/article/19/1/fiscal-sponsors-open-source
 
 [l3]: https://www.networkworld.com/article/2867020/big-names-like-google-dominate-open-source-funding.html
-
