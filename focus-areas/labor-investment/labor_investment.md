@@ -41,7 +41,12 @@ Potential filters:
 
 ## 5. Sample Implementation
 
-INCLUDE VISUAL OF CSV OR EXCEL
+![csv](_csv.png)
+
+Our first implementation of parameterized metrics will rely on CSV exports.  We
+will use spreadsheet for metric parameters and calculation formulas.  Future
+implementations may add features for parameter manipulation directly in the
+webapp.
 
 ## 6. Known Implementations
 
