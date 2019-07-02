@@ -46,7 +46,7 @@ Visualization:
 
 ## 5. Sample Implementation
 
-![cncf](_velocity.png)
+![cncf](Velocity.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 

@@ -41,7 +41,7 @@ Potential filters:
 
 ## 5. Sample Implementation
 
-![csv](_csv.png)
+![csv](Csv.png)
 
 Our first implementation of parameterized metrics will rely on CSV exports.  We
 will use spreadsheet for metric parameters and calculation formulas.  Future
