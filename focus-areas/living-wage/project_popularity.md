@@ -1,5 +1,7 @@
 # Project Popularity
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/26)
+
 ## 1. Description
 Open source project economic value is hard to measure due to a lack of available usage or sales information. Project Popularity may provide a proxy to explore a projects value or importance.  
 

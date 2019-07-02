@@ -1,5 +1,7 @@
 # Organizational Users
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/27)
+
 ## 1. Description
 Organizations engage in open source projects through use and contributions. This metric is a list of the organizations that use and contribute to an open source project.
 

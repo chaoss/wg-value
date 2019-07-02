@@ -1,9 +1,11 @@
 # Project Velocity
 
+[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/28)
+
 ## 1. Description
 
 Project velocity is the number of issues, the number of pull requests, volume
-of commits, and number of contributors as an indicator of 'innovation'. 
+of commits, and number of contributors as an indicator of 'innovation'.
 
 ## 2. Use Cases
 
@@ -35,7 +37,7 @@ Potential filters:
 
 - Internal vs external contributors
 - Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
-- Time 
+- Time
 
 Visualization:
 
@@ -46,7 +48,7 @@ Visualization:
 
 ## 5. Sample Implementation
 
-![cncf](Velocity.png)
+![cncf](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Velocity.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
