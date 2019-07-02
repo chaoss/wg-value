@@ -1,12 +1,18 @@
 # Labor Investment by Organization
 
 ## 1. Description
-Open source projects are often supported by organizations through labor investment. This metric tracks the monetary investment of organizations (as evident in labor costs) to individual projects.
+
+Open source projects are often supported by organizations through labor
+investment. This metric tracks the monetary investment of organizations (as
+evident in labor costs) to individual projects.
 
 ## 2. Use Cases
-This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects.  
+
+This metric gives an Open Source Program Office (OSPO) manager a way to compare
+contributed labor costs across a portfolio of projects.  
 
 The OSPO manager can use the Labor Cost metric to:
+
 - report labor costs of contributed vs in-house work
 - compare project effectiveness across a portfolio of projects
 - compare labor costs of open-source projects vs in-house efforts
@@ -14,28 +20,28 @@ The OSPO manager can use the Labor Cost metric to:
 ## 3. Formula
 
 Base metrics include:
+
 - number of issues
 - number of issues broken out by contributor types (internal / external)
 
 Parameters include:
-- hourly labor rate
 
-Computed metrics include:
-- cost per closed issue
-- total labor cost
+- hourly labor rate
+- average labor hours to close an issue
+
+Labor Investment = Number of Issues * Average labor hours to close an issue * Average hourly rate
 
 ## 4. Sample Filter and Visualization
 
 Potential filters:
-- internal vs external contributors
-- project sources: internal, open-source, competitor repos
 
-We envision a time-series visualization that shows a line chart of monthly
-labor costs across a portfolio of repos.
+- internal vs external contributors
+- issue tags
+- project sources (eg internal, open-source repos, competitor open-source repos)
 
 ## 5. Sample Implementation
 
-TBD
+INCLUDE VISUAL OF CSV OR EXCEL
 
 ## 6. Known Implementations
 
