@@ -5,7 +5,7 @@ Goal: Estimate the labor investment in open source projects.
 | Name                                              | Question                                                                                                                                   |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [Labor investment by organization][l1]            | What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)? |
-| [Issue velocity][l2]                              | What is the development speed for an organization?                                                                                         |
+| [Project velocity][l2]                            | What is the development speed for an organization?                                                                                         |
 | Commit count by organization                      | How many commits do employees of an organization create?                                                                                   |
 | Issue count by organization                       | How many issues do employees of an organization create?                                                                                    |
 | Pull request count by organization                | How many pull requests do employees of an organization create?                                                                             |
@@ -16,7 +16,7 @@ Goal: Estimate the labor investment in open source projects.
 | Labor investment by pull requests by organization | How much value in pull requests was contributed by an organization?                                                                        |
 
 [l1]: https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/labor_investment.md
-[l2]: https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/issue_velocity.md
+[l2]: https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/project_velocity.md
 
 Comments / Discussion:
 
