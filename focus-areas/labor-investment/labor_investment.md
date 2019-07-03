@@ -1,4 +1,6 @@
-# Labor Investment by Organization
+# Labor Investment
+
+[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/29)
 
 ## 1. Description
 
@@ -41,7 +43,7 @@ Potential filters:
 
 ## 5. Sample Implementation
 
-![csv](Csv.png)
+![csv](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Csv.png)
 
 Our first implementation of parameterized metrics will rely on CSV exports.  We
 will use spreadsheet for metric parameters and calculation formulas.  Future
