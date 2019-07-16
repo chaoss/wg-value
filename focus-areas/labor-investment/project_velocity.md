@@ -7,7 +7,7 @@
 Project velocity is the number of issues, the number of pull requests, volume
 of commits, and number of contributors as an indicator of 'innovation'.
 
-## 2. Use Cases
+## 2. Objectives
 
 Gives an Open Source Program Office (OSPO) manager a way to compare the project
 velocity across a portfolio of projects.
@@ -58,7 +58,7 @@ Visualization:
 2. CNCF - https://github.com/cncf/velocity
 3. Grimoire Lab
 
-## 7. Test Cases (Examples)
+## 7. Examples
 
 1. Available in the Augur test schema for multiple repositories:
 
@@ -67,7 +67,7 @@ Visualization:
 - SaltStack
 - etc.
 
-## 8. External References (Literature)
+## 8. Resources
 
 - [Can Open Source Innovation work in the Enterprise?][l1]
 - [Open Innovation for a High Performance Culture][l2]
