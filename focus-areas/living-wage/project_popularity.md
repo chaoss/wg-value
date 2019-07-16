@@ -5,7 +5,7 @@
 ## 1. Description
 Open source project economic value is hard to measure due to a lack of available usage or sales information. Project Popularity may provide a proxy to explore a projects value or importance.  
 
-## 2. Use Cases
+## 2. Objectives
 In a quest to earn a living wage, workers may be interested in knowing which
 projects are growing and are underserved. The worker can use the Project Popularity metric to discover which repos are growing.
 
@@ -27,7 +27,7 @@ TBD
 
 1. [Augur](https://github.com/chaoss/augur)
 
-## 7. Test Cases (Examples)
+## 7. Examples
 
 1. Available in the Augur test schema for multiple repositories:
 
@@ -35,7 +35,7 @@ TBD
 - ReactJS
 - SaltStack
 
-## 8. External References (Literature)
+## 8. Resources
 
 - [Popular OpenSource Projects][l1]
 - [Is It Maintained?][l2]
