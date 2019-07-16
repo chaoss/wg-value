@@ -8,7 +8,7 @@ Open source projects are often supported by organizations through labor
 investment. This metric tracks the monetary investment of organizations (as
 evident in labor costs) to individual projects.
 
-## 2. Use Cases
+## 2. Objectives
 
 This metric gives an Open Source Program Office (OSPO) manager a way to compare
 contributed labor costs across a portfolio of projects.  
@@ -54,7 +54,7 @@ webapp.
 
 1. [Augur](https://github.com/chaoss/augur)
 
-## 7. Test Cases (Examples)
+## 7. Examples
 
 1. Available in the Augur test schema for multiple repositories:
 
@@ -62,7 +62,7 @@ webapp.
 - ReactJS
 - SaltStack
 
-## 8. External References (Literature)
+## 8. Resources
 
 - [Starting an Open Source Program Office][l1]
 - [Creating an Open Source Program Office][l2]
