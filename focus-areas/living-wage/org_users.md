@@ -5,7 +5,7 @@
 ## 1. Description
 Organizations engage in open source projects through use and contributions. This metric is a list of the organizations that use and contribute to an open source project.
 
-## 2. Use Cases
+## 2. Objectives
 In a quest to earn a living wage, workers may be interested in knowing which
 projects are used by large organizations. The worker can use the Organizational Users metric to discover which repos are used by large organizations, possibly requiring support services.
 
@@ -28,7 +28,7 @@ TBD
 
 1. Augur
 
-## 7. Test Cases (Examples)
+## 7. Examples
 
 1. Available in the Augur test schema for multiple repositories:
 
@@ -36,7 +36,7 @@ TBD
 - ReactJS
 - SaltStack
 
-## 8. External References (Literature)
+## 8. Resources
 
 - [Open Source Sponsors][l1]
 - [Fiscal Sponsors and Open Source][l2]
