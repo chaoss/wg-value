@@ -18,8 +18,6 @@ Goal: Expanding opportunities for people to make a living wage in open source.
 [l1]: https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/org_users.md
 [l2]: https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/project_popularity.md
 
--- Composite metric of: Job Opportunities, Average Salary, Commercial Offerings, Popularity 
-
-**Comments / Discussion:**
+Comments / Discussion:
 
 *   Commercial Offerings[ and Organizational Users are  similar but distinct
