@@ -46,7 +46,7 @@ Visualization:
 - Dot-size: Committers
 - Dots are projects
 
-## 5. Sample Implementation
+## 5. Reference Implementation
 
 ![cncf](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Velocity.png)
 
@@ -59,13 +59,6 @@ Visualization:
 3. Grimoire Lab
 
 ## 7. Examples
-
-1. Available in the Augur test schema for multiple repositories:
-
-- Rails
-- ReactJS
-- SaltStack
-- etc.
 
 ## 8. Resources
 
