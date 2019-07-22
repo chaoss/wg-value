@@ -39,14 +39,14 @@ Potential filters:
 
 - internal vs external contributors
 - issue tags
-- project sources (eg internal, open-source repos, competitor open-source repos)
+- project sources (e.g., internal, open-source repos, competitor open-source repos)
 
-## 5. Sample Implementation
+## 5. Reference Implementation
 
 ![csv](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Csv.png)
 
-Our first implementation of parameterized metrics will rely on CSV exports.  We
-will use spreadsheet for metric parameters and calculation formulas.  Future
+Our first reference implementation of parameterized metrics will rely on CSV exports from Augur.  
+We will use spreadsheet for metric parameters and calculation formulas.  Future
 implementations may add features for parameter manipulation directly in the
 webapp.
 
@@ -55,12 +55,6 @@ webapp.
 1. [Augur](https://github.com/chaoss/augur)
 
 ## 7. Examples
-
-1. Available in the Augur test schema for multiple repositories:
-
-- Rails
-- ReactJS
-- SaltStack
 
 ## 8. Resources
 
