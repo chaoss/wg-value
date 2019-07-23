@@ -36,23 +36,24 @@ dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
 Software metric, it provides a visual for a portion. 
 
-![paper image](_paper.png)
+![paper image](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_paper.png)
 
 Other visualizations could include Google search trends (React vs. Angular vs. Vue.js)
 
-![Google Trends](./google_trends.png)
+https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/
+![Google Trends](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_google_trends.png)
 
 ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their 
 
-![TechRadar](./_tech_radar.png)
+![TechRadar](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_tech_radar.png)
 
 Tech Radar allows you to drill down on projects to see how the assessment has changed over time.
 
-![Assessment](./_tech_react.png)
+![Assessment](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_tech_react.png)
 
 StackOverview publishes an annual developer's survey
 
-![StackOverflow](./stack_overflow.png)
+![StackOverflow](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_stack_overflow.png)
 
 ## 5. Reference Implementation
 
@@ -62,6 +63,8 @@ TBD
 
 1. Augur - for dependencies as an API endpoint
 2. Google Trends - for showing search interest over time
+3. ThoughtWorks TechRadar - project assessments from a tech consultancy
+4. StackOverflow Developer's Survey - annual project rankings
 
 ## 7. Examples
 
