@@ -1,4 +1,4 @@
-# Organizational Users
+# Downstream Organizational Impact of a Project Software
 
 [Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/27)
 
