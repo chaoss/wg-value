@@ -1,6 +1,6 @@
 # Labor Investment
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/29)
+**Question:** What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)?
 
 ## 1. Description
 
