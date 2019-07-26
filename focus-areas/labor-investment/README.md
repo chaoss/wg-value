@@ -4,7 +4,7 @@ Goal: Estimate the labor investment in open source projects.
 
 | Name                                              | Question                                                                                                                                   |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [Labor investment][l1]            | What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)? |
+| [Labor investment][l1]            | What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)? |
 | [Project velocity][l2]                            | What is the development speed for an organization?                                                                                         |
 | Commit count by organization                      | How many commits do employees of an organization create?                                                                                   |
 | Issue count by organization                       | How many issues do employees of an organization create?                                                                                    |
