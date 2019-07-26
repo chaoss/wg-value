@@ -1,14 +1,14 @@
-# Downstream Organizational Impact of a Project Software
+# Organizational Project Skill Demand
 
-**Question:** Which organizations are using this project?
+**Question:** How many organizations are using this project and could hire me if I become proficient?
 
 ## 1. Description
-Organizations engage with open source projects through use and dependencies.
-This metric is aimed at determining downstream impact of an open source
-project. This metric looks at organizations that deploy a project as part of an
-IT infrastructure, other open source projects with declared dependencies, and
-reference to the project through social media, conference mentions, blog posts,
-and similar activities.
+Organizations engage with open source projects through use and dependencies. 
+This metric is aimed at determining downstream demand of skills related to 
+an open source project. This metric looks at organizations that deploy a 
+project as part of an IT infrastructure, other open source projects with 
+declared dependencies, and references to the project through social media, 
+conference mentions, blog posts, and similar activities.
 
 ## 2. Objectives
 As a developer, I'd like to invest my skills and time in a project that has a
@@ -17,17 +17,19 @@ Downstream Organizational Impact of a Project Software metric to discover which
 projects are used by organizations, and they may, therefore, be able to pursue
 job opportunities with, possibly requiring IT support services.
 
+
 ## 3. Formula
 
 Base metrics include:
-- Number of issues created by organizations
-- Number of pull requests created by organizations
-- Number of downstream projects dependendent on the project in question
-- Number of blog posts and/or tweets
-- Number of open hiring requests
-- Number of meetups
-- Number of books on Amazon
-- Google search trends
+- Number of organizations that created issues for a project
+- Number of organizations that created pull requests for a project
+- Number of organizations that blog or tweet about a project
+- Number of organizations that mention a project in open hiring requests
+- Number of organizations that are represented at meetups about this project
+- Number of other projects that are dependent on a project
+- Number of books about a project
+- Google search trends for a project
+
 
 ## 4. Sample Filter and Visualization
 
