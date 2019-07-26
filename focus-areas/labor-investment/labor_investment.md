@@ -1,12 +1,14 @@
 # Labor Investment
 
-**Question:** What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)?
+**Question:** What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
+
 
 ## 1. Description
 
 Open source projects are often supported by organizations through labor
 investment. This metric tracks the monetary investment of organizations (as
 evident in labor costs) to individual projects.
+
 
 ## 2. Objectives
 
@@ -19,19 +21,22 @@ The OSPO manager can use the Labor Cost metric to:
 - compare project effectiveness across a portfolio of projects
 - compare labor costs of open-source projects vs in-house efforts
 
+
 ## 3. Formula
 
 Base metrics include:
 
-- number of issues
-- number of issues broken out by contributor types (internal / external)
+- number of contributions
+- number of contributions broken out by contributor types (internal / external)
+- number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
 
 Parameters include:
 
 - hourly labor rate
-- average labor hours to close an issue
+- average labor hours to create contribution (by contribution type)
 
-Labor Investment = Number of Issues * Average labor hours to close an issue * Average hourly rate
+Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours to create contribution * Average hourly rate)
+
 
 ## 4. Sample Filter and Visualization
 
@@ -40,6 +45,7 @@ Potential filters:
 - internal vs external contributors
 - issue tags
 - project sources (e.g., internal, open-source repos, competitor open-source repos)
+
 
 ## 5. Reference Implementation
 
@@ -50,11 +56,14 @@ We will use spreadsheet for metric parameters and calculation formulas.  Future
 implementations may add features for parameter manipulation directly in the
 webapp.
 
+
 ## 6. Known Implementations
 
 1. [Augur](https://github.com/chaoss/augur)
 
+
 ## 7. Examples
+
 
 ## 8. Resources
 
