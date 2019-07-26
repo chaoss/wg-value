@@ -4,7 +4,7 @@ Goal: Expanding opportunities for people to make a living wage in open source.
 
 | Name                        | Question                                                                                                                          |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| [Organizational Project Skill Demand][l1] | How many organizations are using this project and could hire me if I become proficient?|
+| [Organizational Project Skill Demand][l1] | How many organizations are using this project and could hire me if I become proficient?                             |
 | Popularity                  | How popular is a project? Composite metric of: Number of Forks, Number of contributors, Organizational Users, Number of Sponsors  |
 | Earning Potential           | What is the earning potential for someone who learns a project and is perceived an expert from having contributed to the project? |
 | Effort To Get Started       | How easy is it for a new contributor to become integrated with a project? Composite metric of: Response time                      |
