@@ -57,8 +57,6 @@ StackOverview publishes an annual developer's survey
 
 ## 5. Reference Implementation
 
-TBD
-
 ## 6. Known Implementations
 
 1. Augur - for dependencies as an API endpoint
