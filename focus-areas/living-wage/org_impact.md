@@ -1,6 +1,6 @@
 # Downstream Organizational Impact of a Project Software
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/27)
+**Question:** Which organizations are using this project?
 
 ## 1. Description
 Organizations engage with open source projects through use and dependencies.
@@ -8,7 +8,7 @@ This metric is aimed at determining downstream impact of an open source
 project. This metric looks at organizations that deploy a project as part of an
 IT infrastructure, other open source projects with declared dependencies, and
 reference to the project through social media, conference mentions, blog posts,
-and similar activities. 
+and similar activities.
 
 ## 2. Objectives
 As a developer, I'd like to invest my skills and time in a project that has a
@@ -22,7 +22,7 @@ job opportunities with, possibly requiring IT support services.
 Base metrics include:
 - Number of issues created by organizations
 - Number of pull requests created by organizations
-- Number of downstream projects dependendent on the project in question 
+- Number of downstream projects dependendent on the project in question
 - Number of blog posts and/or tweets
 - Number of open hiring requests
 - Number of meetups
@@ -34,7 +34,7 @@ Base metrics include:
 The following visualization demonstrates the number of downstream projects
 dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
-Software metric, it provides a visual for a portion. 
+Software metric, it provides a visual for a portion.
 
 ![paper image](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_paper.png)
 
@@ -43,7 +43,7 @@ Other visualizations could include Google search trends (React vs. Angular vs. V
 https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/
 ![Google Trends](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_google_trends.png)
 
-ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their 
+ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their
 
 ![TechRadar](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_tech_radar.png)
 

@@ -1,6 +1,6 @@
 # Project Velocity
 
-[Comment on Release Candidate](https://github.com/chaoss/wg-value/issues/28)
+**Question:** What is the development speed for an organization?
 
 ## 1. Description
 
