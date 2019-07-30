@@ -60,6 +60,7 @@ webapp.
 ## 6. Known Implementations
 
 1. [Augur](https://github.com/chaoss/augur)
+2. [GrimoireLab](https://chaoss.github.io/grimoirelab/)
 
 
 ## 7. Examples
