@@ -57,7 +57,6 @@ StackOverview publishes an annual developer's survey
 ## Reference Implementation
 
 ## Known Implementations
-
 * Augur - for dependencies as an API endpoint
 * Google Trends - for showing search interest over time
 * ThoughtWorks TechRadar - project assessments from a tech consultancy
@@ -66,9 +65,9 @@ StackOverview publishes an annual developer's survey
 ### Examples
 Available in the Augur test schema for multiple repositories:
 
-- Rails
-- ReactJS
-- SaltStack
+* Rails
+* ReactJS
+* SaltStack
 
 ## Resources
 - [Open Source Sponsors][l1]
