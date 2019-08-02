@@ -2,7 +2,7 @@
 
 ## Read our Launch Plan
 
-VMG is a new group, focused on metrics for Economic Value in open source.
+VMG is a new group focused on metrics for Economic Value in open source.
 
 Economic value is expressed in different ways for different types of
 stakeholders.  We will be exploring this space in the coming months.
@@ -15,13 +15,16 @@ See our [launch plan][1] for more info.
 
 This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
 
-## Join our Weekly Calls
+## Join our Bi-Weekly Calls
 
-The VMG team meets every Friday from 9-10 Pacific Time.  All are welcome.
+The VMG team meets every other Friday from 9-10 Pacific Time.  All are welcome.
+
+Read our [meeting notes][notes] to learn our history and find out when our next
+call will be.
+
+[notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
 The videoconference URL is https://unomaha.zoom.us/j/720431288.  
-
-You can also read our [meeting notes](https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit). 
 
 ## Background
 
@@ -102,9 +105,12 @@ Ordered by first name
 
   - [Andy Leak](https://github.com/andyl),
   - [Georg Link](https://github.com/georglink),
+  - [Jon Lawrence](https://github.com/Jon-Neoworks),
+  - [Kevin Lumbard](https://github.com/klumb),
   - [Matt Germonprez](https://github.com/germonprez),
   - [Sean Goggins](https://github.com/sgoggins),
-  - [Venu Vardhan Reddy Tekula](https://github.com/vchrombie),
+  - [Venu Tekula](https://github.com/vchrombie),
+  - [Vinod Ahuja](https://github.com/vinodahujauno),
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
