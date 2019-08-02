@@ -1,13 +1,22 @@
 # Project Velocity
 
-**Question:** What is the development speed for an organization?
+Question: What is the development speed for an organization?
 
-## 1. Description
+## Description
 
 Project velocity is the number of issues, the number of pull requests, volume
 of commits, and number of contributors as an indicator of 'innovation'.
 
-## 2. Objectives
+### Formula
+
+Base metrics include:
+
+- [number of issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
+- [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
+- [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
+- [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
+
+## Objectives
 
 Gives an Open Source Program Office (OSPO) manager a way to compare the project
 velocity across a portfolio of projects.
@@ -22,45 +31,34 @@ The OSPO manager can use the Project Velocity metric to:
 
 [See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
 
-## 3. Formula
-
-Base metrics include:
-
-- [number of issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
-- [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
-- [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
-- [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
-
-## 4. Sample Filter and Visualization
+## Sample Filter and Visualization
 
 Potential filters:
 
-- Internal vs external contributors
-- Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
-- Time
+* Internal vs external contributors
+* Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
+* Time
 
 Visualization:
 
-- X-Axis: Logarithmic scale for Code Changes
-- Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
-- Dot-size: Committers
-- Dots are projects
+* X-Axis: Logarithmic scale for Code Changes
+* Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
+* Dot-size: Committers
+* Dots are projects
 
-## 5. Reference Implementation
+## Reference Implementation
 
 ![cncf](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Velocity.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
-## 6. Known Implementations
+## Known Implementations
 
-1. [Augur](https://github.com/chaoss/augur)
-2. CNCF - https://github.com/cncf/velocity
-3. Grimoire Lab
+* [Augur](https://github.com/chaoss/augur)
+* CNCF - https://github.com/cncf/velocity
+* Grimoire Lab
 
-## 7. Examples
-
-## 8. Resources
+## Resources
 
 - [Can Open Source Innovation work in the Enterprise?][l1]
 - [Open Innovation for a High Performance Culture][l2]
