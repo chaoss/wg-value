@@ -11,7 +11,7 @@ of commits, and number of contributors as an indicator of 'innovation'.
 
 Base metrics include:
 
-- [number of issues](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
+- [issues closed](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
 - [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
 - [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
 - [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
