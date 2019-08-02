@@ -1,28 +1,15 @@
 # Labor Investment
 
-**Question:** What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
+Question: What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
 
 
-## 1. Description
+## Description
 
 Open source projects are often supported by organizations through labor
 investment. This metric tracks the monetary investment of organizations (as
 evident in labor costs) to individual projects.
 
-
-## 2. Objectives
-
-This metric gives an Open Source Program Office (OSPO) manager a way to compare
-contributed labor costs across a portfolio of projects.  
-
-The OSPO manager can use the Labor Cost metric to:
-
-- report labor costs of contributed vs in-house work
-- compare project effectiveness across a portfolio of projects
-- compare labor costs of open-source projects vs in-house efforts
-
-
-## 3. Formula
+### Formula
 
 Base metrics include:
 
@@ -37,17 +24,25 @@ Parameters include:
 
 Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours to create contribution * Average hourly rate)
 
+## Objectives
 
-## 4. Sample Filter and Visualization
+This metric gives an Open Source Program Office (OSPO) manager a way to compare
+contributed labor costs across a portfolio of projects.  
 
-Potential filters:
+The OSPO manager can use the Labor Cost metric to:
 
-- internal vs external contributors
-- issue tags
-- project sources (e.g., internal, open-source repos, competitor open-source repos)
+* report labor costs of contributed vs in-house work
+* compare project effectiveness across a portfolio of projects
+* compare labor costs of open-source projects vs in-house efforts
 
+## Sample Filter and Visualization
 
-## 5. Reference Implementation
+Filters:
+* internal vs external contributors
+* issue tags
+* project sources (e.g., internal, open-source repos, competitor open-source repos)
+
+## Reference Implementation
 
 ![csv](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Csv.png)
 
@@ -56,17 +51,12 @@ We will use spreadsheet for metric parameters and calculation formulas.  Future
 implementations may add features for parameter manipulation directly in the
 webapp.
 
+## Known Implementations
 
-## 6. Known Implementations
+* [Augur](https://github.com/chaoss/augur)
+* [GrimoireLab](https://chaoss.github.io/grimoirelab/)
 
-1. [Augur](https://github.com/chaoss/augur)
-2. [GrimoireLab](https://chaoss.github.io/grimoirelab/)
-
-
-## 7. Examples
-
-
-## 8. Resources
+## Resources
 
 - [Starting an Open Source Program Office][l1]
 - [Creating an Open Source Program Office][l2]
