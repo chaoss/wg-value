@@ -110,7 +110,7 @@ Ordered by first name
   - [Matt Germonprez](https://github.com/germonprez),
   - [Sean Goggins](https://github.com/sgoggins),
   - [Venu Tekula](https://github.com/vchrombie),
-  - [Vinod Ahuja](https://github.com/vinodahujauno),
+  - [Vinod Ahuja](https://github.com/vinodkahuja),
 
 Are you eligible to be on this list? You are if you helped in any capacity, for
 example: Filed an issue.  Created a Pull Request. Gave feedback on our work.
