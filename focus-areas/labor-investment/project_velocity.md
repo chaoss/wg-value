@@ -7,15 +7,6 @@ Question: What is the development speed for an organization?
 Project velocity is the number of issues, the number of pull requests, volume
 of commits, and number of contributors as an indicator of 'innovation'.
 
-### Formula
-
-Base metrics include:
-
-- [issues closed](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
-- [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
-- [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
-- [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
-
 ## Objectives
 
 Gives an Open Source Program Office (OSPO) manager a way to compare the project
@@ -31,32 +22,35 @@ The OSPO manager can use the Project Velocity metric to:
 
 [See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
 
-## Sample Filter and Visualization
+## Implementation
 
-Potential filters:
+Base metrics include:
+
+- [issues closed](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
+- [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
+- [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
+- [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
+
+### Filters
 
 * Internal vs external contributors
 * Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
 * Time
 
-Visualization:
+### Visualizations
 
 * X-Axis: Logarithmic scale for Code Changes
 * Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
 * Dot-size: Committers
 * Dots are projects
 
-## Reference Implementation
-
 ![cncf](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Velocity.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
-## Known Implementations
+### Tools Providng the Metric
 
-* [Augur](https://github.com/chaoss/augur)
 * CNCF - https://github.com/cncf/velocity
-* Grimoire Lab
 
 ## Resources
 
