@@ -112,7 +112,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Threaded document view:** Provide a way to read related comments as a thread of documentation. 
 
-> ![](./social-currency-metric-system.md)
+> ![](./scms-4-threaded-doc.png)
 
 
 **Weighted currency view:** Weight the “importance” of certain comments based on any one individually selected criteria (cannot at the moment support more than one weighted metric, by design). The weighted view is simply a re-order of information based on weight as shown above.
