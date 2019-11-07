@@ -153,12 +153,6 @@ The codex is filled in by stakeholders on a regular basis by specific communitie
 		
 > “A concept applies to B population ONLY SO FAR AS C limitation.”
 
-- [An example implementation on airtable](https://airtable.com/invite/l?inviteId=inv8u49VVMtQTrfFU&inviteToken=c49b1ed3759c5cd736901fd81c9f460f86e8e9f462703c4f85a3bdd7250ca5a7)
-- [An example implementation in data studio](https://datastudio.google.com/open/1X9UdQz8FtHHmjMBpjba3pFqE55lNpwg5)(report)
-- [An example implementation in data studio](https://datastudio.google.com/open/1Z4EJ03898lZxm2NZVULaEoLS0bYqL79A) (data source)
-- [An example implementation in google sheets](https://drive.google.com/open?id=1zi3JE0bwfEdRdc-wQEZn8GaB7sE8IvxeSeqvVywKnXw)
-- [Implementation documentation](https://docs.google.com/document/d/1RlAedRBQbhq0oYMCB3VqdawOCZE2XT5R3teydjBZODM/edit#heading=h.8hyunaadfriq) (starts on page 33)
-
 
 ### Data Collection Strategies
 
@@ -166,3 +160,9 @@ Community member comments are available from trace data. The SCMS ideally import
 
 
 ## References
+
+- [An example implementation on airtable](https://airtable.com/invite/l?inviteId=inv8u49VVMtQTrfFU&inviteToken=c49b1ed3759c5cd736901fd81c9f460f86e8e9f462703c4f85a3bdd7250ca5a7)
+- [An example implementation in data studio](https://datastudio.google.com/open/1X9UdQz8FtHHmjMBpjba3pFqE55lNpwg5)(report)
+- [An example implementation in data studio](https://datastudio.google.com/open/1Z4EJ03898lZxm2NZVULaEoLS0bYqL79A) (data source)
+- [An example implementation in google sheets](https://drive.google.com/open?id=1zi3JE0bwfEdRdc-wQEZn8GaB7sE8IvxeSeqvVywKnXw)
+- [Implementation documentation](https://docs.google.com/document/d/1RlAedRBQbhq0oYMCB3VqdawOCZE2XT5R3teydjBZODM/edit#heading=h.8hyunaadfriq) (starts on page 33)
