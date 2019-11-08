@@ -134,7 +134,7 @@ Once you have this, create a data set with the following data points:
 
 Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: 
 
-| Category Term:| Definition:|When to use:|When not to use:|
+| Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
 | [Custom Tags - themes and categories] | | | |
 | [Community specific jargon]| | | |
