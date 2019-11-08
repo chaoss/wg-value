@@ -111,11 +111,6 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 
 
-**Threaded document view:** Provide a way to read related comments as a thread of documentation. 
-
-> ![](./scms-4-threaded-doc.png)
-
-
 ### Tools Providing the Metric
 
 To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the SCMS work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
