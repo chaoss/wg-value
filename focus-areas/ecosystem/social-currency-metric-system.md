@@ -66,7 +66,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 1. **Collect Communication Traces**
  * Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
 
-2. **Standardize How Channels Should Be Assessed**
+2. **Standardize How Communication Channels Should Be Assessed**
  * Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. 
 
 3. **Analyze the Data**
