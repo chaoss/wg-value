@@ -66,16 +66,16 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 1. **Collect Communication Traces**
  * Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
 
-2. **Standardize How Communication Channels Should Be Assessed**
+2. **Standardize How Communication Traces Should Be Assessed**
  * Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. 
 
-3. **Analyze the Data**
+3. **Analyze the Communication Traces**
  * Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
 
-4. **Compile the Data**
+4. **Dissemination and Visualization of the Aggregated Analysis**
  * Visualize in a dashboard the quantitative count of codex terms over time. This is where the qualitative analysis results produce an easy to observe dashboard of trends. 
 
-5. **Set Benchmarks & Predict Future Growth**
+5. **Set Benchmarks, Goals & Predict Future Growth**
  * After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
 
 6. **Repeat the Process**
