@@ -140,7 +140,7 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | [Community specific jargon]| | | |
 | Social Currency Dimensions:| | | |
 | TRANSPARENCY | Do people recognize and feel a connection to your community?  | | |
-| UTILITY | Is your community doing something useful or is it contributing value? | | |
+| UTILITY | Is your community doing something useful or is it contributing value? |Provide parameters that exclude when the term is used so that people know when the category tag should not be implemented.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
 | CONSISTENCY | Do you have a history of being reliable and dependable?  | | |
 | MERIT | Does your community merit respect and attention for your accomplishments? | | |
 | TRUST | Can people trust that your community will continue to provide value and grow in the future? | | |
