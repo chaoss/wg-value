@@ -72,10 +72,10 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 3. **Analyze the Communication Traces**
  * Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
 
-4. **Dissemination and Visualization of the Aggregated Analysis**
+4. **Disseminate and Visualize of the Aggregated Analysis**
  * Visualize in a dashboard the quantitative count of codex terms over time. This is where the qualitative analysis results produce an easy to observe dashboard of trends. 
 
-5. **Set Benchmarks, Goals & Predict Future Growth**
+5. **Benchmark, Set Goals & Predict Future Growth**
  * After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
 
 6. **Repeat the Process**
