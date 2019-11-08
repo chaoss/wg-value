@@ -87,7 +87,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 1. **Channel**: Sort by where the data was collected from.
 2. **Tag**: Show data based on what codex tags were used to identify sentiment in comments. 
 3. **Time**: Show trends in the data over time and pull specific data-sets.
-   * **Points of destruction**: Detailed data is destroyed after xxmonths has passed. Quantitative calculations are kept for up to 250 weeks per GDPR compliance. Data older than 250 weeks becomes archived data you cannot manipulate but can see. Users can negotiate the primary statistic.
+   * **Points of destruction**: Detailed data is destroyed after _xx_ months has passed. Quantitative calculations are kept for up to 250 weeks per GDPR compliance. Data older than 250 weeks becomes archived data you cannot manipulate but can see. Users can negotiate the primary statistic.
 4. **Most impactful comments**: Sort and filter by flags that can be placed in the data to highlight specific data points and explain their importance. 
 5. **Raw comment data:** Drill down into the original text from community members.
 6. **AI vs. Human tagged**: Filter by whether tags were applied programmatically or by a person.
