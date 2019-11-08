@@ -120,9 +120,9 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the SCMS work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
 
-Once you have this, create a data set with the following dimensions / metrics:
+Once you have this, create a data set with the following data points:
 
-| Dimensions:| Metrics:|
+| Data Points | Description |
 |---|---|
 | Date of entry| Date data was imported to SCMS tool|
 | Date of comment| Date comment was made on original platform|
