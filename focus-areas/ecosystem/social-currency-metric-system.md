@@ -25,23 +25,23 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 <img src="./scms-0-circle2.png" alt="Social Currency Metric System process as a circle" style="float:right">
 
-1. **Collect Communication Traces**
- * Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
+1. **Collect Communication Traces** --
+ Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
 
-2. **Standardize How Communication Traces Should Be Assessed**
- * Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. 
+2. **Standardize How Communication Traces Should Be Assessed** --
+ Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. 
 
-3. **Analyze the Communication Traces**
- * Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
+3. **Analyze the Communication Traces** --
+ Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
 
-4. **Share and Visualize the Aggregated Analysis**
- * Visualize in a dashboard the quantitative count of codex terms over time. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members.
+4. **Share and Visualize the Aggregated Analysis** --
+ Visualize in a dashboard the quantitative count of codex terms over time. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members.
 
-5. **Benchmark, Set Goals & Predict Future Growth**
- * After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
+5. **Benchmark, Set Goals & Predict Future Growth** -- 
+ After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
 
-6. **Repeat the Process**
- * In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.
+6. **Repeat the Process** --
+ In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.
 
 
 ### Filters
