@@ -111,7 +111,7 @@ The codex is filled in by stakeholders on a regular basis by specific communitie
 
 ### Data Collection Strategies
 
-Community member comments are available from trace data. The SCMS ideally imports the comment text automatically into a tool for tagging. 
+Community member comments are available from trace data. The SCMS ideally imports the comment text automatically into a tool for tagging. Trace data can be collected from a communities' collaboration platforms where members write comments, including ticketing systems, code reviews, email lists, instanct messaging, social media, and fora.
 
 **Legal and Regulatory Considerations**
 
