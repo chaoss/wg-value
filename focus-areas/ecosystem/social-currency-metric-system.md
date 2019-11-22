@@ -51,7 +51,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 3. **Time**: Show trends in the data over time and pull specific data-sets.
 4. **Most impactful comments**: Sort and filter by flags that can be placed in the data to highlight specific data points and explain their importance. 
 5. **AI vs. Human tagged**: Filter by whether tags were applied programmatically or by a person.
-6. **Weighted currency:** Weight the “importance” of certain comments based on any one individually selected criteria (cannot at the moment support more than one weighted metric, by design). A resulting weighted view is simply a re-order of information based on weight.
+6. **Weighted currency:** Weight the “importance” of certain comments based on any one individually selected criteria. A resulting weighted view is simply a re-order of information based on weight.
 
 
 
