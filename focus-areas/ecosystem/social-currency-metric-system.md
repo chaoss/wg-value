@@ -11,7 +11,7 @@ The Social Currency Metric System is an aggregate or composite metric.
 
 Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency.
 
-The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members’ interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment from those interactions. It illustrates the reputation and level of trust between community members and leaders.
+The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment from those interactions. It illustrates the reputation and level of trust between community members and leaders.
 
 
 ## Objectives
