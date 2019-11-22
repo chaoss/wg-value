@@ -10,7 +10,16 @@ project as part of an IT infrastructure, other open source projects with
 declared dependencies, and references to the project through social media, 
 conference mentions, blog posts, and similar activities.
 
-### Formula
+
+## Objectives
+As a developer, I'd like to invest my skills and time in a project that has a
+likelihood of getting me a decent paying job in the future. People can use the
+Downstream Organizational Impact of a Project Software metric to discover which
+projects are used by organizations, and they may, therefore, be able to pursue
+job opportunities with, possibly requiring IT support services.
+
+## Implementation
+
 Base metrics include:
 - Number of organizations that created issues for a project
 - Number of organizations that created pull requests for a project
@@ -21,14 +30,7 @@ Base metrics include:
 - Number of books about a project
 - Google search trends for a project
 
-## Objectives
-As a developer, I'd like to invest my skills and time in a project that has a
-likelihood of getting me a decent paying job in the future. People can use the
-Downstream Organizational Impact of a Project Software metric to discover which
-projects are used by organizations, and they may, therefore, be able to pursue
-job opportunities with, possibly requiring IT support services.
-
-## Sample Filter and Visualization
+### Visualizations
 
 The following visualization demonstrates the number of downstream projects
 dependendent on the project in question. While this visualization does not
@@ -54,20 +56,12 @@ StackOverview publishes an annual developer's survey
 
 ![StackOverflow](https://raw.githubusercontent.com/chaoss/wg-value/master/focus-areas/living-wage/_stack_overflow.png)
 
-## Reference Implementation
-
-## Known Implementations
+## Tools Providing the Metric
 * Augur - for dependencies as an API endpoint
 * Google Trends - for showing search interest over time
 * ThoughtWorks TechRadar - project assessments from a tech consultancy
 * StackOverflow Developer's Survey - annual project rankings
 
-### Examples
-Available in the Augur test schema for multiple repositories:
-
-* Rails
-* ReactJS
-* SaltStack
 
 ## Resources
 - [Open Source Sponsors][l1]
