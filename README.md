@@ -72,7 +72,7 @@ significance and industry norms.
 | 1. [Labor Investment](./focus-areas/labor-investment) | Estimating the labor investment in open source projects. |
 | 2. Innovation Value | Evaluating open source project development for comparing with in-house and outsourcing options. |
 | 3. Downstream Value | Estimate the value provided to other open source projects. |
-| 4. Ecosystem Value | Estimating the value of an open source project’s ecosystem. |
+| 4. [Ecosystem Value](./focus-areas/ecosystem) | Estimating the value of an open source project’s ecosystem. |
 | 5. [Living Wage](./focus-areas/living-wage) | Expanding opportunities for people to make a living wage in open source. |
 
 ### Work To Date
