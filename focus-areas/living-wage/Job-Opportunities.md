@@ -27,8 +27,8 @@ Go to linkedin.com or indeed.com and execute the search there
 None, yet.
 
 ## Resources
-LinkedIn Job Search API: https://developer.linkedin.com/docs/v1/jobs/job-search-api#
-Indeed Job Search API: https://opensource.indeedeng.io/api-documentation/docs/job-search/ 
-Dice Job Search API : http://www.dice.com/external/content/documentation/api.html
-Monster Job Search API: https://partner.monster.com/job-search
-Ziprecruiter Job Search API: https://www.ziprecruiter.com/zipsearch
+* LinkedIn Job Search API: https://developer.linkedin.com/docs/v1/jobs/job-search-api#
+* Indeed Job Search API: https://opensource.indeedeng.io/api-documentation/docs/job-search/ 
+* Dice Job Search API : http://www.dice.com/external/content/documentation/api.html
+* Monster Job Search API: https://partner.monster.com/job-search
+* Ziprecruiter Job Search API: https://www.ziprecruiter.com/zipsearch
