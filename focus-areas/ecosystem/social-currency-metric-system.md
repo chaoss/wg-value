@@ -1,4 +1,4 @@
-# Social Currency Metric System (SCMS)
+# Ecosystem Value: Social Currency Metric System (SCMS)
 
 Question: How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?
 
@@ -118,7 +118,7 @@ Community member comments are available from trace data. The SCMS ideally import
 _Points of destruction_: Detailed data is destroyed after _xx_ months has passed. Quantitative calculations are kept for up to 250 weeks per GDPR compliance. Data older than 250 weeks becomes archived data you cannot manipulate but can see. Users can negotiate the primary statistic.
 
 
-## References
+## Resources
 
 - [An example implementation on airtable](https://airtable.com/invite/l?inviteId=inv8u49VVMtQTrfFU&inviteToken=c49b1ed3759c5cd736901fd81c9f460f86e8e9f462703c4f85a3bdd7250ca5a7)
 - [An example implementation in data studio](https://datastudio.google.com/open/1X9UdQz8FtHHmjMBpjba3pFqE55lNpwg5)(report)
