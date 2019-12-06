@@ -9,7 +9,6 @@ Goal: Expanding opportunities for people to make a living wage in open source.
 | Popularity                  | How popular is a project? Composite metric of: Number of Forks, Number of contributors, Organizational Users, Number of Sponsors  |
 | Earning Potential           | What is the earning potential for someone who learns a project and is perceived an expert from having contributed to the project? |
 | Effort To Get Started       | How easy is it for a new contributor to become integrated with a project? Composite metric of: Response time                      |
-
 | Average Salary              | How much do jobs pay that use technologies from a project?                                                                        |
 | Commercial Offerings        | How many commercial offers leverage technologies from a project?                                                                  |
 | Response Time               | What is the average time to first response (on issue, pull request, email, chat)?                                                 |
