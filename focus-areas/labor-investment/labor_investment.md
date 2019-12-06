@@ -45,7 +45,7 @@ Labor Investment = For each contribution type, sum (Number of contributions * Av
 Our first visualizatoin of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
 
 
-## Resources
+## References
 
 - [Starting an Open Source Program Office][l1]
 - [Creating an Open Source Program Office][l2]
@@ -53,6 +53,6 @@ Our first visualizatoin of parameterized metrics rely on CSV exports that can be
 
 [l1]: https://www.slideshare.net/caniszczyk/starting-an-open-source-program-office-ospo
 
-[l2]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi2rrDw_4LjAhWIsJ4KHRQVDokQFjACegQIAhAC&url=https%3A%2F%2Fevents.linuxfoundation.org%2Fwp-content%2Fuploads%2F2018%2F07%2FOSLS_2019-untold-story-of-OSPO.pdf&usg=AOvVaw3GHD5CghRseSw3LN6qFHWV
+[l2]: https://events19.linuxfoundation.org/wp-content/uploads/2018/07/OSLS_2019-untold-story-of-OSPO.pdf
 
-[l3]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwi2rrDw_4LjAhWIsJ4KHRQVDokQFjADegQIAxAC&url=https%3A%2F%2Fd1.awsstatic.com%2FOpen%2520Source%2Fenterprise-oss-book.pdf&usg=AOvVaw3S67m4n5tSngHYlnqjBp2B
+[l3]: https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf
