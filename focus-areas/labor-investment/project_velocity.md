@@ -52,7 +52,7 @@ Base metrics include:
 
 * CNCF - https://github.com/cncf/velocity
 
-## Resources
+## References
 
 - [Can Open Source Innovation work in the Enterprise?][l1]
 - [Open Innovation for a High Performance Culture][l2]
