@@ -38,7 +38,7 @@ Labor Investment = For each contribution type, sum (Number of contributions * Av
 * issue tags
 * project sources (e.g., internal, open-source repos, competitor open-source repos)
 
-## Visualizations
+### Visualizations
 
 ![csv](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Csv.png)
 
