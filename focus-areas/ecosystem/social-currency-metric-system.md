@@ -1,17 +1,15 @@
 # Social Currency Metric System (SCMS)
 
-Question: How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?
+Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
 
 ## Description
 
-The Social Currency Metric System is an aggregate or composite metric.
-
-[Social currency or Social Capital](https://s3.amazonaws.com/academia.edu.documents/48651612/Why_Social_Currency_Becomes_a_Key_Driver20160907-13657-17yglte.pdf?response-content-disposition=inline%3B%20filename%3DWhy_Social_Currency_Becomes_a_Key_Driver.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191023%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191023T062647Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=881a75764634522f4dcf1a77d2079c538f86bb38c0c97b83b830075572b35302) is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community.
+Social currency or Social Capital is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community. The Social Currency Metric System represents the reputation of a community as measured via community trust, transparency, utility, consistency, and merit. 
 
 Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency.
 
-The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment from those interactions. It illustrates the reputation and level of trust between community members and leaders.
+The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment from those interactions. It illustrates the reputation and level of trust between community members and leaders. 
 
 
 ## Objectives
