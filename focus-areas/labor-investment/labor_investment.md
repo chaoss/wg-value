@@ -9,13 +9,13 @@ Open source projects are often supported by organizations through labor investme
 ## Objectives 
 
 As organizational engagement with open source projects becomes increasly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare
-contributed labor costs across a portfolio of projects.  
+contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can used to prioritize investment or determine return on investment such as:
 
-The OSPO manager can use the Labor Cost metric to:
-
-* report labor costs of contributed vs in-house work
-* compare project effectiveness across a portfolio of projects
-* compare labor costs of open-source projects vs in-house efforts
+  * Labor Investment as a means of evaluating OSPO priorities and justifying budgets
+  * Labor Investment as a way to explain product/program management priority
+  * Labor Investment as an argument for the value of continued investing in OSPOs
+  * Labor Investment to report and compare labor costs of contributed vs in-house work
+  * Labor Investment to compare project effectiveness across a portfolio of projects
 
 ## Implementation
 
