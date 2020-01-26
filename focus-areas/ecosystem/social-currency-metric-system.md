@@ -21,7 +21,7 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results: 
 
-<img src="./scms-0-circle2.png" alt="Social Currency Metric System process as a circle" style="float:right">
+![Social Currency Metric System process as a circle](scms-0-circle2.png)
 
 1. **Collect Communication Traces** --
  Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
@@ -57,17 +57,17 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![](./scms-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](scms-1-dashboard.png)
 
 
 **Example SCMS tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![](./scms-2-tool-example.png)
+![Example SCMS tool](scms-2-tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![](./scms-3-expanded-comment.png)
+![Expanded comments view](scms-3-expanded-comment.png)
 
 
 
