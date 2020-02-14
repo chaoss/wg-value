@@ -17,7 +17,7 @@ This CHAOSS working group is using the general [CHAOSS mailing list](https://lis
 
 ## Join our Bi-Weekly Calls
 
-The VMG team meets every other Friday from 9-10 Pacific Time.  All are welcome.
+The VMG team meets every other Thursday from 10-11 am US Central Time.  All are welcome.
 
 Read our [meeting notes][notes] to learn our history and find out when our next
 call will be.
