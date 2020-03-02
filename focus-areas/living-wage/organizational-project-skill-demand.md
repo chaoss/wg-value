@@ -42,23 +42,23 @@ dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
 Software metric, it provides a visual for a portion.
 
-![paper image](_paper.png)
+![paper image](https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/_paper.png)
 
 Other visualizations could include Google search trends (React vs. Angular vs. Vue.js)
 
-![Google Trends](_google_trends.png)
+![Google Trends](https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/_google_trends.png)
 
 ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their
 
-![TechRadar](_tech_radar.png)
+![TechRadar](https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/_tech_radar.png)
 
 Tech Radar allows you to drill down on projects to see how the assessment has changed over time.
 
-![Assessment](_tech_react.png)
+![Assessment](https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/_tech_react.png)
 
 StackOverview publishes an annual developer's survey
 
-![StackOverflow](_stack_overflow.png)
+![StackOverflow](https://github.com/chaoss/wg-value/blob/master/focus-areas/living-wage/_stack_overflow.png)
 
 
 ### Tools Providing the Metric
