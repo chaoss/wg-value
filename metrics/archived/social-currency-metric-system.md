@@ -1,3 +1,9 @@
+## Archive note 
+
+This metric was archived due to its impracticality in a business environment. As noted by a maintainer: business investment is made from a relative value. While there is a lot of great information in this metric, there is no reason for our target audience to go to this level of trouble to show reputation.
+
+Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
+
 # Social Currency Metric System (SCMS)
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
@@ -57,17 +63,17 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![Dashboard visualizing the aggregate metrics](images/scms-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](/metrics/images/scms-1-dashboard.png)
 
 
 **Example SCMS tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![Example SCMS tool](images/scms-2-tool-example.png)
+![Example SCMS tool](/metrics/images/scms-2-tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![Expanded comments view](images/scms-3-expanded-comment.png)
+![Expanded comments view](/metrics/images/scms-3-expanded-comment.png)
 
 
 

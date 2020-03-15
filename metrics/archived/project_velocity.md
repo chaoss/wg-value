@@ -1,3 +1,9 @@
+## Archive note 
+
+This metric was archived because it does not help someone justify business investement in community.
+
+Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
+
 # Project Velocity
 
 Question: What is the development speed for an organization?

@@ -1,11 +1,16 @@
 # CHAOSS Value Metrics CHANGELOG
 
-## 2019-July
+## 2020 March
 
-This is our first release of CHAOSS value-metrics.
+Relaunching the Value group with the goal of centering on funding community initiatives. Specifically: 
 
-In this context "value" refers to economic value, which typically is
-represented in a numeric/monetary form.
+- Aligning to **business value**. Metrics must center on an ability to receive or sustain funding. All other metrics will be archived.
+- Organizing files for ease of access, including adding a RESOURCES.md file for those who wish to share external recommendations outside of metrics.
+- Structuring the repository and guidelines (like code of conduct linking) based on other working groups.
+
+## 2019 July
+
+This is our first release of CHAOSS value-metrics. In this context "value" refers to economic value, which typically is represented in a numeric/monetary form.
 
 ### Stakeholders
 
