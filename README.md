@@ -35,7 +35,7 @@ While our measurements may focus on certain categories to begin (enterprise tech
 
 The Value group is part of the [CHAOSS project](https://chaoss.community/), which is a project under the [Linux Foundation](https://www.linuxfoundation.org/).
 
-The Value group was relaunched in March 2020. See the [./CHANGELOG.md] for details.
+The Value group was relaunched in March 2020. See the [./metrics/CHANGELOG.md] for details.
 
 ## Contributing
 
@@ -47,7 +47,7 @@ This groups welcomes any metric that is, at most, one step removed from funding 
 
 If you have a metric in mind that **directly links community activity to organizational funding**, then:
 
-- Copy the [`common-template.md` file](https://github.com/chaoss/wg-common/tree/master/template-folder)
+- Copy the [`metric-template.md` file](https://github.com/chaoss/metrics/blob/master/activity-metrics/metric-template.md)
 - Open a pull request with the new metric added to the `metrics` folder
 - Continue the discussion in the pull request until we decide to merge it
 
@@ -96,17 +96,18 @@ If you'd like to be on our squad, an easy way to start is by going through the
 
 **All Contributors**
 
-Ordered by first name
-
-  - [Andy Leak](https://github.com/andyl),
-  - [Georg Link](https://github.com/georglink),
-  - [Jon Lawrence](https://github.com/Jon-Neoworks),
-  - [Kevin Lumbard](https://github.com/klumb),
-  - [Matt Broberg](https://github.com/mbbroberg),
-  - [Matt Germonprez](https://github.com/germonprez),
-  - [Sean Goggins](https://github.com/sgoggins),
-  - [Venu Tekula](https://github.com/vchrombie),
-  - [Vinod Ahuja](https://github.com/vinodkahuja),
+Ordered by first name: 
+[Andy Leak](https://github.com/andyl),
+Dylan Marcy, 
+[Georg Link](https://github.com/georglink),
+[Jon Lawrence](https://github.com/Jon-Neoworks),
+[Kevin Lumbard](https://github.com/klumb),
+[Matt Broberg](https://github.com/mbbroberg),
+[Matt Germonprez](https://github.com/germonprez),
+[Samantha Venia Logan](https://github.com/samanthavenialogan),
+[Sean Goggins](https://github.com/sgoggins),
+[Venu Tekula](https://github.com/vchrombie),
+and [Vinod Ahuja](https://github.com/vinodkahuja).
 
 Are you eligible to be on this list? You are if you helped in any capacity (whether its filed an issue or proposed a metric) then please open a Pull Request to add yourself. The team will try to update this list monthly, but please open an issue or post on the mailing list if we've missed anyone.
 
