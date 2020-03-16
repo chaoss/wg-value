@@ -92,7 +92,7 @@ other contributions on GitHub (commits/issues).  People not participating
 over a 3 month period may be removed as core contributors.
 
 If you'd like to be on our squad, an easy way to start is by going through the
-[issue list](https://github.com/chaoss/wg-value/issues) and addressing **some**. :tada:
+[issue list](https://github.com/chaoss/wg-value/issues) and participating in the discussion. :tada:
 
 **All Contributors**
 
