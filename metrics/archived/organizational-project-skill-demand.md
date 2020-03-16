@@ -1,3 +1,9 @@
+## Archive note 
+
+This metric was archived because it does not help someone justify business investement in community in its current form. It could be reformated to be a metric of business investment if there is an organization that will fund based on it.
+
+Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
+
 # Organizational Project Skill Demand
 
 Question: How many organizations are using this project and could hire me if I become proficient?
@@ -42,23 +48,23 @@ dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
 Software metric, it provides a visual for a portion.
 
-![paper image](_paper.png)
+![paper image](/metrics/images/_paper.png)
 
 Other visualizations could include Google search trends (React vs. Angular vs. Vue.js)
 
-![Google Trends](_google_trends.png)
+![Google Trends](/metrics/images/_google_trends.png)
 
 ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their
 
-![TechRadar](_tech_radar.png)
+![TechRadar](/metrics/images/_tech_radar.png)
 
 Tech Radar allows you to drill down on projects to see how the assessment has changed over time.
 
-![Assessment](_tech_react.png)
+![Assessment](/metrics/images/_tech_react.png)
 
 StackOverview publishes an annual developer's survey
 
-![StackOverflow](_stack_overflow.png)
+![StackOverflow](/metrics/images/_stack_overflow.png)
 
 
 ### Tools Providing the Metric

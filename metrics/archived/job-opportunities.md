@@ -1,3 +1,9 @@
+## Archive note 
+
+This metric was archived because it does not help someone justify business investement in community in its current form. It could be reformated to be a metric of business investment if there is an organization that will fund based on it.
+
+Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
+
 # Job Opportunities
 
 Question: How many job postings request skills with technologies from a project?
