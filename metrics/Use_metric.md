@@ -1,6 +1,8 @@
 USE METRIC
 by Bryan Prichard
 
+*this is my own metric and it is not an the list as far as I can tell but I believe this would be a helpful idea to implement
+
 Open source software has a lot of need and equally as much use in the computer science industry. Thus it is important
 to quantify those values and find how much people will use this software and to what ends. This will allow us to
 
