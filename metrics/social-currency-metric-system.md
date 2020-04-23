@@ -24,7 +24,7 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 ## Implementation
 
-SCMS requires the collection of community comments (we will call communication traces), definition of a codex, and the on-going review of the communication traces.
+The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces.
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results: 
 
