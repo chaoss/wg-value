@@ -4,7 +4,7 @@ Question: How does one measure the value of community interactions and accuratel
 
 ## Description
 
-SCMS is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these these tactics can lead to systematic community analysis and can inform a community strategy that leads to direct business value.
+SCMS is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value.
 
 ### Theory and origin
 
