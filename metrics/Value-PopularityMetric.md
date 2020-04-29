@@ -37,6 +37,7 @@ Once that corellation is obtained, you can apply the weighted factors to newer O
 
 ### Visualizations 
 
+<img src="images/popularity-bar-graph.png">
 ![Bar Graph Showing Popularity Matrix](images/popularity-bar-graph.png)
 
 
