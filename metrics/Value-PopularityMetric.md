@@ -14,19 +14,21 @@ The metric will give contributors a look at multiple project popularities that c
 
 Project popularity will be determined based on a number of factors:  
 * Number of contributors  
-* Forks  
+* Contributions
+* Pull requests
+* Forks
 * Aggregation of online discussion
 * Factors from BOSS Index:  
 	* Google score  
 	* Job postings    
 
-Using past successful projects as a baseline, differing weight values will be attributed to the factors of this metric to provide the most accurate portrait of project popularity.
+Using past successful projects as a baseline, differing weight values will be attributed to the factors of this metric to provide the most accurate portrait of project popularity, aka the popularity-value matrix. 
 
-These projects would include: Kubernetes, Flutter, React, and Tensorflow among others. These projects seem to have been able to grow into modern technology solutions and proficiency in these applications will no doubt be seen as lucrative to potential employers. 
+Some of the projects for this analysis would include: Kubernetes, Flutter, React, and Tensorflow among others. These projects seem to have been able to grow into modern technology solutions and proficiency in these applications will no doubt be seen as lucrative to potential employers. 
 
 Augur currently tracks many different metrics that span periods of time. By visualizing the different factors listed above with these metrics over the period of time of their infancy to evolution you can correlate data points that support which factors will matter more than others as to the eventual adoption and potential success of a project.
 
-Once that corellation is obtained, you can apply the weighted factors to newer OSS projects to have a better look at which projects will be potentially influential in the coming months/years. 
+Once that corellation is obtained, you can apply the weighted factors to newer OSS projects to have a better look at which projects will be potentially influential in the coming months/years, and pursue involvement in those that will provide the greatest opportunity for a living wage. 
 
 ### Filters  
 * Projects that have a TBD number upswing in forks of their repo
@@ -40,14 +42,16 @@ Once that corellation is obtained, you can apply the weighted factors to newer O
 <img src="images/popularity-bar-graph.png">
 
 
-### Tools Providing the Metric (optional)  
+### Tools Providing the Metric 
+[Augur](http://github.com/chaoss/augur) can be used to pull many different metrics that would be useful in calculating an appropriate popularity-value matrix
+[Grimoirelab](http://github.com/chaoss/grimoirelab) also provides metrics and tools to fashion those into visualizations that make the data far more presentable and understandable to users who are seeking value projects. 
 
 
 
-
-### Data Collection Strategies (Optional)  
-* 
-* (I know this will be removed, wanted to add a talking point) Make a coordinated effort within CHAOSS to present a feature request to GitHub. If projects had "feature request" functionality, instead of treating everything as an 'issue', many different CHAOSS metrics would be able to utilize that data. Instead of a few different people submitting a request to GitHub, make it a concerted effort and present a formal paper with explaination and examples of how that data could only improve OSS metrics, thus their health, which only supports GitHub in the longer term. The text entry portion of the GitHub contact page, doesn't seem to have a word limit, or send using industry contacts.
+### Data Collection Strategies  
+* Many CHAOSS metrics are currently obtaining the data necessary for this metric, and using their already established data collection tools will provide the information required.
+* Pull the Google Score as displayed in the BOSS Index to use the search activity of a project in the calculation of the metric
+* (I know this will be removed, wanted to add a talking point) Make a coordinated effort within CHAOSS to present a feature request to GitHub. If projects had "feature request" functionality, instead of treating everything as an 'issue', many different CHAOSS metrics would be able to utilize that data. Instead of a few different people submitting a request to GitHub, make it a concerted effort and present a formal paper with explaination and examples of how that data could only improve OSS metrics, thus their health, which only supports GitHub in the longer term. The text entry portion of the GitHub contact page doesn't seem to have a word limit, so that could be an avenue of submission, or more preferably send using industry contacts or conferences.
 
 
 
