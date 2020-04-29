@@ -4,7 +4,7 @@ Question: How can we quantify the earnings potiential of a project, based on its
 
 ## Description
 
-One of the main issues with obtaining contributors or keeping them active on open source projects is the lack of funding. The old saying, "time is money" is very accurate. Nobody will continue contributing significant portions of their time without compensation, unless they have a real passion for the project(s). A developer being able to expand their skillset would make them more attractive to employers. If that skillset is at the forefront of some new process or technology, contributions to those projects could provide a living wage for many years to come.
+One of the main issues with obtaining contributors or keeping them active on open source projects is the lack of funding. The old saying, "time is money" is very accurate. Nobody will continue contributing significant portions of their time without compensation, unless they have a real passion for the project(s). As a developer, being able to expand your skillset would make you more attractive to employers. If that skillset is at the forefront of some new process or technology, contributions to those projects could provide a living wage for many years to come.
 
 ## Objectives
 
