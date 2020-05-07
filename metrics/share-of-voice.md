@@ -42,7 +42,7 @@ _This depends completely on what you've decide to measure._ Here are a few examp
 
 ### Data Collection Strategies
 
-The framing of what your measuring will always impact data collection. Here are a few examples of how you might frame the SOV analysis and then move to measure it. 
+The framing of how the Share of Voice will be used as a measurement impacts data collection decisions. Examples:
 
 1. **Impact around an event**. To secure funding for participation at an industry conference, you present the impact our community activities will have on the visibility of your community in a given space. Given the influence of Twitter on technology perception, you offer to compare the SOV of you and your community around the event in comparison to your top 3 competitors. To measure, you use Export Tweet to download all data around one or more keywords. You then use a regular expression to count the % of conversation your community had relative to other communities and show that you had an impact. For best results, establish a baseline by downloading historical data around this topic, which is likely to show a growth in SOV due to your work.
 2. **Value per budget**. Starting from a similar event strategy as #1, add an additional comparison. Collaborate with colleagues where you know how much they spend for "visibility" at conferences to show an additional angle to this measurement. The result will be something like: "we grew our percentage of SOV by 34% relative to our competitors, and we did so for X amount of money, which is 1/5th the cost of just hosting a booth or 1/3rd the cost of running an evening event." 
