@@ -16,7 +16,7 @@ The metric supports the perception of continued value from community work in ord
 
 Share of voice only works if you can agree to its implied assumptions ahead of time:
 
-- The more conversation about you, the better (which requires accepting the adage ‘there is no such thing as bad publicity’).
+- More conversation about a community is good (adage: ‘there is no such thing as bad publicity’).
 - You have a public location worth measuring (public content like blogs or reviews, Twitter conversation, conference talks, StackOverflow tags).
 - There is a competitor that comes to mind, whether its internal competition where you compare community SOV to PR or AR efforts or external, where you focus on the top 3 companies in a given space (ex. comparing how N projects from X, Y, or Z companies compete for conversation around Data Science).
 - Your competitors are measurable in the same way you are, meaning you have a representative list of their activities similar to your own.
