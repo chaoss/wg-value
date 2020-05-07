@@ -1,25 +1,36 @@
 # Share of Voice
 
-Question: If a supporting business values the "share of voice" metric, how can the value of a community be expressed in those terms?
+Question: If a supporting business values a "share of voice" metric, how can the value of a community be expressed in those terms?
 
 ## Description
 
-Ratio of conversation occurring by or about our community in comparison to some baseline. Also described as: Visibility, chatter, social media presence, top-of-funnel impact.
+Share of voice (SOV) is a measurement of brand ownership compared to competitors on a given set of platforms. It can be used to gauge one product, community, or project's visibility in a competitive space. Organizations, which are often larger enterprise corporations, value it as a signal of power over others in a crowded market.
 
 ## Objectives
 
-The metric supports the perception of continued value from community work in order to continue to secure funding. It highlights the value driven by community work by comparing it to something already valued by the organization. 
+Open source-related communities compete for attention in a crowded market. When the supporting organization or executive sponsor responds well to competitive metrics, use share of voice to show the community's percentage of market share. That measurement can either be effective on its own or an opportunity to show growth in share of voice through further investment. 
 
 ## Implementation
 
+Divide a target metric that represents your community by the total of that same metric that represents the market or industry. A percentage is then achieved by multiplying by 100. 
 
-Share of voice works if everyone can agree to its implied assumptions:
+```
+Share of voice = community metric / total market metric * 100
+```
 
-- More conversation about a community is good (adage: ‘there is no such thing as bad publicity’).
-- You have a public location worth measuring (public content like blogs or reviews, Twitter conversation, conference talks, StackOverflow tags).
-- There is a competitor that comes to mind, whether its internal competition where you compare community SOV to PR or AR efforts or external, where you focus on the top 3 companies in a given space (ex. comparing how N projects from X, Y, or Z companies compete for conversation around Data Science).
-- Your competitors are measurable in the same way you are, meaning you have a representative list of their activities similar to your own.
-- You have a trusted and repeatable system of measurement (ideally software used by multiple teams for multiple programs).
+Share of voice can be effective when its objectives and assumptions are agreed upon. Here are some examples to consider.
+
+**Objectives**
+
+- TODO
+
+**Assumptions** 
+
+- There exists a public location that can be measured and is strategic to the project such as public blog posts, reviews, Twitter conversation, conference talks, StackOverflow tags.
+- More conversation about a community is good (adage: ‘there is no such thing as bad publicity’), therefore increasing share of voice on a given set of community sites is valuable.
+- There is a competitor that comes to mind, whether its internal competition where you compare community share of voice to other departments, or an external comparison where you focus on the top three companies in a given space (ex. comparing how N projects from X, Y, or Z companies compete for conversation around Data Science).
+- Competitors must be measurable throught the same means in order to have a representative list data points.
+- There exists a trusted and repeatable system of measurement, ideally software used by multiple teams for multiple programs. For example, the Public Relations, Analyst Relations, and Demand Generation team all use the same software to measure "exposure." The community can use the same tooling to measure share of voice.
 
 If these statements are not applicable to your situation, abandon SOV immediately. It’s not for you at this moment. Rely on anecdotes or something else.
 
