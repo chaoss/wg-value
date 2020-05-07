@@ -37,7 +37,7 @@ _This depends completely on what you've decide to measure._ Here are a few examp
 - [Google Search Console](https://search.google.com/) for relative search traffic.
 - [StackOverflow Data Explorer](https://data.stackexchange.com/stackoverflow/query/new) for SOV on StackExchange sites.
 - [Export Tweet](https://www.exporttweet.com/) to measure hashtag SOV.
-- [Hootsuite Analytics](https://hootsuite.com/platform/analytics) for broader social media SOV.
+- [Hootsuite Analytics](https://hootsuite.com/platform/analytics) for broader social media Share of Voice.
 - [Sysomos](https://sysomos.com/platform/analyze/) for social and press article Share of Voice.
 
 ### Data Collection Strategies
