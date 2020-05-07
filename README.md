@@ -47,7 +47,7 @@ This groups welcomes any metric that is, at most, one step removed from funding 
 
 If you have a metric in mind that **directly links community activity to organizational funding**, then:
 
-- Copy the [`metric-template.md` file](https://github.com/chaoss/metrics/blob/master/activity-metrics/metric-template.md)
+- Copy the [`metric-template.md` file](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
 - Open a pull request with the new metric added to the `metrics` folder
 - Continue the discussion in the pull request until we decide to merge it
 
