@@ -12,7 +12,6 @@ The metric supports the perception of continued value from community work in ord
 
 ## Implementation
 
-### Prerequisites
 
 Share of voice works if everyone can agree to its implied assumptions:
 
