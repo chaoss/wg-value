@@ -14,7 +14,7 @@ The metric supports the perception of continued value from community work in ord
 
 ### Prerequisites
 
-Share of voice only works if you can agree to its implied assumptions ahead of time:
+Share of voice works if everyone can agree to its implied assumptions:
 
 - More conversation about a community is good (adage: ‘there is no such thing as bad publicity’).
 - You have a public location worth measuring (public content like blogs or reviews, Twitter conversation, conference talks, StackOverflow tags).
