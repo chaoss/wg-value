@@ -1,6 +1,6 @@
 # Share of Voice
 
-Can we communicate the value of our community as a comparison to something of value by our supporting business?
+Question: If a supporting business values the "share of voice" metric, how can the value of a community be expressed in those terms?
 
 ## Description
 
