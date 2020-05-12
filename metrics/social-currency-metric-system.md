@@ -1,19 +1,18 @@
-## Archive note 
-
-This metric was archived due to its impracticality in a business environment. As noted by a maintainer: business investment is made from a relative value. While there is a lot of great information in this metric, there is no reason for our target audience to go to this level of trouble to show reputation.
-
-Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
-
 # Social Currency Metric System (SCMS)
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
-
 ## Description
+
+SCMS is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value.
+
+**Theory and Origin**
 
 Social currency or Social Capital is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community. The Social Currency Metric System represents the reputation of a community as measured via community trust, transparency, utility, consistency, and merit.
 
 Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency.
+
+**Results**
 
 The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment from those interactions. It illustrates the reputation and level of trust between community members and leaders.
 
@@ -24,6 +23,8 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 
 ## Implementation
+
+The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces.
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results: 
 
