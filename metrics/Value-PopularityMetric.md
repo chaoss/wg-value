@@ -8,7 +8,9 @@ One of the main issues with obtaining contributors or keeping them active on ope
 
 ## Objectives
 
-The metric will give contributors a look at multiple project popularities that can highlight specific technologies or processes that would become useful to earn a living wage.
+This metric will provide visual representation of the potential for a given project to become a desired technology. This will but useful for contributors and for corporate interests alike.
+* A contributor can use the metric to make an informed decision of which technologies could be in demand so they can add a desired skill which could lead to them aquiring a living wage through support of the project or through job offers.
+* Companies can use this metric to make an informed decision as to which technologies may offer the best sustainability for their workflows, while giving them a reason to look for someone with a skillset in said technology.
 
 ## Implementation
 
