@@ -1,6 +1,6 @@
 # Social Value
 
-**Goal:** .
+**Goal:** Identify if a project is attentive to improving the lives of people beyond software
 
 Name | Question
 --- | ---
