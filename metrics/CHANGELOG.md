@@ -1,5 +1,9 @@
 # CHAOSS Value Metrics CHANGELOG
 
+## 2020 June
+
+Building off the relaunch to include value as aligned with individuals, orgnaizations, communities, and society. 
+
 ## 2020 March
 
 Relaunching the Value group with the goal of centering on funding community initiatives. Specifically: 
