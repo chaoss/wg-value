@@ -1,6 +1,6 @@
 # Individual Value
 
-**Gaol:** Identify if a project is valuable to me as an individual user or contributor.
+**Goal:** Identify if a project is valuable to me as an individual user or contributor.
 
 Name | Question
 --- | ---
