@@ -17,35 +17,31 @@ The Value group focuses on metrics that directly result in funding community act
 
 ## Problem Statement 
 
-Community initiatives do not reflect the same direct monetary value as other common organizational efforts. This results in community work often being undervalued by organizations. (As one contributor puts it, how do you communicate [the business value of hugs](https://medium.com/@mbbroberg/the-value-of-community-metrics-4945dc752d42)?) 
-
-Due to this difficulty in comparison, it is essential that we **share metrics that have proven success** in securing funding for community work.
+Community initiatives do not reflect the same value as other common organizational efforts. This results in community work often being undervalued by people, organizations, communities, and society. The Value working group aims to advance how we understand the value that projects can provide. 
 
 ## Mission
 
-Value group will collect all known metrics that, when measured, help secure funding for community work. These metrics must be, at furthest, one step removed from a direct financial incentive to invest.
+Value group will develop metrics that, when measured, help make the impact of community work more transparent. 
 
 ### Known limitations
 
-The approach used to date (March 2020) uses language that defaults to the technology industry and its organizational structures. These terms may not reflect other industries or organizations (e.g. nonprofits). 
+The approach used around value often defaults to the technology industry and its organizational structures. These approaches may not reflect other industries or organizations (e.g., nonprofits). 
 
-While our measurements may focus on certain categories to begin (enterprise technology, open source software), our aim is to become the de facto standard for all value-based discussions around community work. Please bring up terminology discrepencies or recommendations through [a new issue](https://github.com/chaoss/wg-value/issues).
+While our measurements may focus on certain categories, our aim is to become a standard for all value-based discussions around community work. Please bring up terminology discrepencies or recommendations through [a new issue](https://github.com/chaoss/wg-value/issues).
 
 ### History 
 
 The Value group is part of the [CHAOSS project](https://chaoss.community/), which is a project under the [Linux Foundation](https://www.linuxfoundation.org/).
 
-The Value group was relaunched in March 2020. See the [./metrics/CHANGELOG.md] for details.
-
 ## Contributing
 
-All contributors are welcome to participate in Value group. Regular participants have the opportunity to join as a [Core Contributor](https://github.com/chaoss/wg-value#core-contributor). 
+All contributors are welcome to participate in the Value working group. Regular participants have the opportunity to join as a [Core Contributor](https://github.com/chaoss/wg-value#core-contributor). 
 
 ### Propose a metric
 
-This groups welcomes any metric that is, at most, one step removed from funding community programs, whether it's in the shape of an Open Source Program Office (OSPO), Developer Relations (DevRel), influencer program (ex. Microsoft MVP), or other specific goal. Read more about our goal of metrics here.
+This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), influencer programs (e.g., Microsoft MVP), job security, and global accessibility. 
 
-If you have a metric in mind that **directly links community activity to organizational funding**, then:
+If you have a metric in mind that **directly links community activity to individual, organizational, communal, or societal impact**, then:
 
 - Copy the [`metric-template.md` file](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
 - Open a pull request with the new metric added to the `metrics` folder
@@ -63,12 +59,11 @@ We welcome all interested in this topic to join us by:
 
 As a contributor, you can help us keep our community open and inclusive. Read the [code of conduct](./code-of-conduct.md) to understand how.
 
-### Join our Weekly Calls 
+### Join our Bi-Weekly Calls 
 
 We host video calls every other Thursday from 10-11 am US Central Time.  All are welcome.
 
-Read our [meeting notes][notes] to learn our history and find out when our next
-call will be held.
+Read our [meeting notes][notes] to learn our history and find out when our next call will be held.
 
 [notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
@@ -85,11 +80,8 @@ The videoconference URL is https://unomaha.zoom.us/j/720431288.
 
 - [Matt Germonprez](https://github.com/germonprez)
 
-The criteria for becoming a core contributor is to participate at least once
-per month over a period of 3 months.  Participation includes providing
-feedback in the weekly Value group meetings, providing feedback on docs, or making
-other contributions on GitHub (commits/issues).  People not participating
-over a 3 month period may be removed as core contributors.
+The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.  Participation includes providing feedback in the weekly Value group meetings, providing feedback on docs, or making
+other contributions on GitHub (commits/issues).  People not participating over a 3 month period may be removed as core contributors.
 
 If you'd like to be on our squad, an easy way to start is by going through the
 [issue list](https://github.com/chaoss/wg-value/issues) and participating in the discussion. :tada:
