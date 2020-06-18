@@ -8,6 +8,7 @@ The Value group focuses on metrics that directly result in funding community act
   - [Mission](#mission)
     - [Known limitations](#known-limitations)
     - [History](#history)
+  - [Metrics Focus Areas](#metrics-focus-areas)
   - [Contributing](#contributing)
     - [Propose a metric](#propose-a-metric)
     - [Join the working group](#join-the-working-group)
@@ -32,6 +33,19 @@ While our measurements may focus on certain categories, our aim is to become a s
 ### History 
 
 The Value group is part of the [CHAOSS project](https://chaoss.community/), which is a project under the [Linux Foundation](https://www.linuxfoundation.org/).
+
+## Metrics Focus Areas
+
+We are compiling dimensions of value that can be used in the following areas of analysis:
+
+| Focus Area | Goal |
+| --- | --- |
+|[Social Value](./focus-areas/social-value/) | Identify if a project is attentive to improving the lives of people beyond software.|
+|[Organizational Value](./focus-areas/organizational-value/) | Identify if a project is monetarily valuable from an organization's perspective.|
+|[Individual Value](./focus-areas/individual-value/) | Identify if a project is valuable to me as an individual user or contributor.|
+|[Communal Value](./focus-areas/communal-value/) | Identify if a project is valuable to its community of users (including downstream projects) or contributors.|
+
+Each focus area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
 ## Contributing
 
