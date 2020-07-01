@@ -2,6 +2,8 @@
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
+_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #75](https://github.com/chaoss/wg-value/issues/75). Following the comment period, this metric will be included in the release._
+
 ## Description
 
 SCMS is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value.
@@ -26,23 +28,23 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces.
 
-Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results: 
+Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results:
 
 ![Social Currency Metric System process as a circle](images/scms-0-circle2.png)
 
 1. **Collect Communication Traces** --
- Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content. 
+ Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content.
 
 2. **Standardize How Communication Traces Should Be Assessed** --
- Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. 
+ Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must.
 
 3. **Analyze the Communication Traces** --
- Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
+ Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary.
 
 4. **Share and Visualize the Aggregated Analysis** --
  Visualize the quantitative count of codex terms over time, e.g., in a dashboard. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members.
 
-5. **Benchmark, Set Goals & Predict Future Growth** -- 
+5. **Benchmark, Set Goals & Predict Future Growth** --
  After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
 
 6. **Repeat the Process** --
@@ -52,9 +54,9 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 ### Filters
 
 1. **Channel**: Sort by where the data was collected from.
-2. **Tag**: Show data based on what codex tags were used to identify sentiment in comments. 
+2. **Tag**: Show data based on what codex tags were used to identify sentiment in comments.
 3. **Time**: Show trends in the data over time and pull specific data-sets.
-4. **Most impactful comments**: Sort and filter by flags that can be placed in the data to highlight specific data points and explain their importance. 
+4. **Most impactful comments**: Sort and filter by flags that can be placed in the data to highlight specific data points and explain their importance.
 5. **AI vs. Human tagged**: Filter by whether tags were applied programmatically or by a person.
 6. **Weighted currency:** Weight the “importance” of certain comments based on any one individually selected criteria. A resulting weighted view is simply a re-order of information based on weight.
 
@@ -94,7 +96,7 @@ Once you have this, create a data set with the following data points:
 | Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
 
-Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: 
+Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this:
 
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
@@ -109,8 +111,8 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | INTERNAL REPUTATION | Do people believe these things strongly enough to warrant conversation or action? | | |
 | EXTERNAL REPUTATION | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
 
-The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: 
-		
+The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization:
+
 > “A concept applies to B population ONLY SO FAR AS C limitation.”
 
 
