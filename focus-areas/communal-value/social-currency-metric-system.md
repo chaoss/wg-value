@@ -2,7 +2,7 @@
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
-_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/031/2020. To comment on this metric please see [Issue #75](https://github.com/chaoss/wg-value/issues/75). Following the comment period, this metric will be included in the release._
+_This metric is a release candidate. The 30 day comment period for this metric begins on 07/01/2020 and ends on 07/31/2020. To comment on this metric please see [Issue #75](https://github.com/chaoss/wg-value/issues/75). Following the comment period, this metric will be included in the release._
 
 ## Description
 
