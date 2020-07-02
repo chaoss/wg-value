@@ -1,6 +1,6 @@
 # CHAOSS Value Working Group
 
-The Value group focuses on metrics that directly result in funding community activities.
+The Value Group focuses on metrics that directly result in funding community activities.
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ All contributors are welcome to participate in the Value working group. Regular 
 
 ### Propose a metric
 
-This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), influencer programs (e.g., Microsoft MVP), job security, and global accessibility. 
+This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), Influencer Programs (e.g., Microsoft MVP), job security, and global accessibility. 
 
 If you have a metric in mind that **directly links community activity to individual, organizational, communal, or societal impact**, then:
 
@@ -81,7 +81,7 @@ Read our [meeting notes][notes] to learn our history and find out when our next 
 
 [notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
-The videoconference URL is https://unomaha.zoom.us/j/720431288.  
+The video call URL is https://unomaha.zoom.us/j/720431288.  
 
 ## Contributors
 
