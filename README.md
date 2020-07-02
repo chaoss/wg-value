@@ -1,6 +1,6 @@
 # CHAOSS Value Working Group
 
-The Value Group focuses on metrics that directly result in funding community activities.
+The Value Working Group focuses on metrics that directly result in funding community activities.
 
 ## Table of Contents
 
