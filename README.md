@@ -93,6 +93,8 @@ The videoconference URL is https://unomaha.zoom.us/j/720431288.
 **Core Contributors**
 
 - [Matt Germonprez](https://github.com/germonprez)
+- [Sean Goggins](https://github.com/sgoggins)
+- [Vinod Ahuja](https://github.com/vinodkahuja)
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.  Participation includes providing feedback in the weekly Value group meetings, providing feedback on docs, or making
 other contributions on GitHub (commits/issues).  People not participating over a 3 month period may be removed as core contributors.
@@ -108,6 +110,7 @@ Dylan Marcy,
 [Georg Link](https://github.com/georglink),
 [Jon Lawrence](https://github.com/Jon-Neoworks),
 [Kevin Lumbard](https://github.com/klumb),
+[King Gao](https://github.com/king-gao), 
 [Matt Broberg](https://github.com/mbbroberg),
 [Matt Germonprez](https://github.com/germonprez),
 [Samantha Venia Logan](https://github.com/samanthavenialogan),
