@@ -40,10 +40,10 @@ We are compiling dimensions of value that can be used in the following areas of 
 
 | Focus Area | Goal |
 | --- | --- |
-|[Social Value](./focus-areas/social-value/) | Identify if a project is attentive to improving the lives of people beyond software.|
-|[Organizational Value](./focus-areas/organizational-value/) | Identify if a project is monetarily valuable from an organization's perspective.|
-|[Individual Value](./focus-areas/individual-value/) | Identify if a project is valuable to me as an individual user or contributor.|
-|[Communal Value](./focus-areas/communal-value/) | Identify if a project is valuable to its community of users (including downstream projects) or contributors.|
+|[Social Value](./focus-areas/social-value/) | Identify the degree to which a project is attentive to improving the lives of people beyond software.|
+|[Organizational Value](./focus-areas/organizational-value/) | Identify the degree to which a project is monetarily valuable from an organization's perspective.|
+|[Individual Value](./focus-areas/individual-value/) | Identify the degree to which a project is valuable to me as an individual user or contributor.|
+|[Communal Value](./focus-areas/communal-value/) | Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors.|
 
 Each focus area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
