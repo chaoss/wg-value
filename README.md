@@ -1,6 +1,6 @@
 # CHAOSS Value Working Group
 
-The Value group focuses on metrics that directly result in funding community activities.
+The Value Working Group focuses on metrics that directly result in funding community activities.
 
 ## Table of Contents
 
@@ -40,10 +40,10 @@ We are compiling dimensions of value that can be used in the following areas of 
 
 | Focus Area | Goal |
 | --- | --- |
-|[Social Value](./focus-areas/social-value/) | Identify if a project is attentive to improving the lives of people beyond software.|
-|[Organizational Value](./focus-areas/organizational-value/) | Identify if a project is monetarily valuable from an organization's perspective.|
-|[Individual Value](./focus-areas/individual-value/) | Identify if a project is valuable to me as an individual user or contributor.|
-|[Communal Value](./focus-areas/communal-value/) | Identify if a project is valuable to its community of users (including downstream projects) or contributors.|
+|[Social Value](./focus-areas/social-value/) | Identify the degree to which a project is attentive to improving the lives of people beyond software.|
+|[Organizational Value](./focus-areas/organizational-value/) | Identify the degree to which a project is monetarily valuable from an organization's perspective.|
+|[Individual Value](./focus-areas/individual-value/) | Identify the degree to which a project is valuable to me as an individual user or contributor.|
+|[Communal Value](./focus-areas/communal-value/) | Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors.|
 
 Each focus area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
@@ -53,7 +53,7 @@ All contributors are welcome to participate in the Value working group. Regular 
 
 ### Propose a metric
 
-This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), influencer programs (e.g., Microsoft MVP), job security, and global accessibility. 
+This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), Influencer Programs (e.g., Microsoft MVP), job security, and global accessibility. 
 
 If you have a metric in mind that **directly links community activity to individual, organizational, communal, or societal impact**, then:
 
@@ -81,7 +81,7 @@ Read our [meeting notes][notes] to learn our history and find out when our next 
 
 [notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
-The videoconference URL is https://unomaha.zoom.us/j/720431288.  
+The video call URL is https://unomaha.zoom.us/j/720431288.  
 
 ## Contributors
 
@@ -93,6 +93,8 @@ The videoconference URL is https://unomaha.zoom.us/j/720431288.
 **Core Contributors**
 
 - [Matt Germonprez](https://github.com/germonprez)
+- [Sean Goggins](https://github.com/sgoggins)
+- [Vinod Ahuja](https://github.com/vinodkahuja)
 
 The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.  Participation includes providing feedback in the weekly Value group meetings, providing feedback on docs, or making
 other contributions on GitHub (commits/issues).  People not participating over a 3 month period may be removed as core contributors.
@@ -108,6 +110,7 @@ Dylan Marcy,
 [Georg Link](https://github.com/georglink),
 [Jon Lawrence](https://github.com/Jon-Neoworks),
 [Kevin Lumbard](https://github.com/klumb),
+[King Gao](https://github.com/king-gao), 
 [Matt Broberg](https://github.com/mbbroberg),
 [Matt Germonprez](https://github.com/germonprez),
 [Samantha Venia Logan](https://github.com/samanthavenialogan),

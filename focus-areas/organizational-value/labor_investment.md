@@ -1,9 +1,3 @@
-## Archive note 
-
-This metric was archived because it does not help someone justify business investement in community.
-
-Note: if you find some portion fo this infromation useful, please add it to an existing metric or offer a new one that is more aligned to our mission. 
-
 # Labor Investment
 
 Question: What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
