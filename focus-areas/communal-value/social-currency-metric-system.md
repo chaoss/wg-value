@@ -13,11 +13,11 @@ SCMS is a combination of [social listening](https://blog.hubspot.com/service/soc
 
 Social currency or Social Capital is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community. The Social Currency Metric System represents the reputation of a community as measured via community trust, transparency, utility, consistency, and merit.
 
-Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency. [^footnote]
+Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency. <sup>2</sup>
 
 **Results**
 
-The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment [^footnote] from those interactions. It illustrates the reputation and level of trust between community members and leaders. [^footnote]
+The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment <sup>3</sup> from those interactions. It illustrates the reputation and level of trust between community members and leaders. <sup>4</sup>
 
 
 ## Objectives
@@ -27,7 +27,7 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 ## Implementation
 
-The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces. [^footnote]
+The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces. <sup>5</sup>
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results:
 
@@ -49,7 +49,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
  After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week. 
 
 6. **Repeat the Process** --
- In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern. [^footnote]
+ In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.<sup>6</sup>
 
 
 ### Filters
@@ -85,7 +85,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the SCMS work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
 
-Once you have this, create a data set with the following data points: [^footnote]
+Once you have this, create a data set with the following data points: <sup>7</sup>
 
 | Data Points | Description |
 |---|---|
@@ -109,10 +109,10 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | CONSISTENCY | Do you have a history of being reliable and dependable?  |When they suggest they have used your brand, or interacted with you several times |If they've only provided their comment to suggest you were useful once, use utility instead.|
 | MERIT | Does your community merit respect and attention for your accomplishments? |When the social currency garnered from customers seems it will continue for a while, and will impact other people's opinions.|When they suggest they will use you again in the future use trust instead as that is a personal trust in the brand. Merit is external.|
 | TRUST | Can people trust that your community will continue to provide value and grow in the future? |When they suggest they trust you well enough to continue conversations with you in the future|When there is not substantial enough evidence to suggest they will continue to work with and trust you as a loyal customer or community member.|
-| INTERNAL REPUTATION | Do people believe these things strongly enough to warrant conversation or action? | | |
-| EXTERNAL REPUTATION | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
+| INTERNAL REPUTATION <sup>8</sup> | Do people believe these things strongly enough to warrant conversation or action? | | |
+| EXTERNAL REPUTATION <sup>9</sup> | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
 
-The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: [^footnote]
+The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: <sup>9</sup>
 
 > “A concept applies to B population ONLY SO FAR AS C limitation.”
 
@@ -136,12 +136,11 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 
 ### Annotated Footnotes
 <sup>1</sup> CHAOSS metrics historically is to create standard, atomic definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
-
-[^footnote]: What atomic metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
-[^footnote]: Analysis of sentiment suggests that atomic metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
-[^footnote]: Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely atomic metric (7) that will define a process, and perhaps is not measurable via trace data. 
-[^footnote]: A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
-[^footnote]: This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8)
-[^footnote]: Candidate process oriented atomic metric (9). 
-[^footnote]: Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through SCMS. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
-[^footnote]: Internal and external reputation are likely atomic metrics (10), and (11) arising from the SCMS. 
+<sup>2</sup> What atomic metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
+<sup>3</sup> Analysis of sentiment suggests that atomic metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
+<sup>4</sup> Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely atomic metric (7) that will define a process, and perhaps is not measurable via trace data. 
+<sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
+<sup>6</sup> This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8)
+<sup>7</sup> Candidate process oriented atomic metric (9). 
+<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through SCMS. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
+<sup>9</sup> Internal and external reputation are likely atomic metrics (10), and (11) arising from the SCMS. 
