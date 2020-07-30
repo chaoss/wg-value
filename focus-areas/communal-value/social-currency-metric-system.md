@@ -37,16 +37,16 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
  Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content.
 
 2. **Standardize How Communication Traces Should Be Assessed** --
- Use a codex to define important concepts as a “tracking keyword” or “category”  in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. [^footnote]
+ Use a codex to define important concepts as a “tracking keyword” or “category”  in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. <sup>5</sup>
 
 3. **Analyze the Communication Traces** --
- Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. 
+ Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. <sup>5</sup>
 
 4. **Share and Visualize the Aggregated Analysis** --
- Visualize the quantitative count of codex terms over time, e.g., in a dashboard. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members. 
+ Visualize the quantitative count of codex terms over time, e.g., in a dashboard. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members. <sup>6</sup>
 
 5. **Benchmark, Set Goals & Predict Future Growth** --
- After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week. 
+ After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week. <sup>6</sup>
 
 6. **Repeat the Process** --
  In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.<sup>6</sup>
@@ -97,7 +97,7 @@ Once you have this, create a data set with the following data points: <sup>7</su
 | Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
 
-Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: 
+Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: <sup>7</sup>
 
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
@@ -109,8 +109,8 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | CONSISTENCY | Do you have a history of being reliable and dependable?  |When they suggest they have used your brand, or interacted with you several times |If they've only provided their comment to suggest you were useful once, use utility instead.|
 | MERIT | Does your community merit respect and attention for your accomplishments? |When the social currency garnered from customers seems it will continue for a while, and will impact other people's opinions.|When they suggest they will use you again in the future use trust instead as that is a personal trust in the brand. Merit is external.|
 | TRUST | Can people trust that your community will continue to provide value and grow in the future? |When they suggest they trust you well enough to continue conversations with you in the future|When there is not substantial enough evidence to suggest they will continue to work with and trust you as a loyal customer or community member.|
-| INTERNAL REPUTATION <sup>8</sup> | Do people believe these things strongly enough to warrant conversation or action? | | |
-| EXTERNAL REPUTATION <sup>8</sup> | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
+| INTERNAL REPUTATION <sup>9</sup> | Do people believe these things strongly enough to warrant conversation or action? | | |
+| EXTERNAL REPUTATION <sup>9</sup> | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
 
 The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: <sup>9</sup>
 
@@ -119,7 +119,7 @@ The codex is filled in by stakeholders on a regular basis by specific communitie
 
 ### Data Collection Strategies
 
-Community member comments are available from trace data. The SCMS ideally imports the comment text automatically into a tool for tagging. Trace data can be collected from a communities' collaboration platforms where members write comments, including ticketing systems, code reviews, email lists, instanct messaging, social media, and fora.
+Community member comments are available from trace data. The SCMS ideally imports the comment text automatically into a tool for tagging. Trace data can be collected from a communities' collaboration platforms where members write comments, including ticketing systems, code reviews, email lists, instant messaging, social media, and fora.
 
 **Legal and Regulatory Considerations**
 
