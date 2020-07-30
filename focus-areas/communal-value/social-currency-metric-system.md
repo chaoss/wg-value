@@ -135,12 +135,12 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 - [Implementation documentation](https://docs.google.com/document/d/1RlAedRBQbhq0oYMCB3VqdawOCZE2XT5R3teydjBZODM/edit#heading=h.8hyunaadfriq) (starts on page 33)
 
 ### Annotated Footnotes
-[^1]: CHAOSS metrics historically is to create standard, atomic definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
-[^2]: What atomic metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
-[^3]: Analysis of sentiment suggests that atomic metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
-[^4]: Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely atomic metric (7) that will define a process, and perhaps is not measurable via trace data. 
-[^5]: A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
-[^6]: This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8)
-[^7]: Candidate process oriented atomic metric (9). 
-[^8]: Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through SCMS. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
-[^9]: Internal and external reputation are likely atomic metrics (10), and (11) arising from the SCMS. 
+[^footnote]: CHAOSS metrics historically is to create standard, atomic definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
+[^footnote]: What atomic metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
+[^footnote]: Analysis of sentiment suggests that atomic metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
+[^footnote]: Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely atomic metric (7) that will define a process, and perhaps is not measurable via trace data. 
+[^footnote]: A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
+[^footnote]: This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8)
+[^footnote]: Candidate process oriented atomic metric (9). 
+[^footnote]: Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through SCMS. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
+[^footnote]: Internal and external reputation are likely atomic metrics (10), and (11) arising from the SCMS. 
