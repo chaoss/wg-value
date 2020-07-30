@@ -145,7 +145,7 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 
 <sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
 
-<sup>6</sup> This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8)
+<sup>6</sup> This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be atomic process metric (8).
 
 <sup>7</sup> Candidate process oriented atomic metric (9). 
 
