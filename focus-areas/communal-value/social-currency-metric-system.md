@@ -110,7 +110,7 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | MERIT | Does your community merit respect and attention for your accomplishments? |When the social currency garnered from customers seems it will continue for a while, and will impact other people's opinions.|When they suggest they will use you again in the future use trust instead as that is a personal trust in the brand. Merit is external.|
 | TRUST | Can people trust that your community will continue to provide value and grow in the future? |When they suggest they trust you well enough to continue conversations with you in the future|When there is not substantial enough evidence to suggest they will continue to work with and trust you as a loyal customer or community member.|
 | INTERNAL REPUTATION <sup>8</sup> | Do people believe these things strongly enough to warrant conversation or action? | | |
-| EXTERNAL REPUTATION <sup>9</sup> | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
+| EXTERNAL REPUTATION <sup>8</sup> | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
 
 The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: <sup>9</sup>
 
