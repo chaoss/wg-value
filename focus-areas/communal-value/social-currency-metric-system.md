@@ -49,7 +49,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
  After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week. <sup>6</sup>
 
 6. **Repeat the Process** --
- In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.<sup>6</sup>
+ In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.<sup>7</sup>
 
 
 ### Filters
@@ -85,7 +85,7 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the SCMS work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
 
-Once you have this, create a data set with the following data points: <sup>7</sup>
+Once you have this, create a data set with the following data points: <sup>8</sup>
 
 | Data Points | Description |
 |---|---|
@@ -97,7 +97,7 @@ Once you have this, create a data set with the following data points: <sup>7</su
 | Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
 
-Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: <sup>7</sup>
+Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: <sup>8</sup>
 
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
