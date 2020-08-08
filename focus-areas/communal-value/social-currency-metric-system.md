@@ -138,7 +138,7 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 ### Annotated Footnotes
 <sup>1</sup> CHAOSS metrics historically is to create standard, atomic definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
 
-<sup>2</sup> What atomic metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
+<sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
 
 <sup>3</sup> Analysis of sentiment suggests that atomic metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
 
