@@ -136,7 +136,7 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 - [Implementation documentation](https://docs.google.com/document/d/1RlAedRBQbhq0oYMCB3VqdawOCZE2XT5R3teydjBZODM/edit#heading=h.8hyunaadfriq) (starts on page 33)
 
 ### Annotated Footnotes
-<sup>1</sup> CHAOSS metrics historically is to create standard, atomic definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
+<sup>1</sup> CHAOSS metrics historically is to create standard definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
 
 <sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
 
