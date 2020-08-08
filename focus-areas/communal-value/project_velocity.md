@@ -44,7 +44,7 @@ Base metrics include:
 * Dot-size: Committers
 * Dots are projects
 
-![cncf](https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/Velocity.png)
+![cncf](images/Velocity.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 

@@ -39,7 +39,7 @@ Labor Investment = For each contribution type, sum (Number of contributions * Av
 
 ### Visualizations
 
-![csv](/metrics/images/Csv.png)
+![csv](images/Csv.png)
 
 Our first visualizatoin of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
 

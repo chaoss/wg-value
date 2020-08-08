@@ -66,17 +66,17 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![Dashboard visualizing the aggregate metrics](/metrics/images/scms-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](images/scms-1-dashboard.png)
 
 
 **Example SCMS tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![Example SCMS tool](/metrics/images/scms-2-tool-example.png)
+![Example SCMS tool](images/scms-2-tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![Expanded comments view](/metrics/images/scms-3-expanded-comment.png)
+![Expanded comments view](images/scms-3-expanded-comment.png)
 
 
 ### Tools Providing the Metric
