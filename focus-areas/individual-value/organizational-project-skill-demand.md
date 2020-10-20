@@ -48,7 +48,7 @@ Other visualizations could include Google search trends (React vs. Angular vs. V
 
 ![Google Trends](images/_google_trends.png)
 
-ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their
+ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies. 
 
 ![TechRadar](images/_tech_radar.png)
 
