@@ -81,7 +81,7 @@ Read our [meeting notes][notes] to learn our history and find out when our next 
 
 [notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
-The video call URL is https://unomaha.zoom.us/j/720431288.  
+The video call URL is https://zoom.us/j/4998687533.  
 
 ## Contributors
 
