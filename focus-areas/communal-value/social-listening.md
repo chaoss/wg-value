@@ -1,4 +1,4 @@
-# Social Currency Metric System (SCMS)
+# Social Listening
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
@@ -7,17 +7,17 @@ Question: How does one measure the value of community interactions and accuratel
 
 ## Description
 
-SCMS is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value. <sup>1</sup>
+Social Listening is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value. <sup>1</sup>
 
 **Theory and Origin**
 
-Social currency or Social Capital is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community. The Social Currency Metric System represents the reputation of a community as measured via community trust, transparency, utility, consistency, and merit.
+Social currency or social capital is a social scientific theory. It broadly considers how human interactions build relationships and trust in a community. The Social Listening metric represents the reputation of a community as measured via community trust, transparency, utility, consistency, and merit.
 
 Interpersonal relationships are the social fabric of communities. This is shown in the [Levinger’s Relationship Model](https://theadminzone.com/ams/levingers-stage-theory.1272/) and [Social Penetration Theory](https://psycnet.apa.org/record/1973-28661-000). Community members' sense of personal and group identity grows as they interact. Members build shared values, accumulate a sense of trust, encourage cooperation, and garner reciprocity through acts of [self-disclosure](https://en.wikipedia.org/wiki/Self-disclosure). These interactions build an increased and measurable sense of connection. The measure of these characteristics is called social currency. <sup>2</sup>
 
 **Results**
 
-The Social Currency Metrics System is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Currency Metrics System continually measures the sentiment <sup>3</sup> from those interactions. It illustrates the reputation and level of trust between community members and leaders. <sup>4</sup>
+The Social Listening metric is a way to sort through a fire hose of qualitative data from community interactions. A central premise of this approach is that community members' interactions have an impact on the community. The Social Listening metric continually measures the sentiment <sup>3</sup> from those interactions. It illustrates the reputation and level of trust between community members and leaders. <sup>4</sup>
 
 
 ## Objectives
@@ -27,20 +27,20 @@ Analyze the qualitative comments in community interactions. Gain an overview of 
 
 ## Implementation
 
-The SCMS requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces. <sup>5</sup>
+The Social Listening requires the collection of community comments (communication traces), the definition of a codex, and the on-going review of the communication traces. <sup>5</sup>
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results:
 
-![Social Currency Metric System process as a circle](images/scms-0-circle2.png)
+![Social Listening process as a circle](images/social-listening-0-circle2.png)
 
 1. **Collect Communication Traces** --
- Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content.
+ Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your Social Listening tool. The critical data for the system is user generated content.
 
 2. **Standardize How Communication Traces Should Be Assessed** --
  Use a codex to define important concepts as a “tracking keyword” or “category”  in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must. <sup>5</sup>
 
 3. **Analyze the Communication Traces** --
- Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. <sup>5</sup>
+ Community sentiment is analyzed in the Social Listening tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. <sup>5</sup>
 
 4. **Share and Visualize the Aggregated Analysis** --
  Visualize the quantitative count of codex terms over time, e.g., in a dashboard. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members. <sup>6</sup>
@@ -66,28 +66,28 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![Dashboard visualizing the aggregate metrics](images/scms-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](images/social-listening-1-dashboard.png)
 
 
-**Example SCMS tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
+**Example Social Listening tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![Example SCMS tool](images/scms-2-tool-example.png)
+![Example Social Listening tool](images/social-listening-2-tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![Expanded comments view](images/scms-3-expanded-comment.png)
+![Expanded comments view](images/social-listening-3-expanded-comment.png)
 
 
 ### Tools Providing the Metric
 
-To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the SCMS work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
+To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel datasheet program works fine. This data should be simplified enough to interact with other data interfaces to ensure that data migration is simple, straightforward, and can be automated (such as google data studio). This requires that systems used to implement the Social Listening metric work with CSV and other spreadsheet files, and we heavily recommend open source programs for its implementation.
 
 Once you have this, create a data set with the following data points: <sup>8</sup>
 
 | Data Points | Description |
 |---|---|
-| Date of entry| Date data was imported to SCMS tool|
+| Date of entry| Date data was imported to Social Listening tool|
 | Date of comment| Date comment was made on original platform|
 | Comment Text| Qualitative data brought in. Decide on how large you want these chunks ported. Some may port an entire email while others will be broken into one row per sentence. It should only have one “sentiment”|
 | Data channel| Originating data channel the comment came from |
@@ -117,7 +117,7 @@ The codex is filled in by stakeholders on a regular basis by specific communitie
 
 ### Data Collection Strategies
 
-Community member comments are available from trace data. The SCMS ideally imports the comment text automatically into a tool for tagging. Trace data can be collected from a communities' collaboration platforms where members write comments, including ticketing systems, code reviews, email lists, instant messaging, social media, and fora.
+Community member comments are available from trace data. The Social Listening metric ideally imports the comment text automatically into a tool for tagging. Trace data can be collected from a communities' collaboration platforms where members write comments, including ticketing systems, code reviews, email lists, instant messaging, social media, and fora.
 
 **Legal and Regulatory Considerations**
 
@@ -149,6 +149,6 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 
 <sup>7</sup> Candidate process oriented metric (9). 
 
-<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through SCMS. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
+<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through Social Listening. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
 
-<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the SCMS. 
+<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the Social Listening metric. 
