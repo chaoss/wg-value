@@ -1,4 +1,4 @@
-#Project Popularity
+# Project Popularity
 Question: How popular is an open source project?
 ## Description
 Project popularity can be measured by how much activity is visible around a project. Popularity has a positive feedback loop in which more popular projects get more attention, attract more users or developers, and see increases in popularity, spinning the popularity wheel. 
