@@ -26,7 +26,7 @@ job opportunities with, possibly requiring IT support services.
 
 Base metrics include:
 - Number of organizations that created issues for a project
-- Number of organizations that created pull requests for a project
+- Number of organizations that created change requests for a project
 - Number of organizations that blog or tweet about a project
 - Number of organizations that mention a project in open hiring requests
 - Number of organizations that are represented at meetups about this project

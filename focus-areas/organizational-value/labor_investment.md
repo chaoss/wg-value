@@ -1,6 +1,6 @@
 # Labor Investment
 
-Question: What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
+Question: What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and change requests)?
 
 ## Description
 
@@ -22,7 +22,7 @@ Base metrics include:
 
 - number of contributions
 - number of contributions broken out by contributor types (internal / external)
-- number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
+- number of contributions broken out by contribution types (e.g., commits, issues, change requests)
 
 Parameters include:
 

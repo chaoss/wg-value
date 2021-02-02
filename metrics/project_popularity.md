@@ -21,7 +21,7 @@ Base metrics include:
 - number of contributors
 - number of forks
 - number of stars
-- number of pull requests
+- number of change requests
 - number of pull request comments
 - number of issues
 - number of issue comments

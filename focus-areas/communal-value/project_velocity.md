@@ -4,7 +4,7 @@ Question: What is the development speed for an organization?
 
 ## Description
 
-Project velocity is the number of issues, the number of pull requests, volume
+Project velocity is the number of issues, the number of change requests, volume
 of commits, and number of contributors as an indicator of 'innovation'.
 
 ## Objectives
