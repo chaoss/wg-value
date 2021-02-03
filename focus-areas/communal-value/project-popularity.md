@@ -1,5 +1,8 @@
 # Project Popularity
 Question: How popular is an open source project?
+
+### This metric is a release candidate. To comment on this metric please see [Issue #127](https://github.com/chaoss/wg-value/issues/127). Following a comment period, this metric will be included in the next regular release.
+
 ## Description
 Project popularity can be measured by how much activity is visible around a project. Popularity has a positive feedback loop in which more popular projects get more attention, attract more users or developers, and see increases in popularity, spinning the popularity wheel. 
 
