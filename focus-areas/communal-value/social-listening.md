@@ -4,6 +4,7 @@ Question: How does one measure the value of community interactions and accuratel
 
 *Note: This metric synthesizes several other metrics that can be derived from trace data, and several process-oriented metrics. Embedded footnotes annotate areas planned for later clarification, and questions for later resolution.*
 
+### This metric is a release candidate. To comment on this metric please see [Issue #121](https://github.com/chaoss/wg-value/issues/121). Following a comment period, this metric will be included in the next regular release.
 
 ## Description
 
@@ -137,18 +138,18 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 
 <sup>1</sup> CHAOSS metrics historically is to create standard definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
 
-<sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
+<sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit
 
-<sup>3</sup> Analysis of sentiment suggests that metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
+<sup>3</sup> Analysis of sentiment suggests that metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words".
 
-<sup>4</sup> Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely metric (7) that will define a process, and perhaps is not measurable via trace data. 
+<sup>4</sup> Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely metric (7) that will define a process, and perhaps is not measurable via trace data.
 
-<sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
+<sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities.
 
 <sup>6</sup> This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be a process metric (8).
 
-<sup>7</sup> Candidate process oriented metric (9). 
+<sup>7</sup> Candidate process oriented metric (9).
 
-<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through Social Listening. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
+<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through Social Listening. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data.
 
-<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the Social Listening metric. 
+<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the Social Listening metric.
