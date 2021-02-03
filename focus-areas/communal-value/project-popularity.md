@@ -28,12 +28,12 @@ The project popularity metric is often considered with changes over time. There 
 
 Issues and reviews (change requests) visualization from Cauldron (GrimoireLab):
 
-![Issues and reviews](images/project_popularity_0_issues_and_reviews.png)
+![Issues and reviews](images/project-popularity-0-issues-and-reviews.png)
 
 
 Kubernetes project popularity statistics from DevStats:
 
-![Kubernetes_project_popularity](images/project_popularity_1_kubernetes_project_popularity.png)
+![Kubernetes_project_popularity](images/project-popularity-1-kubernetes-project-popularity.png)
 
 ### Tools Providing the Metric
 * [Augur](https://github.com/chaoss/augur)
