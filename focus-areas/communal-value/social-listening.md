@@ -2,6 +2,8 @@
 
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
+### This metric is a release candidate. To comment on this metric please see [Issue #121](https://github.com/chaoss/wg-value/issues/121). Following a comment period, this metric will be included in the next regular release.
+
 *Note: This metric synthesizes several other metrics that can be derived from trace data, and several process-oriented metrics. Embedded footnotes annotate areas planned for later clarification, and questions for later resolution.*
 
 
