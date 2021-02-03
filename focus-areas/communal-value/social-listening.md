@@ -35,7 +35,6 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 ![Social Listening process as a circle](images/social-listening-0-circle2.png)
 
 1. **Collect Communication Traces** --
-<<<<<<< HEAD:focus-areas/communal-value/social-listening.md
  Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your Social Listening tool. The critical data for the system is user generated content.
 
 2. **Standardize How Communication Traces Should Be Assessed** --
@@ -43,25 +42,12 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 3. **Analyze the Communication Traces** --
  Community sentiment is analyzed in the Social Listening tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary. <sup>5</sup>
-=======
- Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your SCMS tool. The critical data for the system is user generated content.
-
-2. **Standardize How Communication Traces Should Be Assessed** --
- Use a codex to define important concepts as a “tracking keyword” or “category” in the focal community. This unified codex of terms ensures consistent analysis as different people read and tag community sentiment. Formalizing the revision and addition structure to this codex on a regular basis is a must.
-
-3. **Analyze the Communication Traces** --
- Community sentiment is analyzed in the SCMS tool by tagging data with codex terms. If the tagging is done by a team of people, it is recommended that everyone gets together regularly to discuss trends and ensure consistent tag use. If the tagging is done by an artificial intelligence algorithm, then a human team should supervise and retrain the AI as necessary.
->>>>>>> a8f94456edb2160535fa018492420c7b09d5a0eb:focus-areas/communal-value/social-currency-metric-system.md
 
 4. **Share and Visualize the Aggregated Analysis** --
  Visualize the quantitative count of codex terms over time, e.g., in a dashboard. This is where the qualitative analysis results produce an easy to observe dashboard of trends. Share analysis with team members. <sup>6</sup>
 
 5. **Benchmark, Set Goals & Predict Future Growth** --
-<<<<<<< HEAD:focus-areas/communal-value/social-listening.md
  After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week. <sup>6</sup>
-=======
- After getting enough data to form a benchmark, take stock of where your community stands. What are its strengths and weaknesses? What actions can be taken to make the community healthier and more robust? Then form community initiatives with well-defined goals and execute on these projects to affect the social currency metrics for next week.
->>>>>>> a8f94456edb2160535fa018492420c7b09d5a0eb:focus-areas/communal-value/social-currency-metric-system.md
 
 6. **Repeat the Process** --
  In regular evaluation meetings, discuss the shortcomings of the dataset or collection methods. Come up with methods to address these shortcomings in the future. Work solutions into the system and move forward. Truth is in the trend, power is in the pattern.<sup>7</sup>
@@ -110,11 +96,7 @@ Once you have this, create a data set with the following data points: <sup>8</su
 | Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
 
-<<<<<<< HEAD:focus-areas/communal-value/social-listening.md
 Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: <sup>8</sup>
-=======
-Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this:
->>>>>>> a8f94456edb2160535fa018492420c7b09d5a0eb:focus-areas/communal-value/social-currency-metric-system.md
 
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
@@ -131,13 +113,7 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 
 The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: <sup>9</sup>
 
-<<<<<<< HEAD:focus-areas/communal-value/social-listening.md
-=======
-The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization:
-
->>>>>>> a8f94456edb2160535fa018492420c7b09d5a0eb:focus-areas/communal-value/social-currency-metric-system.md
 > “A concept applies to B population ONLY SO FAR AS C limitation.”
-
 
 ### Data Collection Strategies
 
