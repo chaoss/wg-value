@@ -20,7 +20,6 @@ The project popularity metric is often considered with changes over time. There 
 1. Conversations within and outside of project
 1. Clones
 1. Followers
-1. Popular contributors in a project
 1. Downstream dependencies
 1. People attending events that focus on a project
 
