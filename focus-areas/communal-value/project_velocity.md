@@ -48,7 +48,7 @@ Base metrics include:
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
-### Tools Providng the Metric
+### Tools providing the Metric
 
 * CNCF - https://github.com/cncf/velocity
 

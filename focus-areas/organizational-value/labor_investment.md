@@ -8,7 +8,7 @@ Open source projects are often supported by organizations through labor investme
 
 ## Objectives 
 
-As organizational engagement with open source projects becomes increasly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
+As organizational engagement with open source projects becomes increasingly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
 
   * Labor Investment as a means of evaluating OSPO priorities and justifying budgets
   * Labor Investment as a way to explain product/program management priority
@@ -41,7 +41,7 @@ Labor Investment = For each contribution type, sum (Number of contributions * Av
 
 ![csv](images/Csv.png)
 
-Our first visualizatoin of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
+Our first visualization of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
 
 
 ## References
