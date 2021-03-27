@@ -20,22 +20,22 @@ As organizational engagement with open source projects becomes increasingly impo
 
 Base metrics include:
 
-- number of contributions
-- number of contributions broken out by contributor types (internal / external)
-- number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
+- Number of contributions
+- Number of contributions broken out by contributor types (internal / external)
+- Number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
 
 Parameters include:
 
-- hourly labor rate
-- average labor hours to create contribution (by contribution type)
+- Hourly labor rate
+- Average labor hours to create contribution (by contribution type)
 
 Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours to create contribution * Average hourly rate)
 
 ### Filters
 
-* internal vs external contributors
-* issue tags
-* project sources (e.g., internal, open-source repos, competitor open-source repos)
+* Internal vs external contributors
+* Issue tags
+* Project sources (e.g., internal, open-source repos, competitor open-source repos)
 
 ### Visualizations
 
