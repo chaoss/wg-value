@@ -79,7 +79,7 @@ We host video calls every other Thursday from 10-11 am US Central Time.  All are
 
 Read our [meeting notes][notes] to learn our history and find out when our next call will be held.
 
-[notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
+[notes]: https://docs.google.com/document/d/1Bf6a1Ywi4m0Ywo4vuBBp3Q9_AA_QKbWf99WxAqRbpMw/edit
 
 The video call URL is https://zoom.us/j/4998687533.  
 
