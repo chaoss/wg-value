@@ -30,7 +30,7 @@ The Social Listening requires the collection of community comments (communicatio
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results:
 
-![Social Listening process as a circle](images/social-listening-0-circle2.png)
+![Social Listening process as a circle](images/social-listening_circle2.png)
 
 1. **Collect Communication Traces** --
  Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your Social Listening tool. The critical data for the system is user generated content.
@@ -65,17 +65,17 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![Dashboard visualizing the aggregate metrics](images/social-listening-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](images/social-listening_dashboard.png)
 
 
 **Example Social Listening tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![Example Social Listening tool](images/social-listening-2-tool-example.png)
+![Example Social Listening tool](images/social-listening_tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![Expanded comments view](images/social-listening-3-expanded-comment.png)
+![Expanded comments view](images/social-listening_expanded-comment.png)
 
 
 ### Tools Providing the Metric

@@ -4,4 +4,4 @@
 
 Name | Question
 --- | ---
-[Labor Investment](labor_investment.md) | What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
+[Labor Investment](labor-investment.md) | What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
