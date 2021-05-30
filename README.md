@@ -18,17 +18,17 @@ The Value Working Group focuses on metrics that directly result in funding commu
 
 ## Problem Statement 
 
-Community initiatives do not reflect the same value as other common organizational efforts. This results in community work often being undervalued by people, organizations, communities, and society. The Value working group aims to advance how we understand the value that projects can provide. 
+Community initiatives do not reflect the same value as other common organizational efforts. This results in community work often being undervalued by people, organizations, communities, and society. The Value working group aims to advance how we understand the value those projects can provide.  
 
 ## Mission
 
-Value group will develop metrics that, when measured, help make the impact of community work more transparent. 
+Value groups will develop metrics that, when measured, help make the impact of community work more transparent. 
 
 ### Known limitations
 
 The approach used around value often defaults to the technology industry and its organizational structures. These approaches may not reflect other industries or organizations (e.g., nonprofits). 
 
-While our measurements may focus on certain categories, our aim is to become a standard for all value-based discussions around community work. Please bring up terminology discrepencies or recommendations through [a new issue](https://github.com/chaoss/wg-value/issues).
+While our measurements may focus on certain categories, our aim is to become a standard for all value-based discussions around community work. Please bring up terminology, discrepancies, or recommendations. Through[a new issue](https://github.com/chaoss/wg-value/issues).
 
 ### History 
 
@@ -53,7 +53,7 @@ All contributors are welcome to participate in the Value working group. Regular 
 
 ### Propose a metric
 
-This groups welcomes any metric that provide insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), Influencer Programs (e.g., Microsoft MVP), job security, and global accessibility. 
+These groups welcome any metric that provides insight into the value that an open source project can provide to individuals, organizations, communities, and society. Specific examples include the value of a project for an Open Source Program Office (OSPO), Developer Relations (DevRel), Influencer Programs (e.g., Microsoft MVP), job security, and global accessibility. 
 
 If you have a metric in mind that **directly links community activity to individual, organizational, communal, or societal impact**, then:
 
@@ -96,8 +96,7 @@ The video call URL is https://zoom.us/j/4998687533.
 - [Sean Goggins](https://github.com/sgoggins)
 - [Vinod Ahuja](https://github.com/vinodkahuja)
 
-The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months.  Participation includes providing feedback in the weekly Value group meetings, providing feedback on docs, or making
-other contributions on GitHub (commits/issues).  People not participating over a 3 month period may be removed as core contributors.
+The criteria for becoming a core contributor is to participate at least once per month over a period of 3 months. Participation includes providing feedback in the weekly Value group meetings, providing feedback on docs, or making other contributions on GitHub (commits/issues). People not participating over 3 month period may be removed as core contributors.
 
 If you'd like to be on our squad, an easy way to start is by going through the
 [issue list](https://github.com/chaoss/wg-value/issues) and participating in the discussion. :tada:
