@@ -86,36 +86,9 @@ Once you have this, create a data set with the following data points: [8]
 
 ![Data points and description table](images/social-listening_data-points-table.png)
 
-<!--
-| Data Points | Description |
-|---|---|
-| Date of entry| Date data was imported to Social Listening tool|
-| Date of comment| Date comment was made on original platform|
-| Comment Text| Qualitative data brought in. Decide on how large you want these chunks ported. Some may port an entire email while others will be broken into one row per sentence. It should only have one “sentiment”|
-| Data channel| Originating data channel the comment came from |
-| Tags (created on codex document below) | Based on the unified codex of terms, decide what tags to track. There can be two kinds of tags. On the one hand, tags can be based on “themes” or recurring sentiment that people voice (e.g., gamer gate, flamewar, or thank you notes). On the other hand, tags based on “categories” can describe different aspects of a community that members comment on (e.g., events, release, or governance). |
-| Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
-| Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
--->
-
 Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: [8]
 
 ![Unified codex of terms table](images/social-listening_unified-codex-terms-table.png)
-
-<!--
-| Category Term | Definition | When to use | When not to use |
-|---|---|---|---|
-| [Custom Tags - themes and categories] | | | |
-| [Community specific jargon]| | | |
-| Social Currency Dimensions:| | | |
-| TRANSPARENCY | Do people recognize and feel a connection to your community?  |When they have the "words" to pinpoint why they feel you are authentic or personable.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
-| UTILITY | Is your community doing something useful or is it contributing value? |Provide parameters that exclude when the term is used so that people know when the category tag should not be implemented.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
-| CONSISTENCY | Do you have a history of being reliable and dependable?  |When they suggest they have used your brand, or interacted with you several times |If they've only provided their comment to suggest you were useful once, use utility instead.|
-| MERIT | Does your community merit respect and attention for your accomplishments? |When the social currency garnered from customers seems it will continue for a while, and will impact other people's opinions.|When they suggest they will use you again in the future use trust instead as that is a personal trust in the brand. Merit is external.|
-| TRUST | Can people trust that your community will continue to provide value and grow in the future? |When they suggest they trust you well enough to continue conversations with you in the future|When there is not substantial enough evidence to suggest they will continue to work with and trust you as a loyal customer or community member.|
-| INTERNAL REPUTATION [9] | Do people believe these things strongly enough to warrant conversation or action? | | |
-| EXTERNAL REPUTATION [9] | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
--->
 
 The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: [9]
 
