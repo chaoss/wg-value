@@ -84,6 +84,9 @@ To implement the metric any MySQL, smart-sheet, excel, or airtable-like excel da
 
 Once you have this, create a data set with the following data points: [8]
 
+![Data points and description table](images/social-listening_data-points-table.png)
+
+<!--
 | Data Points | Description |
 |---|---|
 | Date of entry| Date data was imported to Social Listening tool|
@@ -93,9 +96,13 @@ Once you have this, create a data set with the following data points: [8]
 | Tags (created on codex document below) | Based on the unified codex of terms, decide what tags to track. There can be two kinds of tags. On the one hand, tags can be based on “themes” or recurring sentiment that people voice (e.g., gamer gate, flamewar, or thank you notes). On the other hand, tags based on “categories” can describe different aspects of a community that members comment on (e.g., events, release, or governance). |
 | Social Currency Metric| The social currency being awarded or demerited in the system. This will directly affect numbers.|
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
+-->
 
 Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: [8]
 
+![Unified codex of terms table](images/social-listening_unified-codex-terms-table.png)
+
+<!--
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
 | [Custom Tags - themes and categories] | | | |
@@ -108,6 +115,7 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | TRUST | Can people trust that your community will continue to provide value and grow in the future? |When they suggest they trust you well enough to continue conversations with you in the future|When there is not substantial enough evidence to suggest they will continue to work with and trust you as a loyal customer or community member.|
 | INTERNAL REPUTATION [9] | Do people believe these things strongly enough to warrant conversation or action? | | |
 | EXTERNAL REPUTATION [9] | What amount of your reputation in your community is transferable to strangers outside of your community (cold audiences)? | | |
+-->
 
 The codex is filled in by stakeholders on a regular basis by specific communities and forms the basis for analysis of the data. This is the MOST IMPORTANT part. Without this the subjectivity of qualitative data does not follow the rule of generalization: [9]
 
