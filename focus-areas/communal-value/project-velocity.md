@@ -44,11 +44,11 @@ Base metrics include:
 * Dot-size: Committers
 * Dots are projects
 
-![cncf](images/Velocity.png)
+![cncf](images/project-velocity_visualization.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
-### Tools Providng the Metric
+### Tools providing the Metric
 
 * CNCF - https://github.com/cncf/velocity
 

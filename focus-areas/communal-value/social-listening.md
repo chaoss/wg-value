@@ -4,7 +4,6 @@ Question: How does one measure the value of community interactions and accuratel
 
 *Note: This metric synthesizes several other metrics that can be derived from trace data, and several process-oriented metrics. Embedded footnotes annotate areas planned for later clarification, and questions for later resolution.*
 
-
 ## Description
 
 Social Listening is a combination of [social listening](https://blog.hubspot.com/service/social-listening) practices across multiple channels along with a meaningful set of categorizations. The combination of these tactics can lead to systematic community analysis and can inform a community strategy that leads to measurable business value. <sup>1</sup>
@@ -31,7 +30,7 @@ The Social Listening requires the collection of community comments (communicatio
 
 Set up a Data Collection Platform of your choice as described in the “Tools” section below. Ensure it has a minimum of 4 dimensions and 3 communication channels. Once it is set up, the following method is used to collect, analyze, and interpret results:
 
-![Social Listening process as a circle](images/social-listening-0-circle2.png)
+![Social Listening process as a circle](images/social-listening_circle2.png)
 
 1. **Collect Communication Traces** --
  Identify online platforms that your community is communicating on. Set up data funnels from the primary platform to your Social Listening tool. The critical data for the system is user generated content.
@@ -66,17 +65,17 @@ Set up a Data Collection Platform of your choice as described in the “Tools”
 
 **Dashboard visualizing the aggregate metrics:**
 
-![Dashboard visualizing the aggregate metrics](images/social-listening-1-dashboard.png)
+![Dashboard visualizing the aggregate metrics](images/social-listening_dashboard.png)
 
 
 **Example Social Listening tool:** On the left, raw community comments are shown and tags are added in columns immediately to the right. On the right, a pivot table shows in numbers how often tags occurred in combination with other tags.
 
-![Example Social Listening tool](images/social-listening-2-tool-example.png)
+![Example Social Listening tool](images/social-listening_tool-example.png)
 
 
 **Expanded comments view:** remove the “quantitative” from the fields and provide the best possible way to read the different comments.  
 
-![Expanded comments view](images/social-listening-3-expanded-comment.png)
+![Expanded comments view](images/social-listening_expanded-comment.png)
 
 
 ### Tools Providing the Metric
@@ -102,7 +101,7 @@ Create a second sheet for the Unified Codex of Terms which will define terms. It
 | [Custom Tags - themes and categories] | | | |
 | [Community specific jargon]| | | |
 | Social Currency Dimensions:| | | |
-| TRANSPARENCY | Do people recognize and feel a connection to your community?  |When they have the "words" to pinpoint why they feel you are authentic or personalble.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
+| TRANSPARENCY | Do people recognize and feel a connection to your community?  |When they have the "words" to pinpoint why they feel you are authentic or personable.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
 | UTILITY | Is your community doing something useful or is it contributing value? |Provide parameters that exclude when the term is used so that people know when the category tag should not be implemented.|This is not about good customer service, or doing well.  That is utility.  This is about whether they understand who you are as a business and show they are onboard with it.|
 | CONSISTENCY | Do you have a history of being reliable and dependable?  |When they suggest they have used your brand, or interacted with you several times |If they've only provided their comment to suggest you were useful once, use utility instead.|
 | MERIT | Does your community merit respect and attention for your accomplishments? |When the social currency garnered from customers seems it will continue for a while, and will impact other people's opinions.|When they suggest they will use you again in the future use trust instead as that is a personal trust in the brand. Merit is external.|
@@ -137,18 +136,18 @@ _Points of destruction_: Detailed data is destroyed after _xx_ months has passed
 
 <sup>1</sup> CHAOSS metrics historically is to create standard definitions that can be used reliably across projects to support comparisons. This metric may evolve into a project in the future.
 
-<sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit 
+<sup>2</sup> What metrics emerge from this description? Likely included are: 1. community trust, 2. transparency,  3. utility, 4. consistency, and 5. merit
 
-<sup>3</sup> Analysis of sentiment suggests that metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words". 
+<sup>3</sup> Analysis of sentiment suggests that metric (6) is likely "Communications Sentiment", and the definition may need to include references to common sentiment analysis tools, sometimes called "bags of words".
 
-<sup>4</sup> Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely metric (7) that will define a process, and perhaps is not measurable via trace data. 
+<sup>4</sup> Measuring how trust trust is instilled in community members, such that their thoughts and opinions are valued is likely metric (7) that will define a process, and perhaps is not measurable via trace data.
 
-<sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities. 
+<sup>5</sup> A substantial portion of any codex for open source software will be common across projects, and each project is likely to have a set of particular interests that are a subset of that codex. In some cases, their main interests may not be present in an established codex component. In general, the codex, like the CHAOSS project itself, is open sourced as shared metadata to ensure shared understanding across open source communities.
 
 <sup>6</sup> This describes the evolution of a standard codex, and its elements through the process of CHAOSS working groups and projects, characterized in the previous footnote. Likely this will be a process metric (8).
 
-<sup>7</sup> Candidate process oriented metric (9). 
+<sup>7</sup> Candidate process oriented metric (9).
 
-<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through Social Listening. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data. 
+<sup>8</sup> Examples of data coded using the open sourced codex, as it evolves, will be essential components for advancing open source software through Social Listening. Implementations will require these examples, and their provision as open source assets of the CHAOSS project will return value as shared data.
 
-<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the Social Listening metric. 
+<sup>9</sup> Internal and external reputation are likely metrics (10), and (11) arising from the Social Listening metric.

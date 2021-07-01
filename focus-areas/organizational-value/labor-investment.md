@@ -8,7 +8,7 @@ Open source projects are often supported by organizations through labor investme
 
 ## Objectives 
 
-As organizational engagement with open source projects becomes increasly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
+As organizational engagement with open source projects becomes increasingly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
 
   * Labor Investment as a means of evaluating OSPO priorities and justifying budgets
   * Labor Investment as a way to explain product/program management priority
@@ -20,28 +20,28 @@ As organizational engagement with open source projects becomes increasly importa
 
 Base metrics include:
 
-- number of contributions
-- number of contributions broken out by contributor types (internal / external)
-- number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
+- Number of contributions
+- Number of contributions broken out by contributor types (internal / external)
+- Number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
 
 Parameters include:
 
-- hourly labor rate
-- average labor hours to create contribution (by contribution type)
+- Hourly labor rate
+- Average labor hours to create contribution (by contribution type)
 
 Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours to create contribution * Average hourly rate)
 
 ### Filters
 
-* internal vs external contributors
-* issue tags
-* project sources (e.g., internal, open-source repos, competitor open-source repos)
+* Internal vs external contributors
+* Issue tags
+* Project sources (e.g., internal, open-source repos, competitor open-source repos)
 
 ### Visualizations
 
-![csv](images/Csv.png)
+![csv](images/labor-investment_csv.png)
 
-Our first visualizatoin of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
+Our first visualization of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
 
 
 ## References

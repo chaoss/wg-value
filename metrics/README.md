@@ -26,6 +26,6 @@ The intention is to show that metrics positioned as relative different values ca
 - Is the metric effective on its own (like a vanity metric) or as a comparison over time or both? 
 - Is the metric most effective comparing to itself or to competitors? 
 - Is the metric effective in a certain portion of an organizational chart in a corporation (Marketing, Product, Engineering, Human Resources)?
-- Is the metric helping reveal why people may want to engage with a project from career perspecitive? 
+- Is the metric helping reveal why people may want to engage with a project from career perspective? 
 - Is the metric helping determine how an open source project is improving the lives of people? 
 
