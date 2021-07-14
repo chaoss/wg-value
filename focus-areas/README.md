@@ -8,3 +8,4 @@ Focus Area | Goal
 [Organizational Value](organizational-value/) | Identify if a project is monetarily valuable from an organization's perspective.
 [Individual Value](individual-value/) | Identify if a project is valuable to me as an individual user or contributor.
 [Communal Value](communal-value/) | Identify if a project is valuable to its community of users (including downstream projects) or contributors.
+[Academic Value](academic-value/) | Identify the degree to which a project is valuable to researchers and academic institutions.
