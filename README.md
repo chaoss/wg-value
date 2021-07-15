@@ -75,7 +75,7 @@ As a contributor, you can help us keep our community open and inclusive. Read th
 
 ### Join our Bi-Weekly Calls 
 
-We host video calls every other Thursday from 10-11 am US Central Time.  All are welcome.
+We host video calls every other Thursday at 9:00am US Central Time / 15:00 UTC / 16:00 Central Europe Time (CET) / 17:00 Central Europe Summer Time (CEST) All are welcome.
 
 Read our [meeting notes][notes] to learn our history and find out when our next call will be held.
 
