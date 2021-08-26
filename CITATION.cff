@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Value-WG"
-  given-names: "CHAOSS Community"
+- family-names: "CHAOSS Community"
+  given-names: "Value-WG"
 title: "CHAOSS Value Working Group"
 version: 2021-03
 date-released: 2021-08-26
