@@ -47,6 +47,7 @@ Some ideas for how to measure Academic Open Source Project Impact:
 ### Data Collection Strategies
 
 ## References 
+* [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)_
 * [ResearchStory](https://www.researchstory.com/)
 * [Altmetric](https://www.altmetric.com/)
 * [Related Metric: Project Popularity](https://chaoss.community/metric-project-popularity/)
@@ -62,3 +63,4 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Matt Germonprez
 * Kevin Lumbard
 * Georg Link
+* Sean P Goggins
