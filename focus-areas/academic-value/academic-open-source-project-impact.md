@@ -1,5 +1,3 @@
-### This metric is a release candidate. To comment on this metric please see [Issue #149](https://github.com/chaoss/wg-value/issues/146). Following a comment period, this metric will be included in the next regular release.
-
 # Academic Open Source Project Impact
 
 Question: What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process? 
