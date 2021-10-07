@@ -1,5 +1,3 @@
-###  This metric is a release candidate. To comment on this metric please see Issue #146. Following a comment period, this metric will be included in the next regular release.
-
 # Organizational Influence
 
 Question: How much influence does an organization have on an open source community?
