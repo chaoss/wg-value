@@ -43,7 +43,7 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * [GitHub Citation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 * [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * Center for Open Science OSF (Open Science Framework)
-* Linux Foundation Insights
+* [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
 ### Data Collection Strategies
 
@@ -51,6 +51,7 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 * [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * [ResearchStory](https://www.researchstory.com/)
+* [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 * [Altmetric](https://www.altmetric.com/)
 * [Related Metric: Project Popularity](https://chaoss.community/metric-project-popularity/)
 * [CiteAs](https://citeas.org/about)
@@ -66,3 +67,4 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Kevin Lumbard
 * Georg Link
 * Sean P Goggins
+* Johan Linaker
