@@ -40,14 +40,16 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Augur
 * [CiteAS](https://citeas.org/)
 * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-* GitHub Insights
+* [GitHub Citation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+* [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * Center for Open Science OSF (Open Science Framework)
 * Linux Foundation Insights
 
 ### Data Collection Strategies
 
 ## References 
-* [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)_
+* [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+* [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * [ResearchStory](https://www.researchstory.com/)
 * [Altmetric](https://www.altmetric.com/)
 * [Related Metric: Project Popularity](https://chaoss.community/metric-project-popularity/)
