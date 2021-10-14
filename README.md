@@ -12,7 +12,7 @@ The Value Working Group focuses on metrics that directly result in funding commu
   - [Contributing](#contributing)
     - [Propose a metric](#propose-a-metric)
     - [Join the working group](#join-the-working-group)
-    - [Join our Weekly Calls](#join-our-weekly-calls)
+    - [Join our Bi-Weekly Calls](#Join-our-bi-weekly-calls)
   - [Contributors](#contributors)
   - [License](#license)
 
@@ -40,16 +40,16 @@ We are compiling dimensions of value that can be used in the following areas of 
 
 | Focus Area | Goal |
 | --- | --- |
-|[Social Value](./focus-areas/social-value/) | Identify the degree to which a project is attentive to improving the lives of people beyond software.|
-|[Organizational Value](./focus-areas/organizational-value/) | Identify the degree to which a project is monetarily valuable from an organization's perspective.|
-|[Individual Value](./focus-areas/individual-value/) | Identify the degree to which a project is valuable to me as an individual user or contributor.|
-|[Communal Value](./focus-areas/communal-value/) | Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors.|
+|[Social Value](focus-areas/social-value/) | Identify the degree to which a project is attentive to improving the lives of people beyond software.|
+|[Organizational Value](focus-areas/organizational-value/) | Identify the degree to which a project is monetarily valuable from an organization's perspective.|
+|[Individual Value](focus-areas/individual-value/) | Identify the degree to which a project is valuable to me as an individual user or contributor.|
+|[Communal Value](focus-areas/communal-value/) | Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors.|
 
 Each focus area lists a collection of relevant questions. If you are interested in answering a question for your community, go to the associated resource page where we collect strategies for answering the question.
 
 ## Contributing
 
-All contributors are welcome to participate in the Value working group. Regular participants have the opportunity to join as a [Core Contributor](https://github.com/chaoss/wg-value#core-contributor). 
+All contributors are welcome to participate in the Value working group. Regular participants have the opportunity to join as a [Core Contributor](#core-contributors). 
 
 ### Propose a metric
 
@@ -71,7 +71,7 @@ We welcome all interested in this topic to join us by:
 * Participating in our bi-weekly community calls (information [below](https://github.com/chaoss/wg-value#join-our-weekly-calls))
 * Getting involved in open discussions happening through [issues](https://github.com/chaoss/wg-value/issues)
 
-As a contributor, you can help us keep our community open and inclusive. Read the [code of conduct](./code-of-conduct.md) to understand how.
+As a contributor, you can help us keep our community open and inclusive. Read the [code of conduct](code-of-conduct.md) to understand how.
 
 ### Join our Bi-Weekly Calls 
 
@@ -79,18 +79,18 @@ We host video calls every other Thursday from 10-11 am US Central Time.  All are
 
 Read our [meeting notes][notes] to learn our history and find out when our next call will be held.
 
-[notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
+[notes]: https://docs.google.com/document/d/1Bf6a1Ywi4m0Ywo4vuBBp3Q9_AA_QKbWf99WxAqRbpMw/edit
 
 The video call URL is https://zoom.us/j/4998687533.  
 
 ## Contributors
 
-**Maintainers**
+#### Maintainers
 
 - [Matt Broberg](https://github.com/mbbroberg)
 - [Georg Link](https://github.com/georglink)
 
-**Core Contributors**
+#### Core Contributors
 
 - [Matt Germonprez](https://github.com/germonprez)
 - [Sean Goggins](https://github.com/sgoggins)
@@ -122,6 +122,6 @@ Are you eligible to be on this list? You are if you helped in any capacity (whet
 
 ## License
 
-The documents in this repositories are released under the MIT License. See [LICENSE](https://github.com/chaoss/wg-diversity-inclusion/blob/master/LICENSE) for details.
+The documents in this repositories are released under the MIT License. See [LICENSE](LICENSE) for details.
 
-Copyright © 2018-2020 CHAOSS Project
+Copyright © 2018-2021 CHAOSS Project

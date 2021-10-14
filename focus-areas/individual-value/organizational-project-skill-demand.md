@@ -42,23 +42,23 @@ dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
 Software metric, it provides a visual for a portion.
 
-![paper image](images/_paper.png)
+![paper image](images/organizational-project-skill-demand_paper.png)
 
 Other visualizations could include Google search trends (React vs. Angular vs. Vue.js)
 
-![Google Trends](images/_google_trends.png)
+![Google Trends](images/organizational-project-skill-demand_google-trends.png)
 
-ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies for their
+ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies. 
 
-![TechRadar](images/_tech_radar.png)
+![TechRadar](images/organizational-project-skill-demand_tech-radar.png)
 
 Tech Radar allows you to drill down on projects to see how the assessment has changed over time.
 
-![Assessment](images/_tech_react.png)
+![Assessment](images/organizational-project-skill-demand_tech-react.png)
 
 StackOverview publishes an annual developer's survey
 
-![StackOverflow](images/_stack_overflow.png)
+![StackOverflow](images/organizational-project-skill-demand_stack-overflow.png)
 
 
 ### Tools Providing the Metric

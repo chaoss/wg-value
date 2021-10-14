@@ -2,7 +2,7 @@
 
 ## 2020 June
 
-Building off the relaunch to include value as aligned with individuals, orgnaizations, communities, and society. 
+Building off the relaunch to include value as aligned with individuals, organizations, communities, and society. 
 
 ## 2020 March
 
