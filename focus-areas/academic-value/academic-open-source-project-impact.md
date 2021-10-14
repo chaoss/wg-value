@@ -1,5 +1,3 @@
-### This metric is a release candidate. To comment on this metric please see [Issue #149](https://github.com/chaoss/wg-value/issues/146). Following a comment period, this metric will be included in the next regular release.
-
 # Academic Open Source Project Impact
 
 Question: What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process? 
@@ -40,14 +38,18 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Augur
 * [CiteAS](https://citeas.org/)
 * [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-* GitHub Insights
+* [GitHub Citation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+* [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * Center for Open Science OSF (Open Science Framework)
-* Linux Foundation Insights
+* [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
 ### Data Collection Strategies
 
 ## References 
+* [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
+* [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * [ResearchStory](https://www.researchstory.com/)
+* [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 * [Altmetric](https://www.altmetric.com/)
 * [Related Metric: Project Popularity](https://chaoss.community/metric-project-popularity/)
 * [CiteAs](https://citeas.org/about)
@@ -62,3 +64,5 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Matt Germonprez
 * Kevin Lumbard
 * Georg Link
+* Sean P Goggins
+* Johan Linaker
