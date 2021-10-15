@@ -42,23 +42,23 @@ dependendent on the project in question. While this visualization does not
 capture the entirety of the Downstream Organizational Impact of a Project
 Software metric, it provides a visual for a portion.
 
-![paper image](images/organizational-project-skill-demand_paper.png)
+![paper image](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_paper.png)
 
 Other visualizations could include Google search trends (React vs. Angular vs. Vue.js)
 
-![Google Trends](images/organizational-project-skill-demand_google-trends.png)
+![Google Trends](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_google-trends.png)
 
 ThoughtWorks publishes a series called 'Tech Radar' that shows the popularity of technologies. 
 
-![TechRadar](images/organizational-project-skill-demand_tech-radar.png)
+![TechRadar](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_tech-radar.png)
 
 Tech Radar allows you to drill down on projects to see how the assessment has changed over time.
 
-![Assessment](images/organizational-project-skill-demand_tech-react.png)
+![Assessment](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_tech-react.png)
 
 StackOverview publishes an annual developer's survey
 
-![StackOverflow](images/organizational-project-skill-demand_stack-overflow.png)
+![StackOverflow](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_stack-overflow.png)
 
 
 ### Tools Providing the Metric
