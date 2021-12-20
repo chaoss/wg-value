@@ -18,7 +18,7 @@ An organization can have influence in open source projects. The measure of an or
 Some specific examples to consider when measuring organizational influence include: 
 
 * How many organizational members are contributing to a project - [contributors](https://chaoss.community/metric-contributors/). It can be understood as a ratio of (number of contributors from each organization with more than one contributor)/(number of contributors)
-* Level and [types of contributions]  (https://chaoss.community/metric-types-of-contributions/) by organizational members
+* Level and [types of contributions](https://chaoss.community/metric-types-of-contributions/) by organizational members
 * Organizations that are contributing change requests at a high rate in proportion to the community’s level of activity. For example, one standard deviation or less of other contributing organizations. Related to [organizational diversity](https://chaoss.community/metric-organizational-diversity/)
 * Organizational members on the technical steering committee
 * Organizational members on governing board
