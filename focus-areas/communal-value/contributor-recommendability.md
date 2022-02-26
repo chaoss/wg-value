@@ -1,5 +1,8 @@
 # Contributor Recommendability
 
+### This metric is a release candidate. To comment on this metric please see Issue [161](https://github.com/chaoss/wg-value/issues/161). Following a comment period, this metric will be included in the next regular release.
+
+
 Question: How likely is it that you would recommend a community or project to other people? 
 
 ## Description
