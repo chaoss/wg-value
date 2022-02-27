@@ -25,7 +25,7 @@ Additionally, the contributor recommendability metric can be used to develop con
 
 ---
 
-![recommendability-scale](https://github.com/chaoss/wg-value/focus-area/communal-value/images/contributor-recommendability_recommendability-scale.png)
+![recommendability-scale](https://github.com/chaoss/wg-value/focus-areas/communal-value/images/contributor-recommendability_recommendability-scale.png )
 
 
 Figure 1: An example of one mapping between a 10-point likert scale and categorization of contributors. 
