@@ -1,12 +1,9 @@
-# Contributor Recommendability
-
-### This metric is a release candidate. To comment on this metric please see Issue [161](https://github.com/chaoss/wg-value/issues/161). Following a comment period, this metric will be included in the next regular release.
-
+# Project Recommendability
 
 Question: How likely is it that you would recommend a community or project to other people? 
 
 ## Description
-The contributor recommendability metric seeks to understand two components of community engagement. First, the metric helps you know how happy people are with their participation in a particular community or project. Second, the metric enables you to know how much your community members are willing to promote (or detract from) participation in a particular community or project. 
+The project recommendability metric seeks to understand two components of community engagement. First, the metric helps you know how happy people are with their participation in a particular community or project. Second, the metric enables you to know how much your community members are willing to promote (or detract from) participation in a particular community or project. 
 
 ## Objectives
 1. To evaluate the contributors’ satisfaction with a community or project.
@@ -14,9 +11,9 @@ The contributor recommendability metric seeks to understand two components of co
 
 Using feedback from members, the community would set up a process to improve itself through the cultivation of community members who indicate they would recommend or not recommend a community or project. 
 
-The contributor recomendability metric can identify areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. 
+The project recomendability metric can identify areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. 
 
-Additionally, the contributor recommendability metric can be used to develop contributor net recommendabilty. The following provides a way to consider contributor net  recommendability. 
+Additionally, the project recommendability metric can be used to develop net recommendabilty. The following provides a way to consider net  recommendability. 
 
 
 
@@ -25,7 +22,7 @@ Additionally, the contributor recommendability metric can be used to develop con
 
 ---
 
-![recommendability-scale](https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/images/contributor-recommendability_recommendability-scale.png)
+![recommendability-scale](https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/images/project-recommendability_recommendability-scale.png)
 
 
 Figure 1: An example of one mapping between a 10-point likert scale and categorization of contributors. 
