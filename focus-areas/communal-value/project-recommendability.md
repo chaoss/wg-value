@@ -15,8 +15,6 @@ The project recomendability metric can identify areas of an open source project 
 
 Additionally, the project recommendability metric can be used to develop net recommendabilty. The following provides a way to consider net  recommendability. 
 
-
-
 1. Individuals who provide low, moderate, or high individual scores on this metric are categorized along a continuum from Detractor, to Passive, and, finally, to Promoter through segmentation using a statistical answer distribution determined to be appropriate for the project (e.g., Figure 1). 
 2. The percentage of promoters can be subtracted from the percentage of promoters to produce a measure of net recommendability.
 
@@ -34,7 +32,7 @@ Net recommendability is inspired by the [Net Promoter Score](https://www.surveym
 
 ## Implementation
 
-__The usage and dissemination of health metrics may lead to privacy violations or expose organizations to risk. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](To be added within the month) for additional guidance__
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 ### Filters 
 By location of engagement. For example, by asking from:
