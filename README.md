@@ -78,4 +78,4 @@ on the mailing list if we've missed anyone.
 
 The documents in this repository are released under the MIT License. See [LICENSE](LICENSE) file.
 
-Copyright © 2021 - CHAOSS, a Linux Foundation Project
+Copyright © 2019-2022 - CHAOSS, a Linux Foundation Project
