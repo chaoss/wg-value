@@ -30,7 +30,7 @@ labels: 'Revising Metic'
 #### Content Quality (check all that apply)
 
 - [ ] Date of last review has been added to the revised metric at the bottom of the markdown file (month/year)
-- [ ] **Metric adheres to the current [metrics template](https://github.com/chaoss/community/blob/main/templates/metric-template.md)**
+- [ ] Metric adheres to the current [metrics template](https://github.com/chaoss/community/blob/main/templates/metric-template.md)
 
 #### Technical Requirements for any Revisions
 
