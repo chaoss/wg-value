@@ -29,7 +29,10 @@ This checklist is used for new metrics to ensure we follow CHAOSS quality standa
 
 ### Technical Requirements
 
-- Message that the metric will be part of the next regular release is at top of page: ### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
+- Message that the metric will be part of the next regular release is at top of page: 
+
+### This metric is a release candidate. To comment on this metric please see Issue [#[put the respective Issue Number here]](URL to issue). Following a comment period, this metric will be included in the next regular release.
+
 - Metric file name is the full metric name and only contains lower case letters and hyphens (“-”) for spaces
 - Images are included using markdown and absolute links (as described in the metrics template)
 - Images have at least one empty line above and below them
