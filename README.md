@@ -37,49 +37,29 @@ Main objectives include:
 * Ease implementation with CHAOSS tooling
 * Set up best practices and metrics standards for OSPOs
 
-
 ### Purpose
 
-OSPO Metrics group will develop metrics that, when measured, help make the impact of community work more transparent. It will also help drive the adoption of metrics, implementation of best practices, and tools to adopt community health metrics standards, which OSPO practitioners can engage and contribute.
+OSPO Metrics group will develop concerns that, when measured, help make the impact of community work more transparent. It will also help drive the adoption of metrics, implementation of best practices, and tools to adopt community health metrics standards, which OSPO practitioners can engage and contribute.
 
 ### Who should join this working group?
 
-All contributors are welcome to [participate](#participate) in the Value Working Group. The areas of interest include social value, organizational value, individual value, communal value and academic value.
+All contributors are welcome to [participate](#participate) in the OSPO Working Group. The areas of interest include social value, organizational value, individual value, communal value and academic value.
   
 ## Participate
 
 ### How to Join Us?
 
-You can start by joining and introducing yourself on the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) explaining your interest. 
+You can start by joining and introducing yourself on the [CHAOSS OSPO Slack Channel](https://chaoss-workspace.slack.com/archives/C03J3S2RNDS). 
 
 Further, you are welcome to participate in our video conferences. The details of these meetings can be found [here](https://chaoss.community/participate/)
 
 Read the [agenda and meeting minutes](https://docs.google.com/document/d/1Bf6a1Ywi4m0Ywo4vuBBp3Q9_AA_QKbWf99WxAqRbpMw/edit#) to know the discussions of the previous meetings and find out more about the next one. 
+
 As a contributor, you can help us keep our community open and inclusive. We request you to adhere to the guidelines mentioned in the [CHAOSS Community: Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
 ## Contributing
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
-
-## Metrics
-
-## Metrics Focus Areas
-
-We are compiling dimensions of value that can be used in the following areas of analysis:
-
-| Focus Area | Goal |
-| --- | --- |
-|[Social Value](focus-areas/social-value/) | Identify the degree to which a project is attentive to improving the lives of people beyond software.|
-|[Organizational Value](focus-areas/organizational-value/) | Identify the degree to which a project is monetarily valuable from an organization's perspective.|
-|[Individual Value](focus-areas/individual-value/) | Identify the degree to which a project is valuable to me as an individual user or contributor.|
-|[Communal Value](focus-areas/communal-value/) | Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors.|
-|[Academic Value](focus-areas/academic-value/) | Identify the degree to which a project is valuable to researchers and academic institutions.|
-
-### Released Metrics
-
-We are involved in the release of CHAOSS metrics. Check out our published work at <https://chaoss.community/metrics/>
-
-The translations of these metrics are available at [chaoss/translations](https://github.com/chaoss/translations)
 
 ## Contributors
 
