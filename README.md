@@ -39,7 +39,7 @@ Main objectives include:
 
 ### Purpose
 
-OSPO Metrics group will develop concerns that, when measured, help make the impact of community work more transparent. It will also help drive the adoption of metrics, implementation of best practices, and tools to adopt community health metrics standards, which OSPO practitioners can engage and contribute.
+OSPO Metrics group will address concerns that, when measured, help make the impact of community work more transparent. It will also help drive the adoption of metrics, implementation of best practices, and tools to adopt community health metrics standards, which OSPO practitioners can engage and contribute.
 
 ### Who should join this working group?
 
