@@ -1,4 +1,4 @@
-# Value Working Group
+# Value Working Group {Not Active]
 
 
 ## Participate
