@@ -2,30 +2,19 @@
 
 Question: How many job postings request skills with technologies from a project?
 
-
 ## Description
-
 A common way for open source contributors to earn a living wage is to be employed by a company or be a self-employed or freelance developer. Skills in a specific project may improve a job applicant’s prospects of getting a job. The most obvious indicator for demand related to a skill learned in a specific open source project is when that project or its technology is included in job postings.
 
-
 ## Objectives
-
 The metric gives contributors a sense of how much skills learned in a specific open source project are valued by companies.
 
-
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 To obtain this metric on a job search platform (e.g., LinkedIn, Indeed, or Dice), go to the job search and type in the name of the open source project. The number of returned job postings is the metric. Periodically collecting the metric through an API of a job search platform and storing the results allows to see trends.
 
-
 ### Filters
-
 * Age of job posting; postings get stale and may not be removed when filled
 
-
 ### Visualizations
-
 The metric can be extended by looking at:
 
 * Salary ranges for jobs returned
@@ -34,9 +23,7 @@ The metric can be extended by looking at:
 * Location of job
 * Geography
 
-
 ## References
-
 * LinkedIn Job Search API: https://developer.linkedin.com/docs/v1/jobs/job-search-api#
 * Indeed Job Search API: https://opensource.indeedeng.io/api-documentation/docs/job-search/ 
 * Dice.com Job Search API: http://www.dice.com/external/content/documentation/api.html
