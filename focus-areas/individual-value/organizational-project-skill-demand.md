@@ -4,7 +4,6 @@ Question: How many organizations are using this project and could hire me if I b
 
 
 ## Description
-
 Organizations engage with open source projects through use and dependencies. 
 This metric is aimed at determining downstream demand of skills related to 
 an open source project. This metric looks at organizations that deploy a 
@@ -12,18 +11,14 @@ project as part of an IT infrastructure, other open source projects with
 declared dependencies, and references to the project through social media, 
 conference mentions, blog posts, and similar activities.
 
-
 ## Objectives
-
 As a developer, I'd like to invest my skills and time in a project that has a
 likelihood of getting me a decent paying job in the future. People can use the
 Downstream Organizational Impact of a Project Software metric to discover which
 projects are used by organizations, and they may, therefore, be able to pursue
 job opportunities with, possibly requiring IT support services.
 
-
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Base metrics include:
 - Number of organizations that created issues for a project
@@ -34,7 +29,6 @@ Base metrics include:
 - Number of other projects that are dependent on a project
 - Number of books about a project
 - Google search trends for a project
-
 
 ### Visualizations
 
@@ -61,9 +55,7 @@ StackOverview publishes an annual developer's survey
 
 ![StackOverflow](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_stack-overflow.png)
 
-
 ### Tools Providing the Metric
-
 * Google Trends - for showing search interest over time
 * ThoughtWorks TechRadar - project assessments from a tech consultancy
 * StackOverflow Developer's Survey - annual project rankings
@@ -73,7 +65,6 @@ StackOverview publishes an annual developer's survey
   - [CloudStack](http://augur.osshealth.io/repo/Apache%20(wg-value)/cloudstack/overview)
 
 ## References
-
 - [Open Source Sponsors][l1]
 - [Fiscal Sponsors and Open Source][l2]
 - [Large Corporate OpenSource Sponsors][l3]
