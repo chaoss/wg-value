@@ -9,11 +9,11 @@ The project recommendability metric seeks to understand two components of commun
 1. To evaluate the contributors’ satisfaction with a community or project.
 2. To determine reasons contributors would leave your community or project and even discourage others from joining.
 
-Using feedback from members, the community would set up a process to improve itself through the cultivation of community members who indicate they would recommend or not recommend a community or project. 
+Using feedback from members, the community would set up a process to improve itself through the cultivation of community members who indicate they would recommend or not recommend a community or project. The project recomendability metric can identify areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. Additionally, the project recommendability metric can be used to develop net recommendabilty. 
 
-The project recomendability metric can identify areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. 
+## Implementation
 
-Additionally, the project recommendability metric can be used to develop net recommendabilty. The following provides a way to consider net  recommendability. 
+The following provides a way to consider net recommendability. 
 
 1. Individuals who provide low, moderate, or high individual scores on this metric are categorized along a continuum from Detractor, to Passive, and, finally, to Promoter through segmentation using a statistical answer distribution determined to be appropriate for the project (e.g., Figure 1). 
 2. The percentage of promoters can be subtracted from the percentage of promoters to produce a measure of net recommendability.
@@ -30,13 +30,8 @@ Figure 1: An example of one mapping between a 10-point likert scale and categori
 ---
 Net recommendability is inspired by the [Net Promoter Score](https://www.surveymonkey.com/mp/net-promoter-score-definition-formula/).
 
-## Implementation
-
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 ### Filters 
 By location of engagement. For example, by asking from:
-
 
 * Code committer 
 * Issue reporters
@@ -52,14 +47,10 @@ By location of engagement. For example, by asking from:
 ### Data Collection Strategies 
 Implicit Data: 
 
-
-
 * Community newcomer inclusion factors, such as responsiveness to issues and change requests. 
 * Community health factors like change request acceptance rate and release cadence. 
 
 Explicit Data: 
-
-
 
 * Surveys focused on obtaining contributor perspectives on different communities and contributors. Sample questions include: 
     * Could you specify where you primarily contribute to the community/project? 
@@ -86,7 +77,3 @@ Explicit Data:
 * Vinod Ahuja 
 * Benjamin Mako Hill
 * Elizabeth Barron 
-
-
-***This metric was last reviewed on Feb 24, 2022 as part of 202204 release***
-
