@@ -23,10 +23,8 @@ The OSPO manager can use the Project Velocity metric to:
 [See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Base metrics include:
-
 - [issues closed](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
 - [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
 - [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
