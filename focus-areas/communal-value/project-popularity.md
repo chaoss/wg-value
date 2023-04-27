@@ -10,8 +10,6 @@ Project popularity may be used as a proxy for understanding project value becaus
 In a quest to earn a living wage, and to maximize future employment opportunities, workers may be interested in knowing which projects are growing and are underserved. Similarly, from an organizational perspective, knowing which projects are highly used can be helpful in knowing which projects might be worth investing in. The Project Popularity metric can be used to identify the trajectory of a project’s development.
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
-
 The project popularity metric is often considered with changes over time. There are numerous example vectors to consider when measuring project popularity based on the number of:
 
 1. Social media mentions
@@ -34,7 +32,6 @@ Issues and reviews (change requests) visualization from Cauldron (GrimoireLab):
 
 ![Issues and reviews](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_issues-and-reviews.png)
 
-
 Kubernetes project popularity statistics from DevStats:
 
 ![Kubernetes_project_popularity](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_kubernetes.png)
@@ -43,6 +40,7 @@ Kubernetes project popularity statistics from DevStats:
 * [Augur](https://github.com/chaoss/augur)
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/)
 * [Cauldron](https://cauldron.io/)
+
 ## References
 - [Popular OpenSource Projects](http://blog.honeypot.io/most-exciting-open-source-projects-2018/)
 - [Is It Maintained?](https://isitmaintained.com/)
