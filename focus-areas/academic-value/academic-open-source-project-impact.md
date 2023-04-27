@@ -13,7 +13,6 @@ The goal is to support RPT (Reappointment, Tenure, and Promotion) by drawing for
 * Identifying journal articles that reference your project
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Some ideas for how to measure Academic Open Source Project Impact:
 * Impact measured through publication in Journal of Open Source Software
@@ -31,10 +30,6 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Number of community contributions, not from the research team
 * Downstream dependencies
 
-### Filters 
-
-### Visualizations 
-
 ### Tools Providing the Metric
 * GrimoireLab
 * Augur
@@ -44,8 +39,6 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * Center for Open Science OSF (Open Science Framework)
 * [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
-
-### Data Collection Strategies
 
 ## References 
 * [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
