@@ -17,16 +17,13 @@ As organizational engagement with open source projects becomes increasingly impo
   * Labor Investment to compare project effectiveness across a portfolio of projects
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.*
 
 Base metrics include:
-
 - Number of contributions
 - Number of contributions broken out by contributor types (internal / external)
 - Number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
 
 Parameters include:
-
 - Hourly labor rate
 - Average labor hours to create contribution (by contribution type)
 
@@ -43,7 +40,6 @@ Labor Investment = For each contribution type, sum (Number of contributions * Av
 ![csv](https://github.com/chaoss/wg-value/blob/main/focus-areas/organizational-value/images/labor-investment_csv.png)
 
 Our first visualization of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
-
 
 ## References
 
