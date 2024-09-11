@@ -2,15 +2,19 @@
 
 Question: How much influence does an organization have on an open source community?
 
-## Description
-Organizational Influence is a measure of the influence that an organization has on an open source community. An organizations may influence the direction of a project, signaling some level of control within a community. This equates to the level of influence an organization has over the development trajectory of an open source project that it contributes to and has a vested interest in.
+## Overview
+Organizational measures the influence that an organization has on an open source community. An organization may influence the direction and development trajectory of a project, signaling some level of control within a community.This metric can help an open-source advocate in an organization justify continued funding and support for engagement. This metric can also help open source maintainers track and measure organizational influence to add legitimacy to their projects and monitor the level of control by individual organizations. An organization's influence may also serve as a signal of how easy or difficult it may be for new members to contribute to an open-source project. 
 
+## Want to Know More?
 
-## Objectives
-An organization can have influence in open source projects. The measure of an organization's influence can be enlightening on its own or serve as an opportunity to show growth in an organization's influence over time. This metric can help an open source advocate in an organization justify continued funding and support for engagement. This metric can also help open source maintainers track and measure organizational influence to add legitimacy to their project, and monitor the level of control by individual organizations. An organization's influence may also serve as a signal of how easy or difficult it may be for new members to contribute to an open source project. 
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Implementation
+### Data Collection Strategies 
+* Augur
+* GrimoireLab
 
+### Filter
 Some specific examples to consider when measuring organizational influence include: 
 
 * How many organizational members are contributing to a project - [contributors](https://chaoss.community/metric-contributors/). It can be understood as a ratio of (number of contributors from each organization with more than one contributor)/(number of contributors)
@@ -20,15 +24,16 @@ Some specific examples to consider when measuring organizational influence inclu
 * Organizational members on governing board
 * Organizational members in project maintainer roles 
 * Organizations sponsoring an open source project as a proportion of the total
+</details></span>  
 
-### Tools Providing the Metric
-
-* Augur
-* GrimoireLab
+## References
+- [Augur](https://augurlabs.io/)
+- [GrimoireLab](https://chaoss.github.io/grimoirelab/)
 
 ## Contributors
 * Sean Goggins
 * Matt Germonprez
+* Georg Link
 * Vinod Ahuja
 * Kevin Lumbard 
 * Lawrence Hecht
@@ -37,3 +42,13 @@ Some specific examples to consider when measuring organizational influence inclu
 * Elizabeth Barron
 * Matt Broberg
 * Stephen Jacobs
+* Peculiar C Umeh
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/organizational-value/organizational-influence.md)
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3560](https://chaoss.community/?p=3560)
+
+<!-- # For groupings in the knowledge base
+Context tags: Organization, Contributions
+Keyword tags: Company impact, signal, control
+-->
