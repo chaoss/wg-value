@@ -72,7 +72,6 @@ Net recommendability is inspired by the [Net Promoter Score](https://www.surveym
 ## References
 * [Net Promoter Score Definition and Formula](https://www.surveymonkey.com/mp/net-promoter-score-definition-formula/)
 * https://www.ipsos.com/en-us/net-promoter-debate
-* https://www.ipsos.com/en/ipsos-encyclopedia-net-promoter-score-nps 
 
 
 ## Contributors
