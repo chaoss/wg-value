@@ -1,12 +1,12 @@
 # Project Recommendability
 
-Question: How likely is it that you would recommend a community or project to other people? 
+**Question:** How likely is it that you would recommend a community or project to other people? 
 
-### Overview
+## Overview
 
 The project recommendability metric seeks to understand two components of community engagement. First, it assesses how happy people are with their participation in a particular community or project. Second, the metric helps to track how much community members are willing to promote (or detract from) participation in a particular community or project. Evaluating the contributors’ satisfaction within a community or project, helps a maintainer/community determine reasons contributors may leave a community or project or reasons that can discourage others from joining. The findings from this evaluation would assist your community in setting up a process to improve itself through the cultivation of community members retention strategy. The project recomendability metric also identifies areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. The project recommendability metric can be used to develop net recommendabilty.
 
-### Want to Know More?
+## Want to Know More?
 
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
@@ -69,12 +69,12 @@ Net recommendability is inspired by the [Net Promoter Score](https://www.surveym
 </details></span>
 
 
-### References
+## References
 * [Net Promoter Score Definition and Formula](https://www.surveymonkey.com/mp/net-promoter-score-definition-formula/)
 * https://www.ipsos.com/en-us/net-promoter-debate
 
 
-### Contributors
+## Contributors
 * Yehui Wang 
 * Matt Germonprez 
 * Sean Goggins 
@@ -84,7 +84,7 @@ Net recommendability is inspired by the [Net Promoter Score](https://www.surveym
 * Peculiar C Umeh
 
 
-### Additional Information
+## Additional Information
 To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-recommendability.md
 
 To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3574](https://chaoss.community/?p=3574)
