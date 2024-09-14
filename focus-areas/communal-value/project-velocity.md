@@ -1,13 +1,21 @@
 # Project Velocity
 
-Question: What is the development speed for an organization?
+**Question:** What is the development speed for an organization?
 
-### Overview
+## Overview
 
-Project velocity measures the number of issues, the number of pull requests, volume of commits, and number of contributors as an indicator of 'innovation'. It gives an Open Source Program Office (OSPO) manager a way to compare the project velocity across a portfolio of projects. The Open Source Program Office (OSPO) manager can use the Project Velocity metric to report project velocity of open source projects vs in-house projects, compare project velocity across a portfolio of projects, identify which projects grow beyond internal contributors (when filtering internal vs. external contributors), identify promising areas in which to get involved and highlight areas likely to be the successful platforms over the next several years. [See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
+Project velocity measures the number of issues, the number of pull requests, volume of commits, and number of contributors as an indicator of 'innovation'. It gives an Open Source Program Office (OSPO) manager a way to compare the project velocity across a portfolio of projects. A team’s velocity may show the effects of incorporating diverse viewpoints, such as more comprehensive solutions or faster problem resolution. A significant decrease in velocity could signal a lack of diversity in decision-making or an environment where diverse perspectives aren’t valued.
 
 
-### Want to Know More?
+The Open Source Program Office (OSPO) manager can use the Project Velocity metric to:
+* report project velocity of open source projects vs in-house projects.
+* compare project velocity across a portfolio of projects.
+* identify which projects grow beyond internal contributors (when filtering internal vs. external contributors)
+* identify promising areas in which to get involved and highlight areas likely to be the successful platforms over the next several years. [See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
+
+
+## Want to Know More?
+
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
 
@@ -36,7 +44,7 @@ Base metrics include:
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 </details></span>
 
-### References
+## References
 
 - [Can Open Source Innovation work in the Enterprise?][l1]
 - [Open Innovation for a High Performance Culture][l2]
@@ -52,13 +60,13 @@ Base metrics include:
 [l4]: https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects
 
 
-### Contributors
+## Contributors
 - Elizabeth Barron
 - Georg Link
 - Matt Germonprez
 - Peculiar C Umeh
 
-### Additional Information
+## Additional Information
 To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-velocity.md)
 
 To reference this metric in software or publications please use this stable URL:[https://chaoss.community/?p=3572](https://chaoss.community/?p=3572)
