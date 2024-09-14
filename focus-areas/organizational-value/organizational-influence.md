@@ -3,7 +3,7 @@
 **Question:** How much influence does an organization have on an open source community?
 
 ## Overview
-Organizational measures the influence that an organization has on an open source community. An organization may influence the direction and development trajectory of a project, signaling some level of control within a community.This metric can help an open-source advocate in an organization justify continued funding and support for engagement. This metric can also help open source maintainers track and measure organizational influence to add legitimacy to their projects and monitor the level of control by individual organizations. An organization's influence may also serve as a signal of how easy or difficult it may be for new members to contribute to an open-source project. 
+Organizational Influence measures the influence that an organization has on an open source community. An organization may influence the direction and development trajectory of a project, signaling some level of control within a community.This metric can help an open-source advocate in an organization justify continued funding and support for engagement. This metric can also help open source maintainers track and measure organizational influence to add legitimacy to their projects and monitor the level of control by individual organizations. An organization's influence may also serve as a signal of how easy or difficult it may be for new members to contribute to an open-source project. 
 
 ## Want to Know More?
 
