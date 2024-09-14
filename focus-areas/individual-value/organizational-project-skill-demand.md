@@ -1,12 +1,12 @@
 # Organizational Project Skill Demand
 
-Question: How many organizations are using this project and could hire me if I become proficient?
+**Question:** How many organizations are using this project and could hire me if I become proficient?
 
 
-### Overview
+## Overview
 The Organization's Project Skill Demand metric is aimed at determining downstream demand of skills related to an open source project. This metric looks at organizations that deploy a project as part of an IT infrastructure, other open source projects with declared dependencies, and references to the project through social media, conference mentions, blog posts, and similar activities. Tracking this metric helps developers identify promising projects for career growth and contributes to project sustainability by indicating community engagement and potential for future development. While this metric doesn't directly address DEI issues, it can indirectly contribute by highlighting projects with diverse communities and inclusive practices.
 
-### Want to Know More?
+## Want to Know More?
 
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
@@ -47,7 +47,7 @@ StackOverview publishes an annual developer's survey
 
 </details></span>
 
-### References
+## References
 - [Open Source Sponsors][l1]
 - [Fiscal Sponsors and Open Source][l2]
 - [Large Corporate OpenSource Sponsors][l3]
@@ -64,14 +64,14 @@ StackOverview publishes an annual developer's survey
 [l6]: https://www.thoughtworks.com/radar
 [l7]: https://insights.stackoverflow.com/survey/2019#technology
 
-### Contributors
+## Contributors
 
 * Matt Germonprez
 * Kevin Lumbard
 * Georg Link
 * Peculiar C Umeh
 
-### Additional Information
+## Additional Information
 To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/organizational-project-skill-demand.md)
 
 To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3566](https://chaoss.community/?p=3566)
