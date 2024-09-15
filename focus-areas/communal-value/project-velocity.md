@@ -1,55 +1,43 @@
 # Project Velocity
 
-Question: What is the development speed for an organization?
+**Question: What is the development speed for an organization?**
 
-## Description
+## Overview
 
-Project velocity is the number of issues, the number of pull requests, volume
-of commits, and number of contributors as an indicator of 'innovation'.
+Project velocity measures the number of issues, the number of pull requests, volume of commits, and number of contributors as an indicator of 'innovation'. It gives an Open Source Program Office (OSPO) manager a way to compare the project velocity across a portfolio of projects.
+The Open Source Program Office (OSPO) manager can use the Project Velocity metric to report project velocity of open source projects vs in-house projects, compare project velocity across a portfolio of projects, identify which projects grow beyond internal contributors (when filtering internal vs. external contributors), identify promising areas in which to get involved and highlight areas likely to be the successful platforms over the next several years.
 
-## Objectives
 
-Gives an Open Source Program Office (OSPO) manager a way to compare the project
-velocity across a portfolio of projects.
+## Want to Know More?
 
-The OSPO manager can use the Project Velocity metric to:
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-- Report project velocity of open source projects vs in-house projects
-- Compare project velocity across a portfolio of projects
-- Identify which projects grow beyond internal contributors (when filtering internal vs. external contributors)
-- Identify promising areas in which to get involved
-- Highlight areas likely to be the successful platforms over the next several years
-
-[See Example](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects)
-
-## Implementation
-
-Base metrics include:
+### Data Collection Strategies 
+- CNCF - https://github.com/cncf/velocity
 - [issues closed](https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md)
 - [number of reviews](https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md)
 - [# of code changes](https://github.com/chaoss/wg-evolution/blob/master/metrics/Code_Changes.md)
 - [# of committers](https://github.com/chaoss/wg-risk/blob/master/metrics/Committers.md)
 
 ### Filters
-
-* Internal vs external contributors
-* Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
-* Time
+- Internal vs external contributors
+- Project sources (e.g., internal repositories, open-source repositories, and competitor open-source repositories)
+- Time
 
 ### Visualizations
 
-* X-Axis: Logarithmic scale for Code Changes
-* Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
-* Dot-size: Committers
-* Dots are projects
+- X-Axis: Logarithmic scale for Code Changes
+- Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
+- Dot-size: Committers
+- Dots are projects
 
 ![cncf](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-velocity_visualization.png)
 
 [From CNCF](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/)
 
-### Tools providing the Metric
+</details></span>
 
-* CNCF - https://github.com/cncf/velocity
 
 ## References
 
@@ -65,3 +53,22 @@ Base metrics include:
 [l3]: https://www.cio.com/article/3213146/open-source-is-powering-the-digital-enterprise.html
 
 [l4]: https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects
+
+
+## Contributors
+* Elizabeth Barron
+* Georg Link
+* Matt Germonprez
+* Peculiar C Umeh
+
+
+## Additional Information
+To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-velocity.md)
+
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3572](https://chaoss.community/?p=3572)
+
+<!-- # For groupings in the knowledge base
+Context tags: Software, Platforms, Contributions
+Keyword tags: Speed, activity, volume, issues, reviews, commits
+-->
+
