@@ -32,8 +32,8 @@ The Open Source Program Office (OSPO) manager can use the Project Velocity metri
 *   Y-Axis: Logarithmic scale of Sum of Number of Issues and Number of Reviews
 *   Dot-size: Committers
 *   Dots are projects
-
-![cncf](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-velocity_visualization.png)
+    [CNCF](https://github.com/cncf/velocity)
+    ![cncf](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-velocity_visualization.png)
 
 </details></span>
 
