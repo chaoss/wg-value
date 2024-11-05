@@ -1,31 +1,55 @@
 # Job Opportunities
 
-Question: How many job postings request skills with technologies from a project?
+**Question:** How many job postings request skills with technologies from a project?
 
-## Description
-A common way for open source contributors to earn a living wage is to be employed by a company or be a self-employed or freelance developer. Skills in a specific project may improve a job applicant’s prospects of getting a job. The most obvious indicator for demand related to a skill learned in a specific open source project is when that project or its technology is included in job postings. This metric is limited to individual projects but engagement in open source can be beneficial for other reasons. This metric could be tweaked to look beyond a single project  and instead use related skills such as programming languages, processes, open source experience, or frameworks as search parameters for jobs.
+## Overview
+This metric measures the demand for skills related to an open source project, as seen through job postings requesting those skills. By tracking mentions of specific projects or technologies in job listings, contributors can gauge how skills learned in an open source project impact job prospects and the broader job market demand for that expertise.
 
-## Objectives
-The metric gives contributors a sense of how much skills learned in a specific open source project are valued by companies. 
+This metric provides insight into how companies value skills associated with a project, which can inform contributors’ career development. It also highlights trends in the tech job market, helping individuals and organizations make informed decisions about skill development and project engagement.
 
-## Implementation
-To obtain this metric on a job search platform (e.g., LinkedIn, Indeed, or Dice), go to the job search and type in the name of the open source project. The number of returned job postings is the metric. Periodically collecting the metric through an API of a job search platform and storing the results allows to see trends.
+## Want to Know More?
+
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
+
+### Data Collection Strategies
+- **Job Search Platforms:**  
+  Search for the open source project’s name on platforms like LinkedIn, Indeed, or Dice. Record the number of job postings returned, indicating demand for skills related to the project.
+- **API Use:**  
+  Periodically collect data using APIs from job platforms to monitor job posting trends over time. Example platforms include:
+  - [LinkedIn Job Search API](https://developer.linkedin.com/docs/v1/jobs/job-search-api#)
+  - [Indeed Job Search API](https://opensource.indeedeng.io/api-documentation/docs/job-search/)
+  - [Dice.com Job Search API](http://www.dice.com/external/content/documentation/api.html)
+  - [Monster Job Search API](https://partner.monster.com/job-search)
+  - [ZipRecruiter API (Requires Partnership)](https://www.ziprecruiter.com/zipsearch)
 
 ### Filters
-* Age of job posting; postings get stale and may not be removed when filled
-
+- **Posting Age:** Older postings may no longer be active, so filtering by posting date ensures more accurate, relevant data.
+  
 ### Visualizations
-The metric can be extended by looking at:
+None Provided
 
-* Salary ranges for jobs returned
-* Level of seniority for jobs returned
-* Availability of jobs like on-site or off-site
-* Location of job
-* Geography
+</details></span><br>
 
 ## References
-* LinkedIn Job Search API: https://developer.linkedin.com/docs/v1/jobs/job-search-api#
-* Indeed Job Search API: https://opensource.indeedeng.io/api-documentation/docs/job-search/ 
-* Dice.com Job Search API: http://www.dice.com/external/content/documentation/api.html
-* Monster Job Search API: https://partner.monster.com/job-search
-* Ziprecruiter API (Requires Partnership): https://www.ziprecruiter.com/zipsearch
+- [LinkedIn Job Search API](https://developer.linkedin.com/docs/v1/jobs/job-search-api#)
+- [Indeed Job Search API](https://opensource.indeedeng.io/api-documentation/docs/job-search/)
+- [Dice.com Job Search API](http://www.dice.com/external/content/documentation/api.html)
+- [Monster Job Search API](https://partner.monster.com/job-search)
+- [ZipRecruiter API (Requires Partnership)](https://www.ziprecruiter.com/zipsearch)
+
+## Contributors
+- Matt Germonprez
+- Sean Goggins
+- Elizabeth Barron
+- Georg Link
+- Yigakpoa L. Samuel
+
+## Additional Information
+To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/job-opportunities.md).  
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3567](https://chaoss.community/?p=3567)
+
+<!-- # For groupings in the knowledge base
+Context tags: Career Development, Market Demand, Skill Valuation
+Keyword tags: Job Market, Open Source Skills, Professional Growth, OSPO Impact
+-->
