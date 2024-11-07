@@ -19,7 +19,6 @@ This metric provides insight into how companies value skills associated with a p
   Periodically collect data using APIs from job platforms to monitor job posting trends over time. Example platforms include:
   - [LinkedIn Job Search API](https://developer.linkedin.com/docs/v1/jobs/job-search-api#)
   - [Indeed Job Search API](https://opensource.indeedeng.io/api-documentation/docs/job-search/)
-  - [Dice.com Job Search API](http://www.dice.com/external/content/documentation/api.html)
   - [Monster Job Search API](https://partner.monster.com/job-search)
   - [ZipRecruiter API (Requires Partnership)](https://www.ziprecruiter.com/zipsearch)
 
@@ -34,7 +33,6 @@ None Provided
 ## References
 - [LinkedIn Job Search API](https://developer.linkedin.com/docs/v1/jobs/job-search-api#)
 - [Indeed Job Search API](https://opensource.indeedeng.io/api-documentation/docs/job-search/)
-- [Dice.com Job Search API](http://www.dice.com/external/content/documentation/api.html)
 - [Monster Job Search API](https://partner.monster.com/job-search)
 - [ZipRecruiter API (Requires Partnership)](https://www.ziprecruiter.com/zipsearch)
 
