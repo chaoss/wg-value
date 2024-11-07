@@ -1,48 +1,75 @@
 # Project Popularity
-Question: How popular is an open source project?  
 
-## Description  
-Project popularity can be measured by how much activity is visible around a project. Popularity has a positive feedback loop in which more popular projects get more attention, attract more users or developers, and see increases in popularity, spinning the popularity wheel.
+**Question:** How popular is an open source project?
 
-Project popularity may be used as a proxy for understanding project value because open source project economic value is hard to measure, due to a lack of available usage or sales information for open source projects.
+## Overview
+Project popularity measures the level of visibility and engagement around an open source project by tracking various data points, such as social media mentions, forks, stars, contributors, and downstream dependencies. These indicators reflect community interest and adoption rates, providing insights into a project's reach and potential impact.
 
-## Objectives  
-In a quest to earn a living wage, and to maximize future employment opportunities, workers may be interested in knowing which projects are growing and are underserved. Similarly, from an organizational perspective, knowing which projects are highly used can be helpful in knowing which projects might be worth investing in. The Project Popularity metric can be used to identify the trajectory of a project’s development.
+Measuring project popularity helps inform project health and sustainability by identifying growth trends, which may indicate an increase in active use and contributions. A popular project is often seen as more valuable, both for individual contributors looking to work on impactful projects and for organizations considering where to invest resources. Popularity also helps reveal underserved projects with growth potential, which may present valuable opportunities for contributors and stakeholders.
 
-## Implementation
-The project popularity metric is often considered with changes over time. There are numerous example vectors to consider when measuring project popularity based on the number of:
+## Want to Know More?
 
-1. Social media mentions
-1. Forks
-1. [Change requests](https://chaoss.community/metric-change-requests/)
-1. [New Issues](https://chaoss.community/metric-issues-new/)
-1. Stars, badges, likes
-1. [New contributors](https://chaoss.community/metric-new-contributors/)
-1. [Organizational Diversity](https://chaoss.community/metric-organizational-diversity/)
-1. Job postings requesting skills in project
-1. Conversations within and outside of project
-1. Clones
-1. Followers
-1. Downstream dependencies
-1. People attending events that focus on a project
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
+
+### Data Collection Strategies 
+To measure project popularity, collect data points from:
+- Social media mentions
+- Forks
+- Change requests
+- New Issues
+- Stars, badges, likes
+- New contributors
+- Organizational Diversity
+- Job postings requesting skills in project
+- Conversations within and outside of project
+- Clones
+- Followers
+- Downstream dependencies
+- People attending events that focus on a project
+
+Data can also be gathered through platforms like GitHub, GitLab, social media, and job sites.
+
+### Filters 
+- **Time Period:** Measure changes in popularity over specific intervals.
+- **Platform:** Compare popularity metrics across GitHub, GitLab, or other hosting services.
+- **Project Type:** Filter based on project categories, such as libraries, tools, or frameworks.
 
 ### Visualizations
+- **Example Visualization 1:** Issues and reviews visualization from Cauldron (GrimoireLab).  
+  ![Issues and reviews](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_issues-and-reviews.png)  
+  *Figure 1: Issues and reviews (Cauldron, 2023)*
 
-Issues and reviews (change requests) visualization from Cauldron (GrimoireLab):
+- **Example Visualization 2:** Kubernetes project popularity statistics from DevStats.  
+  ![Kubernetes_project_popularity](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_kubernetes.png)  
+  *Figure 2: Kubernetes project popularity statistics (DevStats, 2023)*
 
-![Issues and reviews](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_issues-and-reviews.png)
-
-Kubernetes project popularity statistics from DevStats:
-
-![Kubernetes_project_popularity](https://raw.githubusercontent.com/chaoss/wg-value/main/focus-areas/communal-value/images/project-popularity_kubernetes.png)
-
-### Tools Providing the Metric
-* [Augur](https://github.com/chaoss/augur)
-* [GrimoireLab](https://chaoss.github.io/grimoirelab/)
-* [Cauldron](https://cauldron.io/)
+</details></span><br>
 
 ## References
-- [Popular OpenSource Projects](http://blog.honeypot.io/most-exciting-open-source-projects-2018/)
+- [Popular Open Source Projects](http://blog.honeypot.io/most-exciting-open-source-projects-2018/)
 - [Is It Maintained?](https://isitmaintained.com/)
 - [Open Source Project Trends](https://github.blog/2018-02-08-open-source-project-trends-for-2018/)
 - [Kubernetes Salary](https://www.payscale.com/research/US/Skill=Kubernetes/Salary)
+
+## Contributors
+- Kevin Lumbard
+- Justin W. Flory
+- Matt Germonprez
+- Elizabeth Barron
+- Matt Cantu
+- Lauren Phipps
+- Joshua Simmons
+- Vinod Ahuja
+- Georg Link
+- Sean Goggins
+- Yigakpoa L. Ikpae
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-popularity.md).  
+To reference this metric in software or publications please use this stable URL: https://chaoss.community/?p=3573
+
+<!-- # For groupings in the knowledge base
+Context tags: Community, Open Source
+Keyword tags: Popularity, Visibility, Engagement, Contributors, Investment
+-->
