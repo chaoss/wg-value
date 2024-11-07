@@ -1,46 +1,44 @@
 # Academic Open Source Project Impact
 
-Question: What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process? 
+**Question:** What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process?
 
-## Description
-Academics need to show evidence of their scholarly output in tenure and promotion cases. Creating an open source project may be an impactful contribution and this metric helps to show this. This metric is for a new project that was created as part of an academic job and released as open source. This metric is not related to open source contributions made to an existing open source project.
+## Overview
+This metric measures the impact of new open source projects created by academicians as part of their academic role, with the purpose of supporting reappointment, tenure, and promotion (RPT) cases. It focuses on contributions released as open source by a researcher or team to showcase scholarly impact and engagement. Understanding this metric can help gauge the reach, influence, and longevity of these open source projects by examining aspects like community growth, citation count, and downstream dependencies.
 
-## Objectives
-The goal is to support RPT (Reappointment, Tenure, and Promotion) by drawing forward key open source impact measures, such as: 
-* Understanding the scope of the community around the created open source project 
-* Understanding the growth, maturity, or decline of the open source project 
-* Identifying other projects that depend on your project 
-* Identifying journal articles that reference your project
+This metric highlights the importance of open source software as a scholarly output, potentially equal to traditional publications in academia. It also promotes greater recognition of open source projects, which can contribute to sustainable, community-driven research software and transparency in academia. 
 
-## Implementation
+In terms of DEI, this metric encourages inclusive access to research through open source, making scholarly contributions accessible to a broader, global audience regardless of institutional affiliations or financial constraints.
 
-Some ideas for how to measure Academic Open Source Project Impact:
-* Impact measured through publication in Journal of Open Source Software
-* Number of downstream-dependencies of software in consideration 
-* Something similar to H-Index (doesn’t currently exist)
-* CiteAs API provides standardized citations for open source software
-* Number of downloads
-* [Number of contributors](https://chaoss.community/metric-contributors/)
-* Number of software/library citations
-* Number of stars (GitHub)
-* Number of published articles that cite the software or project
-* Downloads of pre-prints that cite the software or project
-* [Regularity of updates](https://chaoss.community/metric-activity-dates-and-times/)
-* Lines of Code
-* Number of community contributions, not from the research team
-* Downstream dependencies
+## Want to Know More?
 
-### Tools Providing the Metric
-* GrimoireLab
-* Augur
-* [CiteAS](https://citeas.org/)
-* [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-* [GitHub Citation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
-* [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
-* Center for Open Science OSF (Open Science Framework)
-* [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## References 
+### Data Collection Strategies
+Data points to consider:
+* Publication in open access journals like the Journal of Open Source Software
+* Number of downstream dependencies of the software
+* Standardized citations via the CiteAs API
+* Number of downloads or stars (e.g., GitHub)
+* Number of contributors from outside the research team
+* Frequency and recency of project updates
+* Number of publications that cite the project or related software
+* Lines of code contributed over time
+* Number of preprints or journal articles referencing the software
+
+### Filters
+Potential filters include:
+* Project type (e.g., software, library, dataset)
+* Academic discipline or field
+* Platform (e.g., GitHub, arXiv, JOSS)
+* Contribution types (e.g., internal vs. external contributors)
+
+### Visualizations
+None Provided
+
+</details></span><br>
+
+## References
 * [GitHub Citation Guidelines for Software](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files)
 * [arXiv.org code](https://blog.arxiv.org/2020/10/08/new-arxivlabs-feature-provides-instant-access-to-code/)
 * [ResearchStory](https://www.researchstory.com/)
@@ -61,3 +59,13 @@ Some ideas for how to measure Academic Open Source Project Impact:
 * Georg Link
 * Sean P Goggins
 * Johan Linaker
+* Yigakpoa L. Ikpae
+
+## Additional Information
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/academic-value/academic-open-source-project-impact.md).
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3583](https://chaoss.community/?p=3583)
+
+<!-- # For groupings in the knowledge base
+Context tags: Academia, Open Source, Impact
+Keyword tags: Open Source Projects, Research Impact, Scholarly Output, Tenure and Promotion, Academic Software
+-->
