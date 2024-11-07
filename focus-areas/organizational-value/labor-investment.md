@@ -1,14 +1,11 @@
 # Labor Investment
 
-Question: What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
+**Question:** What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?
 
-## Description
+## Overview
+Labor Investment tracks the monetary commitment organizations make in supporting open source projects through employee contributions. This metric assesses the labor costs incurred by organizations, providing transparency in the financial commitment tied to open source engagement.
 
-Open source projects are often supported by organizations through labor investment. This metric tracks the monetary investment of organizations (as evident in labor costs) to individual projects.
-
-## Objectives 
-
-As organizational engagement with open source projects becomes increasingly important, it is important for organization to clearly understand their labor investment. The objective of this metric is to improve transparency in labor costs for organizations engaged with open source projects. This metric gives an Open Source Program Office (OSPO) manager a way to compare contributed labor costs across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
+Measuring labor investment informs organizational health and sustainability by highlighting the level of resources committed to open source projects. For Open Source Program Office (OSPO) managers, this metric offers insights into prioritizing resources, justifying budgets, and understanding the return on investment (ROI) across a portfolio of projects. For example, the Labor Investment metric can be used to prioritize investment or determine return on investment such as:
 
   * Labor Investment as a means of evaluating OSPO priorities and justifying budgets
   * Labor Investment as a way to explain product/program management priority
@@ -16,39 +13,51 @@ As organizational engagement with open source projects becomes increasingly impo
   * Labor Investment to report and compare labor costs of contributed vs in-house work
   * Labor Investment to compare project effectiveness across a portfolio of projects
 
-## Implementation
+## Want to Know More?
 
-Base metrics include:
-- Number of contributions
-- Number of contributions broken out by contributor types (internal / external)
-- Number of contributions broken out by contribution types (e.g., commits, issues, pull requests)
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-Parameters include:
-- Hourly labor rate
-- Average labor hours to create contribution (by contribution type)
+### Data Collection Strategies
+- **Quantitative Data:**
+  - Count contributions by type (e.g., commits, issues, pull requests).
+  - Break down contributions by contributor types (internal vs. external).
+  - Track the average hours spent per contribution type and multiply by hourly labor rates to calculate total labor costs.
 
-Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours to create contribution * Average hourly rate)
+- **Calculation:**  
+  Labor Investment = For each contribution type, sum (Number of contributions * Average labor hours per contribution * Average hourly rate).
 
 ### Filters
-
-* Internal vs external contributors
-* Issue tags
-* Project sources (e.g., internal, open-source repos, competitor open-source repos)
+- **Contributor Types:** Filter by internal vs. external contributors to understand organizational versus community labor.
+- **Contribution Types:** Focus on specific contribution types like commits, issues, or pull requests.
+- **Project Source:** Differentiate between internal, open-source, or competitor open-source repositories.
 
 ### Visualizations
+- **Example Visualization:** CSV export with parameterized metrics.  
+  ![CSV Export](https://github.com/chaoss/wg-value/blob/main/focus-areas/organizational-value/images/labor-investment_csv.png)  
+  *Figure 1: Labor investment visualization using CSV export (CHAOSS, 2023)*
 
-![csv](https://github.com/chaoss/wg-value/blob/main/focus-areas/organizational-value/images/labor-investment_csv.png)
-
-Our first visualization of parameterized metrics rely on CSV exports that can be made available from Augur. Spreadsheets are used for metric parameters and calculation formulas.  Future implementations may add features for parameter manipulation directly in the webapp.
+</details></span><br>
 
 ## References
+- [Starting an Open Source Program Office](https://www.slideshare.net/caniszczyk/starting-an-open-source-program-office-ospo)
+- [Creating an Open Source Program Office](https://events19.linuxfoundation.org/wp-content/uploads/2018/07/OSLS_2019-untold-story-of-OSPO.pdf)
+- [Open Source in the Enterprise](https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf)
 
-- [Starting an Open Source Program Office][l1]
-- [Creating an Open Source Program Office][l2]
-- [Open Source in the Enterprise][l3]
+## Contributors
+- Matt Germonprez
+- Sean Goggins
+- Dawn Foster
+- Vinod Ahuja
+- Elizabeth Barron
+- Georg Link
+- Yigakpoa L. Samuel
 
-[l1]: https://www.slideshare.net/caniszczyk/starting-an-open-source-program-office-ospo
+## Additional Information
+To edit this metric, please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/organizational-value/labor-investment.md).  
+To reference this metric in software or publications, please use this stable URL: [https://chaoss.community/?p=3559](https://chaoss.community/?p=3559)
 
-[l2]: https://events19.linuxfoundation.org/wp-content/uploads/2018/07/OSLS_2019-untold-story-of-OSPO.pdf
-
-[l3]: https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf
+<!-- # For groupings in the knowledge base
+Context tags: Open Source, OSPO, Cost Analysis
+Keyword tags: Labor Cost, ROI, Contribution Types, Budget Justification
+-->
