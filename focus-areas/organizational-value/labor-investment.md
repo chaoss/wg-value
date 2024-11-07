@@ -61,4 +61,3 @@ To reference this metric in software or publications, please use this stable URL
 Context tags: Open Source, OSPO, Cost Analysis
 Keyword tags: Labor Cost, ROI, Contribution Types, Budget Justification
 -->
-[l3]: https://d1.awsstatic.com/Open%20Source/enterprise-oss-book.pdf
