@@ -1,6 +1,6 @@
 # Organizational Influence
 
-**Question: How much influence does an organization have on an open source community?**
+**Question:** How much influence does an organization have on an open source community?
 
 ## Overview
 
@@ -25,7 +25,7 @@ Examples to consider when measuring organizational influence include:
 *   Organizational members in project maintainer roles
 *   Organizations sponsoring an open source project as a proportion of the total
 
-</details></span>
+</details></span><br>
 
 ## References
 
