@@ -1,6 +1,6 @@
 # Organizational Project Skill Demand
 
-**Question: How many organizations are using this project and could hire me if I become proficient?**
+**Question:** How many organizations are using this project and could hire me if I become proficient?
 
 ## Overview
 
@@ -45,7 +45,7 @@ StackOverview publishes an annual developer's survey
 
 ![StackOverflow](https://github.com/chaoss/wg-value/blob/main/focus-areas/individual-value/images/organizational-project-skill-demand_stack-overflow.png)
 
-</details></span>
+</details></span><br>
 
 ## References
 
