@@ -4,7 +4,7 @@
 
 ## Overview
 
-Project recommendability measures two components of community engagement. First, it assesses how happy people are with their participation in a particular community or project. Second, the metric helps to track how much community members are willing to promote (or detract from) participation in a particular community or project. Evaluating the contributors’ satisfaction within a community or project, helps a maintainer/community determine reasons contributors may leave a community or project or reasons that can discourage others from joining. The findings from this evaluation would assist your community in setting up a process to improve itself through the cultivation of community members retention strategy. The project recomendability metric also identifies areas of an open source project where contributors are dissatisfied or leaving. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. The project recommendability metric can be used to develop net recommendabilty.
+Project recommendability metric seeks to understand two components of community engagement: satisfaction and advocacy. Evaluating the contributors’ satisfaction within a community or project, helps a maintainer/community determine reasons contributors may leave a community or project or discourage others from joining in. The findings from this evaluation would assist your community or project in setting up a process to improve itself through the cultivation of a community member retention strategy. The project recomendability metric also identifies areas of an open source project where contributors are dissatisfied or discontinuing their contribution. This metric could indicate underlying diversity, equity, and inclusion concerns that may be present in a project. The project recommendability metric can be used to develop net recommendabilty.
 
 ## Want to Know More?
 
@@ -21,7 +21,7 @@ Implicit Data:
 
 Explicit Data:
 
-*   Surveys focused on obtaining contributor perspectives on different communities and contributors. Sample questions include:
+*   Surveys focused on obtaining contributor perspectives on different communities and projects. Sample questions include:
     *   Could you specify where you primarily contribute to the community/project?
     *   What aspects of this project do you find exceptionally motivating?
     *   What aspects of this project do you want to see improved in the future?
@@ -87,7 +87,7 @@ Net recommendability is inspired by the [Net Promoter Score](https://www.surveym
 
 ## Additional Information
 
-To edit this metric please \[submit a Change Request here]\( https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-recommendability.md
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-value/blob/main/focus-areas/communal-value/project-recommendability.md)
 
 To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3574>
 
