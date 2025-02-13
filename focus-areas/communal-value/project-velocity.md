@@ -5,7 +5,7 @@
 ## Overview
 
 Project velocity measures the number of issues, the number of pull requests, volume of commits, and number of contributors as an indicator of innovation. It gives an Open Source Program Office (OSPO) manager a way to compare the project velocity across a portfolio of projects.
-The Open Source Program Office (OSPO) manager can use the Project Velocity metric to report project velocity of open source projects vs in-house projects, compare project velocity across a portfolio of projects, identify which projects grow beyond internal contributors (when filtering internal vs. external contributors), identify promising areas in which to get involved and highlight areas likely to be the successful platforms over the next several years.
+Open Source Program Office (OSPO) manager can use the Project Velocity metric to: report project velocity of open source projects vs in-house projects, compare project velocity across a portfolio of projects, identify promising areas in which to get involved and highlight areas likely to be the successful platforms over the next several years
 
 ## Want to Know More?
 
